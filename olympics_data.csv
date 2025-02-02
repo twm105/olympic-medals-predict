@@ -1,0 +1,1687 @@
+games,summer,team,gold,silver,bronze,total,games_city,games_year,games_country,team_match,population,gdp_pc,home_team_match,home_team
+Athens 1896,1.0,United States of America,11,7,2,20,Athens ,1896,Greece,United States,71161.0,6885.67,Greece,0
+London 1908,1.0,United States of America,23,12,12,47,London ,1908,United Kingdom,United States,89055.0,8975.98,United Kingdom,0
+Stockholm 1912,1.0,United States of America,26,19,19,64,Stockholm ,1912,Sweden,United States,95703.0,9976.57,Sweden,0
+Antwerp 1920,1.0,United States of America,41,27,27,95,Antwerp ,1920,Belgium,United States,106881.0,10152.93,Belgium,0
+Paris 1924,1.0,United States of America,45,27,27,99,Paris ,1924,France,United States,114558.0,11126.71,France,0
+Chamonix 1924,0.0,United States of America,1,2,1,4,Chamonix ,1924,France,United States,114558.0,11126.71,France,0
+Amsterdam 1928,1.0,United States of America,22,18,16,56,Amsterdam ,1928,Netherlands,United States,120971.0,11451.07,Netherlands,0
+St. Moritz 1928,0.0,United States of America,2,2,2,6,St. Moritz ,1928,Switzerland,United States,120971.0,11451.07,Switzerland,0
+Lake Placid 1932,0.0,United States of America,6,4,2,12,Lake Placid ,1932,United States,United States,125436.0,8380.5,United States,1
+Los Angeles 1932,1.0,United States of America,44,36,30,110,Los Angeles ,1932,United States,United States,125436.0,8380.5,United States,1
+Garmisch-Partenkirchen 1936,0.0,United States of America,1,0,3,4,Garmisch-Partenkirchen ,1936,Germany,United States,128681.0,10568.01,Germany,0
+Berlin 1936,1.0,United States of America,24,21,12,57,Berlin ,1936,Germany,United States,128681.0,10568.01,Germany,0
+St. Moritz 1948,0.0,United States of America,3,4,2,9,St. Moritz ,1948,Switzerland,United States,147203.0,14734.23,Switzerland,0
+London 1948,1.0,United States of America,38,27,19,84,London ,1948,United Kingdom,United States,147203.0,14734.23,United Kingdom,0
+Helsinki 1952,1.0,United States of America,40,19,17,76,Helsinki ,1952,Finland,United States,157553.0,16444.0,Finland,0
+Oslo 1952,0.0,United States of America,4,6,1,11,Oslo ,1952,Norway,United States,157553.0,16444.0,Norway,0
+Melbourne 1956,1.0,United States of America,32,25,17,74,Melbourne ,1956,Australia,United States,168903.0,17397.0,Australia,0
+Squaw Valley 1960,0.0,United States of America,3,4,3,10,Squaw Valley ,1960,United States,United States,180671.0,18057.0,United States,1
+Rome 1960,1.0,United States of America,34,21,16,71,Rome ,1960,Italy,United States,180671.0,18057.0,Italy,0
+Innsbruck 1964,0.0,United States of America,1,2,4,7,Innsbruck ,1964,Austria,United States,191889.0,20360.0,Austria,0
+Tokyo 1964,1.0,United States of America,36,26,28,90,Tokyo ,1964,Japan,United States,191889.0,20360.0,Japan,0
+Mexico City 1968,1.0,United States of America,45,28,34,107,Mexico City ,1968,Mexico,United States,200706.0,23691.0,Mexico,0
+Grenoble 1968,0.0,United States of America,1,5,1,7,Grenoble ,1968,France,United States,200706.0,23691.0,France,0
+Sapporo 1972,0.0,United States of America,3,2,3,8,Sapporo ,1972,Japan,United States,209896.0,25414.0,Japan,0
+Munich 1972,1.0,United States of America,33,31,30,94,Munich ,1972,Germany,United States,209896.0,25414.0,Germany,0
+Montreal 1976,1.0,United States of America,34,35,25,94,Montreal ,1976,Canada,United States,218035.0,27058.0,Canada,0
+Innsbruck 1976,0.0,United States of America,3,3,4,10,Innsbruck ,1976,Austria,United States,218035.0,27058.0,Austria,0
+Lake Placid 1980,0.0,United States of America,6,4,2,12,Lake Placid ,1980,United States,United States,227726.0,29611.0,United States,1
+Sarajevo 1984,0.0,United States of America,4,4,0,8,Sarajevo ,1984,Bosnia and Herzegovina,United States,236348.0,32076.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,United States of America,83,61,30,174,Los Angeles ,1984,United States,United States,236348.0,32076.0,United States,1
+Seoul 1988,1.0,United States of America,36,31,27,94,Seoul ,1988,South Korea,United States,245021.0,35863.0,Republic of Korea,0
+Calgary 1988,0.0,United States of America,2,1,3,6,Calgary ,1988,Canada,United States,245021.0,35863.0,Canada,0
+Albertville 1992,0.0,United States of America,5,4,2,11,Albertville ,1992,France,United States,257037.0,37240.3,France,0
+Barcelona 1992,1.0,United States of America,37,34,37,108,Barcelona ,1992,Spain,United States,257037.0,37240.3,Spain,0
+Lillehammer 1994,0.0,United States of America,6,5,2,13,Lillehammer ,1994,Norway,United States,263662.0,38807.28,Norway,0
+Atlanta 1996,1.0,United States of America,44,32,25,101,Atlanta ,1996,United States,United States,269944.0,40412.75,United States,1
+Nagano 1998,0.0,United States of America,6,3,4,13,Nagano ,1998,Japan,United States,276417.0,43072.76,Japan,0
+Sydney 2000,1.0,United States of America,37,24,32,93,Sydney ,2000,Australia,United States,282738.0,45886.47,Australia,0
+Salt Lake City 2002,0.0,United States of America,10,13,11,34,Salt Lake City ,2002,United States,United States,288212.0,46266.3,United States,1
+Athens 2004,1.0,United States of America,36,39,26,101,Athens ,2004,Greece,United States,293402.0,48492.72,Greece,0
+Beijing 2008,1.0,United States of America,36,39,37,112,Beijing ,2008,China,United States,304714.0,50275.75,China,0
+Vancouver 2010,0.0,United States of America,9,15,13,37,Vancouver ,2010,Canada,United States,309957.0,49266.92,Canada,0
+London 2012,1.0,United States of America,46,28,30,104,London ,2012,United Kingdom,United States,314514.0,50394.0,United Kingdom,0
+Sochi 2014,0.0,United States of America,9,9,10,28,Sochi ,2014,Russia,United States,319036.0,51664.0,Russian Federation,0
+Rio 2016,1.0,United States of America,46,37,38,121,Rio ,2016,Brazil,United States,323730.0,53015.0,Brazil,0
+PyeongChang 2018,0.0,United States of America,9,8,6,23,PyeongChang ,2018,South Korea,United States,327835.0,55334.74,Republic of Korea,0
+Tokyo 2020,1.0,United States of America,39,41,33,113,Tokyo ,2020,Japan,United States,,,Japan,0
+Athens 1896,1.0,Greece,10,18,19,47,Athens ,1896,Greece,Greece,4764.0,2359.0,Greece,1
+London 1908,1.0,Greece,0,3,1,4,London ,1908,United Kingdom,Greece,5246.0,2550.0,United Kingdom,0
+Stockholm 1912,1.0,Greece,1,0,1,2,Stockholm ,1912,Sweden,Greece,5390.0,3135.0,Sweden,0
+Antwerp 1920,1.0,Greece,0,1,0,1,Antwerp ,1920,Belgium,Greece,5700.0,2284.0,Belgium,0
+Paris 1924,1.0,Greece,1,0,0,1,Paris ,1924,France,Greece,6000.0,3279.0,France,0
+Melbourne 1956,1.0,Greece,0,0,1,1,Melbourne ,1956,Australia,Greece,8031.0,4313.0,Australia,0
+Rome 1960,1.0,Greece,1,0,0,1,Rome ,1960,Italy,Greece,8327.0,5015.0,Italy,0
+Mexico City 1968,1.0,Greece,0,0,1,1,Mexico City ,1968,Mexico,Greece,8741.0,8394.0,Mexico,0
+Munich 1972,1.0,Greece,0,2,0,2,Munich ,1972,Germany,Greece,8889.0,11795.0,Germany,0
+Moscow 1980,1.0,Greece,1,0,2,3,Moscow ,1980,Russia,Greece,9643.0,14300.0,Russian Federation,0
+Los Angeles 1984,1.0,Greece,0,1,1,2,Los Angeles ,1984,United States,Greece,9887.0,14453.0,United States,0
+Seoul 1988,1.0,Greece,0,0,1,1,Seoul ,1988,South Korea,Greece,9983.0,15596.0,Republic of Korea,0
+Barcelona 1992,1.0,Greece,2,0,0,2,Barcelona ,1992,Spain,Greece,10331.0,16545.96,Spain,0
+Atlanta 1996,1.0,Greece,4,4,0,8,Atlanta ,1996,United States,Greece,10539.0,17719.56,United States,0
+Sydney 2000,1.0,Greece,4,6,3,13,Sydney ,2000,Australia,Greece,10735.0,20965.33,Australia,0
+Athens 2004,1.0,Greece,6,6,4,16,Athens ,2004,Greece,Greece,10883.0,25780.39,Greece,1
+Beijing 2008,1.0,Greece,0,2,1,3,Beijing ,2008,China,Greece,11005.0,28907.93,China,0
+London 2012,1.0,Greece,0,0,2,2,London ,2012,United Kingdom,Greece,10972.0,22693.0,United Kingdom,0
+Rio 2016,1.0,Greece,3,1,2,6,Rio ,2016,Brazil,Greece,10705.0,22574.0,Brazil,0
+Tokyo 2020,1.0,Greece,2,1,1,4,Tokyo ,2020,Japan,Greece,,,Japan,0
+Athens 1896,1.0,Germany,6,5,2,13,Athens ,1896,Greece,Germany,51111.0,4368.0,Greece,0
+London 1908,1.0,Germany,3,5,5,13,London ,1908,United Kingdom,Germany,61187.0,5187.0,United Kingdom,0
+Stockholm 1912,1.0,Germany,6,13,7,26,Stockholm ,1912,Sweden,Germany,64457.0,5617.0,Sweden,0
+Amsterdam 1928,1.0,Germany,11,9,19,39,Amsterdam ,1928,Netherlands,Germany,64393.0,6519.0,Netherlands,0
+St. Moritz 1928,0.0,Germany,0,0,1,1,St. Moritz ,1928,Switzerland,Germany,64393.0,6519.0,Switzerland,0
+Lake Placid 1932,0.0,Germany,0,0,2,2,Lake Placid ,1932,United States,Germany,65716.0,5359.0,United States,0
+Los Angeles 1932,1.0,Germany,5,12,7,24,Los Angeles ,1932,United States,Germany,65716.0,5359.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Germany,3,3,0,6,Garmisch-Partenkirchen ,1936,Germany,Germany,67349.0,7095.0,Germany,1
+Berlin 1936,1.0,Germany,38,31,32,101,Berlin ,1936,Germany,Germany,67349.0,7095.0,Germany,1
+Helsinki 1952,1.0,Germany,0,7,17,24,Helsinki ,1952,Finland,Germany,69146.0,7257.0,Finland,0
+Oslo 1952,0.0,Germany,3,2,2,7,Oslo ,1952,Norway,Germany,69146.0,7257.0,Norway,0
+Melbourne 1956,1.0,Germany,4,10,6,20,Melbourne ,1956,Australia,Germany,70603.0,9846.0,Australia,0
+Squaw Valley 1960,0.0,Germany,4,3,1,8,Squaw Valley ,1960,United States,Germany,72481.0,12282.0,United States,0
+Rome 1960,1.0,Germany,12,19,11,42,Rome ,1960,Italy,Germany,72481.0,12282.0,Italy,0
+Innsbruck 1964,0.0,Germany,3,3,3,9,Innsbruck ,1964,Austria,Germany,74954.0,14062.0,Austria,0
+Tokyo 1964,1.0,Germany,10,22,18,50,Tokyo ,1964,Japan,Germany,74954.0,14062.0,Japan,0
+Albertville 1992,0.0,Germany,10,10,6,26,Albertville ,1992,France,Germany,80571.0,27385.06,France,0
+Barcelona 1992,1.0,Germany,33,21,28,82,Barcelona ,1992,Spain,Germany,80571.0,27385.06,Spain,0
+Lillehammer 1994,0.0,Germany,9,7,8,24,Lillehammer ,1994,Norway,Germany,81384.0,28140.06,Norway,0
+Atlanta 1996,1.0,Germany,20,18,27,65,Atlanta ,1996,United States,Germany,81861.0,29349.98,United States,0
+Nagano 1998,0.0,Germany,12,9,8,29,Nagano ,1998,Japan,Germany,81993.0,31129.58,Japan,0
+Sydney 2000,1.0,Germany,13,17,26,56,Sydney ,2000,Australia,Germany,82157.0,33367.28,Australia,0
+Salt Lake City 2002,0.0,Germany,12,16,8,36,Salt Lake City ,2002,United States,Germany,82434.0,34590.93,United States,0
+Athens 2004,1.0,Germany,13,16,20,49,Athens ,2004,Greece,Germany,82462.0,35528.71,Greece,0
+Beijing 2008,1.0,Germany,16,11,14,41,Beijing ,2008,China,Germany,82056.0,40715.43,China,0
+Vancouver 2010,0.0,Germany,10,13,7,30,Vancouver ,2010,Canada,Germany,81655.0,41109.58,Canada,0
+London 2012,1.0,Germany,11,20,13,44,London ,2012,United Kingdom,Germany,81635.0,43320.0,United Kingdom,0
+Sochi 2014,0.0,Germany,8,6,5,19,Sochi ,2014,Russia,Germany,82200.0,43922.0,Russian Federation,0
+Rio 2016,1.0,Germany,17,10,15,42,Rio ,2016,Brazil,Germany,83587.0,44689.0,Brazil,0
+PyeongChang 2018,0.0,Germany,14,10,7,31,PyeongChang ,2018,South Korea,Germany,84152.0,46177.62,Republic of Korea,0
+Tokyo 2020,1.0,Germany,10,11,16,37,Tokyo ,2020,Japan,Germany,,,Japan,0
+Athens 1896,1.0,France,5,4,2,11,Athens ,1896,Greece,France,40192.0,4280.0,Greece,0
+London 1908,1.0,France,5,5,9,19,London ,1908,United Kingdom,France,41046.0,4854.0,United Kingdom,0
+Stockholm 1912,1.0,France,7,5,3,15,Stockholm ,1912,Sweden,France,41359.0,5601.0,Sweden,0
+Antwerp 1920,1.0,France,9,20,13,42,Antwerp ,1920,Belgium,France,39000.0,5144.0,Belgium,0
+Paris 1924,1.0,France,14,15,12,41,Paris ,1924,France,France,40310.0,6661.0,France,1
+Chamonix 1924,0.0,France,0,0,3,3,Chamonix ,1924,France,France,40310.0,6661.0,France,1
+Amsterdam 1928,1.0,France,7,12,6,25,Amsterdam ,1928,Netherlands,France,41050.0,7063.0,Netherlands,0
+St. Moritz 1928,0.0,France,1,0,0,1,St. Moritz ,1928,Switzerland,France,41050.0,7063.0,Switzerland,0
+Lake Placid 1932,0.0,France,1,0,0,1,Lake Placid ,1932,United States,France,41860.0,6311.0,United States,0
+Los Angeles 1932,1.0,France,11,5,4,20,Los Angeles ,1932,United States,France,41860.0,6311.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,France,0,0,1,1,Garmisch-Partenkirchen ,1936,Germany,France,41910.0,6765.0,Germany,0
+Berlin 1936,1.0,France,7,6,6,19,Berlin ,1936,Germany,France,41910.0,6765.0,Germany,0
+St. Moritz 1948,0.0,France,2,1,2,5,St. Moritz ,1948,Switzerland,France,41110.0,7002.0,Switzerland,0
+London 1948,1.0,France,11,6,15,32,London ,1948,United Kingdom,France,41110.0,7002.0,United Kingdom,0
+Helsinki 1952,1.0,France,6,6,6,18,Helsinki ,1952,Finland,France,43184.0,8869.0,Finland,0
+Oslo 1952,0.0,France,0,0,1,1,Oslo ,1952,Norway,France,43184.0,8869.0,Norway,0
+Melbourne 1956,1.0,France,4,4,6,14,Melbourne ,1956,Australia,France,44657.0,10278.0,Australia,0
+Squaw Valley 1960,0.0,France,1,0,2,3,Squaw Valley ,1960,United States,France,46584.0,11792.0,United States,0
+Rome 1960,1.0,France,0,2,3,5,Rome ,1960,Italy,France,46584.0,11792.0,Italy,0
+Innsbruck 1964,0.0,France,3,4,0,7,Innsbruck ,1964,Austria,France,49357.0,14057.0,Austria,0
+Tokyo 1964,1.0,France,1,8,6,15,Tokyo ,1964,Japan,France,49357.0,14057.0,Japan,0
+Mexico City 1968,1.0,France,7,3,5,15,Mexico City ,1968,Mexico,France,51034.0,16365.0,Mexico,0
+Grenoble 1968,0.0,France,4,3,2,9,Grenoble ,1968,France,France,51034.0,16365.0,France,1
+Sapporo 1972,0.0,France,0,1,2,3,Sapporo ,1972,Japan,France,52894.0,19549.0,Japan,0
+Munich 1972,1.0,France,2,4,7,13,Munich ,1972,Germany,France,52894.0,19549.0,Germany,0
+Montreal 1976,1.0,France,2,3,4,9,Montreal ,1976,Canada,France,54159.0,21465.0,Canada,0
+Innsbruck 1976,0.0,France,0,0,1,1,Innsbruck ,1976,Austria,France,54159.0,21465.0,Austria,0
+Moscow 1980,1.0,France,6,5,3,14,Moscow ,1980,Russia,France,55110.0,23537.0,Russian Federation,0
+Lake Placid 1980,0.0,France,0,0,1,1,Lake Placid ,1980,United States,France,55110.0,23537.0,United States,0
+Sarajevo 1984,0.0,France,0,1,2,3,Sarajevo ,1984,Bosnia and Herzegovina,France,56246.0,24519.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,France,5,7,16,28,Los Angeles ,1984,United States,France,56246.0,24519.0,United States,0
+Seoul 1988,1.0,France,6,4,6,16,Seoul ,1988,South Korea,France,57255.0,26763.0,Republic of Korea,0
+Calgary 1988,0.0,France,1,0,1,2,Calgary ,1988,Canada,France,57255.0,26763.0,Canada,0
+Albertville 1992,0.0,France,3,5,1,9,Albertville ,1992,France,France,58801.0,28619.8,France,1
+Barcelona 1992,1.0,France,8,5,16,29,Barcelona ,1992,Spain,France,58801.0,28619.8,Spain,0
+Lillehammer 1994,0.0,France,0,1,4,5,Lillehammer ,1994,Norway,France,59265.0,28907.98,Norway,0
+Atlanta 1996,1.0,France,15,7,15,37,Atlanta ,1996,United States,France,59680.0,29736.64,United States,0
+Nagano 1998,0.0,France,2,1,5,8,Nagano ,1998,Japan,France,60103.0,31323.08,Japan,0
+Sydney 2000,1.0,France,13,14,11,38,Sydney ,2000,Australia,France,60819.0,33409.68,Australia,0
+Salt Lake City 2002,0.0,France,4,5,2,11,Salt Lake City ,2002,United States,France,61702.0,34152.77,United States,0
+Athens 2004,1.0,France,11,9,13,33,Athens ,2004,Greece,France,62591.0,35093.82,Greece,0
+Beijing 2008,1.0,France,7,16,20,43,Beijing ,2008,China,France,64239.0,36761.79,China,0
+Vancouver 2010,0.0,France,2,3,6,11,Vancouver ,2010,Canada,France,64880.0,36086.73,Canada,0
+London 2012,1.0,France,11,11,13,35,London ,2012,United Kingdom,France,65500.0,36571.0,United Kingdom,0
+Sochi 2014,0.0,France,4,4,7,15,Sochi ,2014,Russia,France,66374.0,36527.0,Russian Federation,0
+Rio 2016,1.0,France,10,18,14,42,Rio ,2016,Brazil,France,66787.0,37124.0,Brazil,0
+PyeongChang 2018,0.0,France,5,4,6,15,PyeongChang ,2018,South Korea,France,67029.0,38515.92,Republic of Korea,0
+Tokyo 2020,1.0,France,10,12,11,33,Tokyo ,2020,Japan,France,,,Japan,0
+Athens 1896,1.0,Great Britain,2,3,2,7,Athens ,1896,Greece,United Kingdom,39599.0,7211.0,Greece,0
+London 1908,1.0,Great Britain,56,51,39,146,London ,1908,United Kingdom,United Kingdom,44124.0,7461.0,United Kingdom,1
+Stockholm 1912,1.0,Great Britain,10,15,16,41,Stockholm ,1912,Sweden,United Kingdom,45426.0,7954.0,Sweden,0
+Antwerp 1920,1.0,Great Britain,14,16,13,43,Antwerp ,1920,Belgium,United Kingdom,46821.0,7017.0,Belgium,0
+Paris 1924,1.0,Great Britain,9,14,12,35,Paris ,1924,France,United Kingdom,44915.0,7844.0,France,0
+Chamonix 1924,0.0,Great Britain,1,1,2,4,Chamonix ,1924,France,United Kingdom,44915.0,7844.0,France,0
+Amsterdam 1928,1.0,Great Britain,4,11,7,22,Amsterdam ,1928,Netherlands,United Kingdom,45578.0,8539.0,Netherlands,0
+St. Moritz 1928,0.0,Great Britain,0,0,1,1,St. Moritz ,1928,Switzerland,United Kingdom,45578.0,8539.0,Switzerland,0
+Los Angeles 1932,1.0,Great Britain,5,7,5,17,Los Angeles ,1932,United States,United Kingdom,46335.0,8206.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Great Britain,1,1,1,3,Garmisch-Partenkirchen ,1936,Germany,United Kingdom,47081.0,9620.0,Germany,0
+Berlin 1936,1.0,Great Britain,4,7,3,14,Berlin ,1936,Germany,United Kingdom,47081.0,9620.0,Germany,0
+St. Moritz 1948,0.0,Great Britain,0,0,2,2,St. Moritz ,1948,Switzerland,United Kingdom,50014.0,10753.0,Switzerland,0
+London 1948,1.0,Great Britain,4,16,7,27,London ,1948,United Kingdom,United Kingdom,50014.0,10753.0,United Kingdom,1
+Helsinki 1952,1.0,Great Britain,1,2,8,11,Helsinki ,1952,Finland,United Kingdom,50430.0,11303.0,Finland,0
+Oslo 1952,0.0,Great Britain,1,0,0,1,Oslo ,1952,Norway,United Kingdom,50430.0,11303.0,Norway,0
+Melbourne 1956,1.0,Great Britain,5,7,9,21,Melbourne ,1956,Australia,United Kingdom,51184.0,12639.0,Australia,0
+Rome 1960,1.0,Great Britain,2,6,12,20,Rome ,1960,Italy,United Kingdom,52372.0,13780.0,Italy,0
+Innsbruck 1964,0.0,Great Britain,1,0,0,1,Innsbruck ,1964,Austria,United Kingdom,53991.0,15251.0,Austria,0
+Tokyo 1964,1.0,Great Britain,4,12,2,18,Tokyo ,1964,Japan,United Kingdom,53991.0,15251.0,Japan,0
+Mexico City 1968,1.0,Great Britain,5,5,3,13,Mexico City ,1968,Mexico,United Kingdom,55214.0,16593.0,Mexico,0
+Munich 1972,1.0,Great Britain,4,5,9,18,Munich ,1972,Germany,United Kingdom,56079.0,18002.0,Germany,0
+Montreal 1976,1.0,Great Britain,3,5,5,13,Montreal ,1976,Canada,United Kingdom,56206.0,19311.0,Canada,0
+Innsbruck 1976,0.0,Great Britain,1,0,0,1,Innsbruck ,1976,Austria,United Kingdom,56206.0,19311.0,Austria,0
+Moscow 1980,1.0,Great Britain,5,7,9,21,Moscow ,1980,Russia,United Kingdom,56314.0,20612.0,Russian Federation,0
+Lake Placid 1980,0.0,Great Britain,1,0,0,1,Lake Placid ,1980,United States,United Kingdom,56314.0,20612.0,United States,0
+Sarajevo 1984,0.0,Great Britain,1,0,0,1,Sarajevo ,1984,Bosnia and Herzegovina,United Kingdom,56462.0,21869.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Great Britain,5,11,21,37,Los Angeles ,1984,United States,United Kingdom,56462.0,21869.0,United States,0
+Seoul 1988,1.0,Great Britain,5,10,9,24,Seoul ,1988,South Korea,United Kingdom,57160.0,25679.0,Republic of Korea,0
+Barcelona 1992,1.0,Great Britain,5,3,12,20,Barcelona ,1992,Spain,United Kingdom,57828.0,25790.18,Spain,0
+Lillehammer 1994,0.0,Great Britain,0,0,2,2,Lillehammer ,1994,Norway,United Kingdom,58114.0,27277.54,Norway,0
+Atlanta 1996,1.0,Great Britain,1,8,6,15,Atlanta ,1996,United States,United Kingdom,58417.0,28472.25,United States,0
+Nagano 1998,0.0,Great Britain,0,0,1,1,Nagano ,1998,Japan,United Kingdom,58738.0,30077.38,Japan,0
+Sydney 2000,1.0,Great Britain,11,10,7,28,Sydney ,2000,Australia,United Kingdom,59145.0,31946.04,Australia,0
+Salt Lake City 2002,0.0,Great Britain,1,0,1,2,Salt Lake City ,2002,United States,United Kingdom,59625.0,33271.3,United States,0
+Athens 2004,1.0,Great Britain,9,9,12,30,Athens ,2004,Greece,United Kingdom,60245.0,34865.78,Greece,0
+Beijing 2008,1.0,Great Britain,19,13,19,51,Beijing ,2008,China,United Kingdom,62072.0,36264.79,China,0
+Vancouver 2010,0.0,Great Britain,1,0,0,1,Vancouver ,2010,Canada,United Kingdom,63036.0,34754.47,Canada,0
+London 2012,1.0,Great Britain,29,17,19,65,London ,2012,United Kingdom,United Kingdom,63974.0,35185.0,United Kingdom,1
+Sochi 2014,0.0,Great Britain,1,1,3,5,Sochi ,2014,Russia,United Kingdom,64880.0,36436.0,Russian Federation,0
+Rio 2016,1.0,Great Britain,27,23,17,67,Rio ,2016,Brazil,United Kingdom,65893.0,37334.0,Brazil,0
+PyeongChang 2018,0.0,Great Britain,1,0,4,5,PyeongChang ,2018,South Korea,United Kingdom,66746.0,38058.09,Republic of Korea,0
+Tokyo 2020,1.0,Great Britain,22,21,22,65,Tokyo ,2020,Japan,United Kingdom,,,Japan,0
+Athens 1896,1.0,Hungary,2,1,3,6,Athens ,1896,Greece,Hungary,6925.0,2547.8,Greece,0
+London 1908,1.0,Hungary,3,4,2,9,London ,1908,United Kingdom,Hungary,7540.6,3086.6,United Kingdom,0
+Stockholm 1912,1.0,Hungary,3,2,3,8,Stockholm ,1912,Sweden,Hungary,7774.666666666667,3292.0,Sweden,0
+Paris 1924,1.0,Hungary,2,4,4,10,Paris ,1924,France,Hungary,8232.0,3048.0,France,0
+Amsterdam 1928,1.0,Hungary,5,5,0,10,Amsterdam ,1928,Netherlands,Hungary,8520.0,3849.0,Netherlands,0
+Lake Placid 1932,0.0,Hungary,0,0,1,1,Lake Placid ,1932,United States,Hungary,8785.0,3494.0,United States,0
+Los Angeles 1932,1.0,Hungary,6,5,5,16,Los Angeles ,1932,United States,Hungary,8785.0,3494.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Hungary,0,0,1,1,Garmisch-Partenkirchen ,1936,Germany,Hungary,9046.0,4173.0,Germany,0
+Berlin 1936,1.0,Hungary,10,1,5,16,Berlin ,1936,Germany,Hungary,9046.0,4173.0,Germany,0
+St. Moritz 1948,0.0,Hungary,0,1,0,1,St. Moritz ,1948,Switzerland,Hungary,9158.0,3507.0,Switzerland,0
+London 1948,1.0,Hungary,10,5,13,28,London ,1948,United Kingdom,Hungary,9158.0,3507.0,United Kingdom,0
+Helsinki 1952,1.0,Hungary,16,10,16,42,Helsinki ,1952,Finland,Hungary,9504.0,4403.0,Finland,0
+Oslo 1952,0.0,Hungary,0,0,1,1,Oslo ,1952,Norway,Hungary,9504.0,4403.0,Norway,0
+Melbourne 1956,1.0,Hungary,9,10,7,26,Melbourne ,1956,Australia,Hungary,9911.0,4632.0,Australia,0
+Rome 1960,1.0,Hungary,6,8,7,21,Rome ,1960,Italy,Hungary,9984.0,5816.0,Italy,0
+Tokyo 1964,1.0,Hungary,10,7,5,22,Tokyo ,1964,Japan,Hungary,10124.0,6994.0,Japan,0
+Mexico City 1968,1.0,Hungary,10,10,12,32,Mexico City ,1968,Mexico,Hungary,10264.0,7865.0,Mexico,0
+Munich 1972,1.0,Hungary,6,13,16,35,Munich ,1972,Germany,Hungary,10394.0,8505.0,Germany,0
+Montreal 1976,1.0,Hungary,4,5,13,22,Montreal ,1976,Canada,Hungary,10589.0,9231.0,Canada,0
+Moscow 1980,1.0,Hungary,7,10,15,32,Moscow ,1980,Russia,Hungary,10711.0,10052.0,Russian Federation,0
+Lake Placid 1980,0.0,Hungary,0,1,0,1,Lake Placid ,1980,United States,Hungary,10711.0,10052.0,United States,0
+Seoul 1988,1.0,Hungary,11,6,6,23,Seoul ,1988,South Korea,Hungary,10443.0,11207.0,Republic of Korea,0
+Barcelona 1992,1.0,Hungary,11,12,7,30,Barcelona ,1992,Spain,Hungary,10367.0,9153.92,Spain,0
+Atlanta 1996,1.0,Hungary,7,4,10,21,Atlanta ,1996,United States,Hungary,10309.0,10359.18,United States,0
+Sydney 2000,1.0,Hungary,8,6,3,17,Sydney ,2000,Australia,Hungary,10209.0,13129.27,Australia,0
+Athens 2004,1.0,Hungary,8,6,3,17,Athens ,2004,Greece,Hungary,10105.0,16999.01,Greece,0
+Beijing 2008,1.0,Hungary,3,5,2,10,Beijing ,2008,China,Hungary,10036.0,20380.63,China,0
+London 2012,1.0,Hungary,8,4,6,18,London ,2012,United Kingdom,Hungary,9918.0,20631.0,United Kingdom,0
+Rio 2016,1.0,Hungary,8,3,4,15,Rio ,2016,Brazil,Hungary,9812.0,23279.0,Brazil,0
+PyeongChang 2018,0.0,Hungary,1,0,0,1,PyeongChang ,2018,South Korea,Hungary,9774.0,25622.81,Republic of Korea,0
+Tokyo 2020,1.0,Hungary,6,7,7,20,Tokyo ,2020,Japan,Hungary,,,Japan,0
+Athens 1896,1.0,Austria,2,1,2,5,Athens ,1896,Greece,Austria,5739.0,4305.0,Greece,0
+London 1908,1.0,Austria,0,0,1,1,London ,1908,United Kingdom,Austria,6485.0,5292.0,United Kingdom,0
+Stockholm 1912,1.0,Austria,0,2,2,4,Stockholm ,1912,Sweden,Austria,6724.0,5587.0,Sweden,0
+Paris 1924,1.0,Austria,0,3,1,4,Paris ,1924,France,Austria,6562.0,5042.0,France,0
+Chamonix 1924,0.0,Austria,2,1,0,3,Chamonix ,1924,France,Austria,6562.0,5042.0,France,0
+Amsterdam 1928,1.0,Austria,3,0,1,4,Amsterdam ,1928,Netherlands,Austria,6643.0,5829.0,Netherlands,0
+St. Moritz 1928,0.0,Austria,0,3,1,4,St. Moritz ,1928,Switzerland,Austria,6643.0,5829.0,Switzerland,0
+Lake Placid 1932,0.0,Austria,1,1,0,2,Lake Placid ,1932,United States,Austria,6725.0,4686.0,United States,0
+Los Angeles 1932,1.0,Austria,1,1,3,5,Los Angeles ,1932,United States,Austria,6725.0,4686.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Austria,1,1,2,4,Garmisch-Partenkirchen ,1936,Germany,Austria,6758.0,4774.0,Germany,0
+Berlin 1936,1.0,Austria,5,7,5,17,Berlin ,1936,Germany,Austria,6758.0,4774.0,Germany,0
+St. Moritz 1948,0.0,Austria,1,3,4,8,St. Moritz ,1948,Switzerland,Austria,6956.0,4406.0,Switzerland,0
+London 1948,1.0,Austria,2,2,4,8,London ,1948,United Kingdom,Austria,6956.0,4406.0,United Kingdom,0
+Helsinki 1952,1.0,Austria,0,1,1,2,Helsinki ,1952,Finland,Austria,6928.0,6323.0,Finland,0
+Oslo 1952,0.0,Austria,2,4,2,8,Oslo ,1952,Norway,Austria,6928.0,6323.0,Norway,0
+Melbourne 1956,1.0,Austria,0,0,2,2,Melbourne ,1956,Australia,Austria,6952.0,8603.0,Australia,0
+Squaw Valley 1960,0.0,Austria,1,2,3,6,Squaw Valley ,1960,United States,Austria,7047.0,10391.0,United States,0
+Rome 1960,1.0,Austria,1,1,0,2,Rome ,1960,Italy,Austria,7047.0,10391.0,Italy,0
+Innsbruck 1964,0.0,Austria,4,5,3,12,Innsbruck ,1964,Austria,Austria,7224.0,12062.0,Austria,1
+Mexico City 1968,1.0,Austria,0,2,2,4,Mexico City ,1968,Mexico,Austria,7415.0,13742.0,Mexico,0
+Grenoble 1968,0.0,Austria,3,4,4,11,Grenoble ,1968,France,Austria,7415.0,13742.0,France,0
+Sapporo 1972,0.0,Austria,1,2,2,5,Sapporo ,1972,Japan,Austria,7544.0,17169.0,Japan,0
+Munich 1972,1.0,Austria,0,1,2,3,Munich ,1972,Germany,Austria,7544.0,17169.0,Germany,0
+Montreal 1976,1.0,Austria,0,0,1,1,Montreal ,1976,Canada,Austria,7566.0,19448.0,Canada,0
+Innsbruck 1976,0.0,Austria,2,2,2,6,Innsbruck ,1976,Austria,Austria,7566.0,19448.0,Austria,1
+Moscow 1980,1.0,Austria,1,2,1,4,Moscow ,1980,Russia,Austria,7549.0,21932.0,Russian Federation,0
+Lake Placid 1980,0.0,Austria,3,2,2,7,Lake Placid ,1980,United States,Austria,7549.0,21932.0,United States,0
+Sarajevo 1984,0.0,Austria,0,0,1,1,Sarajevo ,1984,Bosnia and Herzegovina,Austria,7554.0,23016.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Austria,1,1,1,3,Los Angeles ,1984,United States,Austria,7554.0,23016.0,United States,0
+Seoul 1988,1.0,Austria,1,0,0,1,Seoul ,1988,South Korea,Austria,7600.0,25112.0,Republic of Korea,0
+Calgary 1988,0.0,Austria,3,5,2,10,Calgary ,1988,Canada,Austria,7600.0,25112.0,Canada,0
+Albertville 1992,0.0,Austria,6,7,8,21,Albertville ,1992,France,Austria,7887.0,28072.44,France,0
+Barcelona 1992,1.0,Austria,0,2,0,2,Barcelona ,1992,Spain,Austria,7887.0,28072.44,Spain,0
+Lillehammer 1994,0.0,Austria,2,3,4,9,Lillehammer ,1994,Norway,Austria,7983.0,28780.76,Norway,0
+Atlanta 1996,1.0,Austria,0,1,2,3,Atlanta ,1996,United States,Austria,8006.0,30413.16,United States,0
+Nagano 1998,0.0,Austria,3,5,9,17,Nagano ,1998,Japan,Austria,8024.0,32376.33,Japan,0
+Sydney 2000,1.0,Austria,2,1,0,3,Sydney ,2000,Australia,Austria,8059.0,34796.26,Australia,0
+Salt Lake City 2002,0.0,Austria,3,4,10,17,Salt Lake City ,2002,United States,Austria,8129.0,35823.59,United States,0
+Athens 2004,1.0,Austria,2,4,1,7,Athens ,2004,Greece,Austria,8220.0,36957.11,Greece,0
+Beijing 2008,1.0,Austria,0,1,2,3,Beijing ,2008,China,Austria,8370.0,40964.79,China,0
+Vancouver 2010,0.0,Austria,4,6,6,16,Vancouver ,2010,Canada,Austria,8413.0,40288.35,Canada,0
+Sochi 2014,0.0,Austria,4,8,5,17,Sochi ,2014,Russia,Austria,8597.0,41338.0,Russian Federation,0
+Rio 2016,1.0,Austria,0,0,1,1,Rio ,2016,Brazil,Austria,8788.0,41445.0,Brazil,0
+PyeongChang 2018,0.0,Austria,5,3,6,14,PyeongChang ,2018,South Korea,Austria,8892.0,42988.07,Republic of Korea,0
+Tokyo 2020,1.0,Austria,1,1,5,7,Tokyo ,2020,Japan,Austria,,,Japan,0
+Athens 1896,1.0,Australia,2,0,0,2,Athens ,1896,Greece,Australia,3523.0,5874.0,Greece,0
+Antwerp 1920,1.0,Australia,0,2,1,3,Antwerp ,1920,Belgium,Australia,5358.0,7597.0,Belgium,0
+Paris 1924,1.0,Australia,3,1,2,6,Paris ,1924,France,Australia,5819.0,8635.0,France,0
+Amsterdam 1928,1.0,Australia,1,2,1,4,Amsterdam ,1928,Netherlands,Australia,6304.0,8690.0,Netherlands,0
+Los Angeles 1932,1.0,Australia,3,1,1,5,Los Angeles ,1932,United States,Australia,6579.0,7275.0,United States,0
+Berlin 1936,1.0,Australia,0,0,1,1,Berlin ,1936,Germany,Australia,6783.0,8792.0,Germany,0
+London 1948,1.0,Australia,2,6,5,13,London ,1948,United Kingdom,Australia,7715.0,11105.0,United Kingdom,0
+Helsinki 1952,1.0,Australia,6,2,3,11,Helsinki ,1952,Finland,Australia,8691.0,11824.0,Finland,0
+Melbourne 1956,1.0,Australia,13,8,14,35,Melbourne ,1956,Australia,Australia,9501.0,12924.0,Australia,1
+Rome 1960,1.0,Australia,8,8,6,22,Rome ,1960,Italy,Australia,10361.0,14013.0,Italy,0
+Tokyo 1964,1.0,Australia,6,2,10,18,Tokyo ,1964,Japan,Australia,11218.0,15699.0,Japan,0
+Mexico City 1968,1.0,Australia,5,7,5,17,Mexico City ,1968,Mexico,Australia,12102.0,17770.0,Mexico,0
+Munich 1972,1.0,Australia,8,7,2,17,Munich ,1972,Germany,Australia,13177.0,19772.0,Germany,0
+Montreal 1976,1.0,Australia,0,1,4,5,Montreal ,1976,Canada,Australia,13916.0,21613.0,Canada,0
+Moscow 1980,1.0,Australia,2,2,5,9,Moscow ,1980,Russia,Australia,14616.0,22972.0,Russian Federation,0
+Los Angeles 1984,1.0,Australia,4,8,12,24,Los Angeles ,1984,United States,Australia,15510.0,24009.0,United States,0
+Seoul 1988,1.0,Australia,3,6,5,14,Seoul ,1988,South Korea,Australia,16400.0,26702.0,Republic of Korea,0
+Barcelona 1992,1.0,Australia,7,9,11,27,Barcelona ,1992,Spain,Australia,17338.0,27560.18,Spain,0
+Lillehammer 1994,0.0,Australia,0,0,1,1,Lillehammer ,1994,Norway,Australia,17670.0,29844.17,Norway,0
+Atlanta 1996,1.0,Australia,9,9,23,41,Atlanta ,1996,United States,Australia,18102.0,31740.47,United States,0
+Nagano 1998,0.0,Australia,0,0,1,1,Nagano ,1998,Japan,Australia,18473.0,34337.14,Japan,0
+Sydney 2000,1.0,Australia,16,25,17,58,Sydney ,2000,Australia,Australia,18902.0,36603.05,Australia,1
+Salt Lake City 2002,0.0,Australia,2,0,0,2,Salt Lake City ,2002,United States,Australia,19361.0,38567.07,United States,0
+Athens 2004,1.0,Australia,17,16,17,50,Athens ,2004,Greece,Australia,19796.0,40887.73,Greece,0
+Beijing 2008,1.0,Australia,14,15,17,46,Beijing ,2008,China,Australia,21208.0,44421.64,China,0
+Vancouver 2010,0.0,Australia,2,1,0,3,Vancouver ,2010,Canada,Australia,21896.0,45400.22,Canada,0
+London 2012,1.0,Australia,8,15,12,35,London ,2012,United Kingdom,Australia,22642.0,46999.0,United Kingdom,0
+Sochi 2014,0.0,Australia,0,2,1,3,Sochi ,2014,Russia,Australia,23345.0,47867.0,Russian Federation,0
+Rio 2016,1.0,Australia,8,11,10,29,Rio ,2016,Brazil,Australia,24086.0,48845.0,Brazil,0
+PyeongChang 2018,0.0,Australia,0,2,1,3,PyeongChang ,2018,South Korea,Australia,24855.0,49830.8,Republic of Korea,0
+Tokyo 2020,1.0,Australia,17,7,22,46,Tokyo ,2020,Japan,Australia,,,Japan,0
+Athens 1896,1.0,Denmark,1,2,3,6,Athens ,1896,Greece,Denmark,2428.0,4521.0,Greece,0
+London 1908,1.0,Denmark,0,2,3,5,London ,1908,United Kingdom,Denmark,2809.0,5662.0,United Kingdom,0
+Stockholm 1912,1.0,Denmark,1,6,5,12,Stockholm ,1912,Sweden,Denmark,2951.0,6076.0,Sweden,0
+Antwerp 1920,1.0,Denmark,3,9,1,13,Antwerp ,1920,Belgium,Denmark,3242.0,6363.0,Belgium,0
+Paris 1924,1.0,Denmark,2,6,3,11,Paris ,1924,France,Denmark,3389.0,7218.0,France,0
+Amsterdam 1928,1.0,Denmark,3,2,4,9,Amsterdam ,1928,Netherlands,Denmark,3497.0,7627.0,Netherlands,0
+Los Angeles 1932,1.0,Denmark,0,5,3,8,Los Angeles ,1932,United States,Denmark,3603.0,8239.0,United States,0
+Berlin 1936,1.0,Denmark,0,2,3,5,Berlin ,1936,Germany,Denmark,3722.0,8886.0,Germany,0
+London 1948,1.0,Denmark,5,8,9,22,London ,1948,United Kingdom,Denmark,4190.0,9776.0,United Kingdom,0
+Helsinki 1952,1.0,Denmark,2,1,3,6,Helsinki ,1952,Finland,Denmark,4334.0,11086.0,Finland,0
+Melbourne 1956,1.0,Denmark,1,1,1,3,Melbourne ,1956,Australia,Denmark,4466.0,11858.0,Australia,0
+Rome 1960,1.0,Denmark,2,3,1,6,Rome ,1960,Italy,Denmark,4581.0,14046.0,Italy,0
+Tokyo 1964,1.0,Denmark,2,1,3,6,Tokyo ,1964,Japan,Denmark,4720.0,16832.0,Japan,0
+Mexico City 1968,1.0,Denmark,1,4,3,8,Mexico City ,1968,Mexico,Denmark,4867.0,18868.0,Mexico,0
+Munich 1972,1.0,Denmark,1,0,0,1,Munich ,1972,Germany,Denmark,4992.0,21579.0,Germany,0
+Montreal 1976,1.0,Denmark,1,0,2,3,Montreal ,1976,Canada,Denmark,5073.0,23059.0,Canada,0
+Moscow 1980,1.0,Denmark,2,1,2,5,Moscow ,1980,Russia,Denmark,5123.0,24272.0,Russian Federation,0
+Los Angeles 1984,1.0,Denmark,0,3,3,6,Los Angeles ,1984,United States,Denmark,5112.0,26581.0,United States,0
+Seoul 1988,1.0,Denmark,2,1,1,4,Seoul ,1988,South Korea,Denmark,5130.0,29049.0,Republic of Korea,0
+Barcelona 1992,1.0,Denmark,1,1,4,6,Barcelona ,1992,Spain,Denmark,5171.0,30573.57,Spain,0
+Atlanta 1996,1.0,Denmark,4,1,1,6,Atlanta ,1996,United States,Denmark,5263.0,34325.44,United States,0
+Nagano 1998,0.0,Denmark,0,1,0,1,Nagano ,1998,Japan,Denmark,5304.0,36361.23,Japan,0
+Sydney 2000,1.0,Denmark,2,3,1,6,Sydney ,2000,Australia,Denmark,5340.0,39021.18,Australia,0
+Athens 2004,1.0,Denmark,2,1,5,8,Athens ,2004,Greece,Denmark,5405.0,41178.56,Greece,0
+Beijing 2008,1.0,Denmark,2,2,3,7,Beijing ,2008,China,Denmark,5494.0,44246.4,China,0
+London 2012,1.0,Denmark,2,4,3,9,London ,2012,United Kingdom,Denmark,5592.0,43510.0,United Kingdom,0
+Rio 2016,1.0,Denmark,2,6,7,15,Rio ,2016,Brazil,Denmark,5728.0,44836.0,Brazil,0
+Tokyo 2020,1.0,Denmark,3,4,4,11,Tokyo ,2020,Japan,Denmark,,,Japan,0
+Athens 1896,1.0,Switzerland,1,2,0,3,Athens ,1896,Greece,Switzerland,3151.0,5967.25,Greece,0
+Stockholm 1912,1.0,Switzerland,1,0,0,1,Stockholm ,1912,Sweden,Switzerland,3819.0,8311.78,Sweden,0
+Antwerp 1920,1.0,Switzerland,2,2,7,11,Antwerp ,1920,Belgium,Switzerland,3877.0,7363.96,Belgium,0
+Paris 1924,1.0,Switzerland,7,8,10,25,Paris ,1924,France,Switzerland,3896.0,8195.52,France,0
+Chamonix 1924,0.0,Switzerland,2,0,1,3,Chamonix ,1924,France,Switzerland,3896.0,8195.52,France,0
+Amsterdam 1928,1.0,Switzerland,7,6,4,17,Amsterdam ,1928,Netherlands,Switzerland,3988.0,9658.81,Netherlands,0
+St. Moritz 1928,0.0,Switzerland,0,0,1,1,St. Moritz ,1928,Switzerland,Switzerland,3988.0,9658.81,Switzerland,1
+Lake Placid 1932,0.0,Switzerland,0,1,0,1,Lake Placid ,1932,United States,Switzerland,4102.0,9752.44,United States,0
+Los Angeles 1932,1.0,Switzerland,0,1,0,1,Los Angeles ,1932,United States,Switzerland,4102.0,9752.44,United States,0
+Garmisch-Partenkirchen 1936,0.0,Switzerland,1,2,0,3,Garmisch-Partenkirchen ,1936,Germany,Switzerland,4168.0,9301.85,Germany,0
+Berlin 1936,1.0,Switzerland,4,9,5,18,Berlin ,1936,Germany,Switzerland,4168.0,9301.85,Germany,0
+St. Moritz 1948,0.0,Switzerland,3,4,3,10,St. Moritz ,1948,Switzerland,Switzerland,4582.0,11189.34,Switzerland,1
+London 1948,1.0,Switzerland,5,12,6,23,London ,1948,United Kingdom,Switzerland,4582.0,11189.34,United Kingdom,0
+Helsinki 1952,1.0,Switzerland,2,6,6,14,Helsinki ,1952,Finland,Switzerland,4815.0,12016.31,Finland,0
+Oslo 1952,0.0,Switzerland,0,0,2,2,Oslo ,1952,Norway,Switzerland,4815.0,12016.31,Norway,0
+Squaw Valley 1960,0.0,Switzerland,2,0,0,2,Squaw Valley ,1960,United States,Switzerland,5362.0,16358.36,United States,0
+Rome 1960,1.0,Switzerland,0,3,3,6,Rome ,1960,Italy,Switzerland,5362.0,16358.36,Italy,0
+Tokyo 1964,1.0,Switzerland,1,2,1,4,Tokyo ,1964,Japan,Switzerland,5887.0,19195.45,Japan,0
+Mexico City 1968,1.0,Switzerland,0,1,4,5,Mexico City ,1968,Mexico,Switzerland,6132.0,21395.39,Mexico,0
+Grenoble 1968,0.0,Switzerland,0,2,4,6,Grenoble ,1968,France,Switzerland,6132.0,21395.39,France,0
+Sapporo 1972,0.0,Switzerland,4,3,3,10,Sapporo ,1972,Japan,Switzerland,6401.0,25356.91,Japan,0
+Munich 1972,1.0,Switzerland,0,3,0,3,Munich ,1972,Germany,Switzerland,6401.0,25356.91,Germany,0
+Montreal 1976,1.0,Switzerland,1,1,2,4,Montreal ,1976,Canada,Switzerland,6333.0,24752.91,Canada,0
+Innsbruck 1976,0.0,Switzerland,1,3,1,5,Innsbruck ,1976,Austria,Switzerland,6333.0,24752.91,Austria,0
+Moscow 1980,1.0,Switzerland,2,0,0,2,Moscow ,1980,Russia,Switzerland,6385.0,27405.73,Russian Federation,0
+Lake Placid 1980,0.0,Switzerland,1,1,3,5,Lake Placid ,1980,United States,Switzerland,6385.0,27405.73,United States,0
+Sarajevo 1984,0.0,Switzerland,2,2,1,5,Sarajevo ,1984,Bosnia and Herzegovina,Switzerland,6530.0,28315.08,Former Yugoslavia,0
+Los Angeles 1984,1.0,Switzerland,0,4,4,8,Los Angeles ,1984,United States,Switzerland,6530.0,28315.08,United States,0
+Seoul 1988,1.0,Switzerland,0,2,2,4,Seoul ,1988,South Korea,Switzerland,6704.0,32482.91,Republic of Korea,0
+Calgary 1988,0.0,Switzerland,5,5,5,15,Calgary ,1988,Canada,Switzerland,6704.0,32482.91,Canada,0
+Albertville 1992,0.0,Switzerland,1,0,2,3,Albertville ,1992,France,Switzerland,6999.0,34356.8,France,0
+Barcelona 1992,1.0,Switzerland,1,0,0,1,Barcelona ,1992,Spain,Switzerland,6999.0,34356.8,Spain,0
+Lillehammer 1994,0.0,Switzerland,3,4,2,9,Lillehammer ,1994,Norway,Switzerland,7120.0,35423.83,Norway,0
+Atlanta 1996,1.0,Switzerland,4,3,0,7,Atlanta ,1996,United States,Switzerland,7199.0,36720.49,United States,0
+Nagano 1998,0.0,Switzerland,2,2,3,7,Nagano ,1998,Japan,Switzerland,7238.0,39890.54,Japan,0
+Sydney 2000,1.0,Switzerland,1,6,2,9,Sydney ,2000,Australia,Switzerland,7314.0,43251.1,Australia,0
+Salt Lake City 2002,0.0,Switzerland,3,2,6,11,Salt Lake City ,2002,United States,Switzerland,7416.0,44934.32,United States,0
+Athens 2004,1.0,Switzerland,1,1,3,5,Athens ,2004,Greece,Switzerland,7523.0,47263.6,Greece,0
+Beijing 2008,1.0,Switzerland,2,1,4,7,Beijing ,2008,China,Switzerland,7786.0,56054.88,China,0
+Vancouver 2010,0.0,Switzerland,6,0,3,9,Vancouver ,2010,Canada,Switzerland,7969.0,57219.5,Canada,0
+London 2012,1.0,Switzerland,2,2,0,4,London ,2012,United Kingdom,Switzerland,8141.0,58674.0,United Kingdom,0
+Sochi 2014,0.0,Switzerland,7,2,2,11,Sochi ,2014,Russia,Switzerland,8336.0,59485.0,Russian Federation,0
+Rio 2016,1.0,Switzerland,3,2,2,7,Rio ,2016,Brazil,Switzerland,8524.0,59662.0,Brazil,0
+PyeongChang 2018,0.0,Switzerland,5,6,4,15,PyeongChang ,2018,South Korea,Switzerland,8668.0,61372.73,Republic of Korea,0
+Tokyo 2020,1.0,Switzerland,3,4,6,13,Tokyo ,2020,Japan,Switzerland,,,Japan,0
+Athens 1896,1.0,MIX,1,0,1,2,Athens ,1896,Greece,,,,Greece,0
+Chamonix 1924,0.0,MIX,1,0,0,1,Chamonix ,1924,France,,,,France,0
+London 1908,1.0,Sweden,8,6,11,25,London ,1908,United Kingdom,Sweden,5404.0,3959.0,United Kingdom,0
+Stockholm 1912,1.0,Sweden,24,24,17,65,Stockholm ,1912,Sweden,Sweden,5583.0,4312.0,Sweden,1
+Antwerp 1920,1.0,Sweden,19,20,25,64,Antwerp ,1920,Belgium,Sweden,5876.0,4788.0,Belgium,0
+Paris 1924,1.0,Sweden,4,13,12,29,Paris ,1924,France,Sweden,6021.0,5365.0,France,0
+Chamonix 1924,0.0,Sweden,1,1,0,2,Chamonix ,1924,France,Sweden,6021.0,5365.0,France,0
+Amsterdam 1928,1.0,Sweden,7,6,12,25,Amsterdam ,1928,Netherlands,Sweden,6097.0,6113.0,Netherlands,0
+St. Moritz 1928,0.0,Sweden,2,2,1,5,St. Moritz ,1928,Switzerland,Sweden,6097.0,6113.0,Switzerland,0
+Lake Placid 1932,0.0,Sweden,1,2,0,3,Lake Placid ,1932,United States,Sweden,6176.0,6325.0,United States,0
+Los Angeles 1932,1.0,Sweden,10,5,9,24,Los Angeles ,1932,United States,Sweden,6176.0,6325.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Sweden,2,2,3,7,Garmisch-Partenkirchen ,1936,Germany,Sweden,6259.0,7396.0,Germany,0
+Berlin 1936,1.0,Sweden,6,5,10,21,Berlin ,1936,Germany,Sweden,6259.0,7396.0,Germany,0
+St. Moritz 1948,0.0,Sweden,4,3,3,10,St. Moritz ,1948,Switzerland,Sweden,6883.0,9822.0,Switzerland,0
+London 1948,1.0,Sweden,17,11,18,46,London ,1948,United Kingdom,Sweden,6883.0,9822.0,United Kingdom,0
+Helsinki 1952,1.0,Sweden,12,13,10,35,Helsinki ,1952,Finland,Sweden,7125.0,11152.0,Finland,0
+Oslo 1952,0.0,Sweden,0,0,4,4,Oslo ,1952,Norway,Sweden,7125.0,11152.0,Norway,0
+Melbourne 1956,1.0,Sweden,5,5,6,16,Melbourne ,1956,Australia,Sweden,7315.0,12428.0,Australia,0
+Squaw Valley 1960,0.0,Sweden,3,2,2,7,Squaw Valley ,1960,United States,Sweden,7480.0,13849.0,United States,0
+Rome 1960,1.0,Sweden,1,2,3,6,Rome ,1960,Italy,Sweden,7480.0,13849.0,Italy,0
+Innsbruck 1964,0.0,Sweden,3,3,1,7,Innsbruck ,1964,Austria,Sweden,7661.0,16761.0,Austria,0
+Tokyo 1964,1.0,Sweden,2,2,4,8,Tokyo ,1964,Japan,Sweden,7661.0,16761.0,Japan,0
+Mexico City 1968,1.0,Sweden,2,1,1,4,Mexico City ,1968,Mexico,Sweden,7912.0,18428.0,Mexico,0
+Grenoble 1968,0.0,Sweden,3,2,3,8,Grenoble ,1968,France,Sweden,7912.0,18428.0,France,0
+Sapporo 1972,0.0,Sweden,1,1,2,4,Sapporo ,1972,Japan,Sweden,8122.0,20725.0,Japan,0
+Munich 1972,1.0,Sweden,4,6,6,16,Munich ,1972,Germany,Sweden,8122.0,20725.0,Germany,0
+Montreal 1976,1.0,Sweden,4,1,0,5,Montreal ,1976,Canada,Sweden,8222.0,22765.0,Canada,0
+Innsbruck 1976,0.0,Sweden,0,0,2,2,Innsbruck ,1976,Austria,Sweden,8222.0,22765.0,Austria,0
+Moscow 1980,1.0,Sweden,3,3,6,12,Moscow ,1980,Russia,Sweden,8310.0,23809.0,Russian Federation,0
+Lake Placid 1980,0.0,Sweden,3,0,1,4,Lake Placid ,1980,United States,Sweden,8310.0,23809.0,United States,0
+Sarajevo 1984,0.0,Sweden,4,2,2,8,Sarajevo ,1984,Bosnia and Herzegovina,Sweden,8337.0,25357.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Sweden,2,11,6,19,Los Angeles ,1984,United States,Sweden,8337.0,25357.0,United States,0
+Seoul 1988,1.0,Sweden,0,4,7,11,Seoul ,1988,South Korea,Sweden,8436.0,27468.0,Republic of Korea,0
+Calgary 1988,0.0,Sweden,4,0,2,6,Calgary ,1988,Canada,Sweden,8436.0,27468.0,Canada,0
+Albertville 1992,0.0,Sweden,1,0,3,4,Albertville ,1992,France,Sweden,8668.0,27198.53,France,0
+Barcelona 1992,1.0,Sweden,1,7,4,12,Barcelona ,1992,Spain,Sweden,8668.0,27198.53,Spain,0
+Lillehammer 1994,0.0,Sweden,2,1,0,3,Lillehammer ,1994,Norway,Sweden,8781.0,27505.96,Norway,0
+Atlanta 1996,1.0,Sweden,2,4,2,8,Atlanta ,1996,United States,Sweden,8841.0,29012.1,United States,0
+Nagano 1998,0.0,Sweden,0,2,1,3,Nagano ,1998,Japan,Sweden,8851.0,31187.16,Japan,0
+Sydney 2000,1.0,Sweden,4,5,3,12,Sydney ,2000,Australia,Sweden,8872.0,34202.6,Australia,0
+Salt Lake City 2002,0.0,Sweden,0,2,5,7,Salt Lake City ,2002,United States,Sweden,8925.0,35569.77,United States,0
+Athens 2004,1.0,Sweden,4,2,1,7,Athens ,2004,Greece,Sweden,8994.0,38016.06,Greece,0
+Beijing 2008,1.0,Sweden,0,4,1,5,Beijing ,2008,China,Sweden,9220.0,42189.96,China,0
+Vancouver 2010,0.0,Sweden,5,2,4,11,Vancouver ,2010,Canada,Sweden,9378.0,42634.75,Canada,0
+London 2012,1.0,Sweden,1,4,3,8,London ,2012,United Kingdom,Sweden,9520.0,41650.0,United Kingdom,0
+Sochi 2014,0.0,Sweden,2,7,6,15,Sochi ,2014,Russia,Sweden,9696.0,42476.0,Russian Federation,0
+Rio 2016,1.0,Sweden,2,6,3,11,Rio ,2016,Brazil,Sweden,9923.0,44659.0,Brazil,0
+PyeongChang 2018,0.0,Sweden,7,6,1,14,PyeongChang ,2018,South Korea,Sweden,10175.0,45541.89,Republic of Korea,0
+Tokyo 2020,1.0,Sweden,3,6,0,9,Tokyo ,2020,Japan,Sweden,,,Japan,0
+London 1908,1.0,Canada,3,3,10,16,London ,1908,United Kingdom,Canada,6813.0,5694.0,United Kingdom,0
+Stockholm 1912,1.0,Canada,3,2,3,8,Stockholm ,1912,Sweden,Canada,7602.0,6977.0,Sweden,0
+Antwerp 1920,1.0,Canada,3,3,3,9,Antwerp ,1920,Belgium,Canada,8798.0,6154.0,Belgium,0
+Paris 1924,1.0,Canada,0,3,1,4,Paris ,1924,France,Canada,9394.0,6339.0,France,0
+Chamonix 1924,0.0,Canada,1,0,0,1,Chamonix ,1924,France,Canada,9394.0,6339.0,France,0
+Amsterdam 1928,1.0,Canada,4,4,7,15,Amsterdam ,1928,Netherlands,Canada,10107.0,8244.0,Netherlands,0
+St. Moritz 1928,0.0,Canada,1,0,0,1,St. Moritz ,1928,Switzerland,Canada,10107.0,8244.0,Switzerland,0
+Lake Placid 1932,0.0,Canada,1,1,5,7,Lake Placid ,1932,United States,Canada,10794.0,5852.0,United States,0
+Los Angeles 1932,1.0,Canada,2,5,9,16,Los Angeles ,1932,United States,Canada,10794.0,5852.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Canada,0,1,0,1,Garmisch-Partenkirchen ,1936,Germany,Canada,11243.0,6574.0,Germany,0
+Berlin 1936,1.0,Canada,1,3,5,9,Berlin ,1936,Germany,Canada,11243.0,6574.0,Germany,0
+St. Moritz 1948,0.0,Canada,2,0,1,3,St. Moritz ,1948,Switzerland,Canada,13180.0,11261.0,Switzerland,0
+London 1948,1.0,Canada,0,2,2,4,London ,1948,United Kingdom,Canada,13180.0,11261.0,United Kingdom,0
+Helsinki 1952,1.0,Canada,1,2,0,3,Helsinki ,1952,Finland,Canada,14786.0,12486.0,Finland,0
+Oslo 1952,0.0,Canada,1,0,1,2,Oslo ,1952,Norway,Canada,14786.0,12486.0,Norway,0
+Melbourne 1956,1.0,Canada,2,1,2,5,Melbourne ,1956,Australia,Canada,16445.0,13791.0,Australia,0
+Squaw Valley 1960,0.0,Canada,2,1,1,4,Squaw Valley ,1960,United States,Canada,18267.0,13952.0,United States,0
+Rome 1960,1.0,Canada,0,1,0,1,Rome ,1960,Italy,Canada,18267.0,13952.0,Italy,0
+Innsbruck 1964,0.0,Canada,1,1,1,3,Innsbruck ,1964,Austria,Canada,19711.0,15938.0,Austria,0
+Tokyo 1964,1.0,Canada,1,2,1,4,Tokyo ,1964,Japan,Canada,19711.0,15938.0,Japan,0
+Mexico City 1968,1.0,Canada,1,3,1,5,Mexico City ,1968,Mexico,Canada,21143.0,18297.0,Mexico,0
+Grenoble 1968,0.0,Canada,1,1,1,3,Grenoble ,1968,France,Canada,21143.0,18297.0,France,0
+Sapporo 1972,0.0,Canada,0,1,0,1,Sapporo ,1972,Japan,Canada,22285.0,20837.0,Japan,0
+Munich 1972,1.0,Canada,0,2,3,5,Munich ,1972,Germany,Canada,22285.0,20837.0,Germany,0
+Montreal 1976,1.0,Canada,0,5,6,11,Montreal ,1976,Canada,Canada,23518.0,23754.0,Canada,1
+Innsbruck 1976,0.0,Canada,1,1,1,3,Innsbruck ,1976,Austria,Canada,23518.0,23754.0,Austria,0
+Lake Placid 1980,0.0,Canada,0,1,1,2,Lake Placid ,1980,United States,Canada,24593.0,25784.0,United States,0
+Sarajevo 1984,0.0,Canada,2,1,1,4,Sarajevo ,1984,Bosnia and Herzegovina,Canada,25702.0,26836.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Canada,10,18,16,44,Los Angeles ,1984,United States,Canada,25702.0,26836.0,United States,0
+Seoul 1988,1.0,Canada,3,2,5,10,Seoul ,1988,South Korea,Canada,26895.0,30275.0,Republic of Korea,0
+Calgary 1988,0.0,Canada,0,2,3,5,Calgary ,1988,Canada,Canada,26895.0,30275.0,Canada,1
+Albertville 1992,0.0,Canada,2,3,2,7,Albertville ,1992,France,Canada,28487.0,29141.19,France,0
+Barcelona 1992,1.0,Canada,7,4,7,18,Barcelona ,1992,Spain,Canada,28487.0,29141.19,Spain,0
+Lillehammer 1994,0.0,Canada,3,6,4,13,Lillehammer ,1994,Norway,Canada,29126.0,30745.82,Norway,0
+Atlanta 1996,1.0,Canada,3,11,8,22,Atlanta ,1996,United States,Canada,29740.0,31594.24,United States,0
+Nagano 1998,0.0,Canada,6,5,4,15,Nagano ,1998,Japan,Canada,30297.0,33785.75,Japan,0
+Sydney 2000,1.0,Canada,3,3,8,14,Sydney ,2000,Australia,Canada,30823.0,36942.56,Australia,0
+Salt Lake City 2002,0.0,Canada,7,3,7,17,Salt Lake City ,2002,United States,Canada,31489.0,38123.99,United States,0
+Athens 2004,1.0,Canada,3,6,3,12,Athens ,2004,Greece,Canada,32084.0,39491.57,Greece,0
+Beijing 2008,1.0,Canada,3,9,8,20,Beijing ,2008,China,Canada,33390.0,41896.43,China,0
+Vancouver 2010,0.0,Canada,14,7,5,26,Vancouver ,2010,Canada,Canada,34153.0,41209.43,Canada,1
+London 2012,1.0,Canada,2,5,11,18,London ,2012,United Kingdom,Canada,34864.0,42445.0,United Kingdom,0
+Sochi 2014,0.0,Canada,10,10,5,25,Sochi ,2014,Russia,Canada,35595.0,43607.0,Russian Federation,0
+Rio 2016,1.0,Canada,4,3,15,22,Rio ,2016,Brazil,Canada,36259.0,43745.0,Brazil,0
+PyeongChang 2018,0.0,Canada,11,8,10,29,PyeongChang ,2018,South Korea,Canada,37206.0,44868.74,Republic of Korea,0
+Tokyo 2020,1.0,Canada,7,6,11,24,Tokyo ,2020,Japan,Canada,,,Japan,0
+London 1908,1.0,Norway,2,3,3,8,London ,1908,United Kingdom,Norway,2346.0,3612.0,United Kingdom,0
+Stockholm 1912,1.0,Norway,4,1,5,10,Stockholm ,1912,Sweden,Norway,2423.0,4050.0,Sweden,0
+Antwerp 1920,1.0,Norway,13,10,9,32,Antwerp ,1920,Belgium,Norway,2635.0,4739.0,Belgium,0
+Paris 1924,1.0,Norway,5,2,3,10,Paris ,1924,France,Norway,2729.0,4787.0,France,0
+Chamonix 1924,0.0,Norway,4,7,6,17,Chamonix ,1924,France,Norway,2729.0,4787.0,France,0
+Amsterdam 1928,1.0,Norway,1,2,1,4,Amsterdam ,1928,Netherlands,Norway,2785.0,5241.0,Netherlands,0
+St. Moritz 1928,0.0,Norway,6,4,5,15,St. Moritz ,1928,Switzerland,Norway,2785.0,5241.0,Switzerland,0
+Lake Placid 1932,0.0,Norway,3,4,3,10,Lake Placid ,1932,United States,Norway,2842.0,5526.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Norway,7,5,3,15,Garmisch-Partenkirchen ,1936,Germany,Norway,2904.0,6432.0,Germany,0
+Berlin 1936,1.0,Norway,1,3,2,6,Berlin ,1936,Germany,Norway,2904.0,6432.0,Germany,0
+St. Moritz 1948,0.0,Norway,4,3,3,10,St. Moritz ,1948,Switzerland,Norway,3201.0,8199.0,Switzerland,0
+London 1948,1.0,Norway,1,3,3,7,London ,1948,United Kingdom,Norway,3201.0,8199.0,United Kingdom,0
+Helsinki 1952,1.0,Norway,3,2,0,5,Helsinki ,1952,Finland,Norway,3328.0,9267.0,Finland,0
+Oslo 1952,0.0,Norway,7,3,6,16,Oslo ,1952,Norway,Norway,3328.0,9267.0,Norway,1
+Melbourne 1956,1.0,Norway,1,0,2,3,Melbourne ,1956,Australia,Norway,3460.0,10480.0,Australia,0
+Squaw Valley 1960,0.0,Norway,3,3,0,6,Squaw Valley ,1960,United States,Norway,3581.0,11483.0,United States,0
+Rome 1960,1.0,Norway,1,0,0,1,Rome ,1960,Italy,Norway,3581.0,11483.0,Italy,0
+Innsbruck 1964,0.0,Norway,3,6,6,15,Innsbruck ,1964,Austria,Norway,3694.0,13256.0,Austria,0
+Mexico City 1968,1.0,Norway,1,1,0,2,Mexico City ,1968,Mexico,Norway,3819.0,15224.0,Mexico,0
+Grenoble 1968,0.0,Norway,6,6,2,14,Grenoble ,1968,France,Norway,3819.0,15224.0,France,0
+Sapporo 1972,0.0,Norway,2,5,5,12,Sapporo ,1972,Japan,Norway,3933.0,17409.0,Japan,0
+Munich 1972,1.0,Norway,2,1,1,4,Munich ,1972,Germany,Norway,3933.0,17409.0,Germany,0
+Montreal 1976,1.0,Norway,1,1,0,2,Montreal ,1976,Canada,Norway,4026.0,20610.0,Canada,0
+Innsbruck 1976,0.0,Norway,3,3,1,7,Innsbruck ,1976,Austria,Norway,4026.0,20610.0,Austria,0
+Lake Placid 1980,0.0,Norway,1,3,6,10,Lake Placid ,1980,United States,Norway,4086.0,24031.0,United States,0
+Sarajevo 1984,0.0,Norway,3,2,4,9,Sarajevo ,1984,Bosnia and Herzegovina,Norway,4140.0,26321.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Norway,0,1,2,3,Los Angeles ,1984,United States,Norway,4140.0,26321.0,United States,0
+Seoul 1988,1.0,Norway,2,3,0,5,Seoul ,1988,South Korea,Norway,4209.0,28786.0,Republic of Korea,0
+Calgary 1988,0.0,Norway,0,3,2,5,Calgary ,1988,Canada,Norway,4209.0,28786.0,Canada,0
+Albertville 1992,0.0,Norway,9,6,5,20,Albertville ,1992,France,Norway,4287.0,33041.21,France,0
+Barcelona 1992,1.0,Norway,2,4,1,7,Barcelona ,1992,Spain,Norway,4287.0,33041.21,Spain,0
+Lillehammer 1994,0.0,Norway,10,11,5,26,Lillehammer ,1994,Norway,Norway,4337.0,37492.84,Norway,1
+Atlanta 1996,1.0,Norway,2,2,3,7,Atlanta ,1996,United States,Norway,4382.0,43133.14,United States,0
+Nagano 1998,0.0,Norway,10,10,5,25,Nagano ,1998,Japan,Norway,4432.0,48956.73,Japan,0
+Sydney 2000,1.0,Norway,4,3,3,10,Sydney ,2000,Australia,Norway,4492.0,54039.96,Australia,0
+Salt Lake City 2002,0.0,Norway,13,5,7,25,Salt Lake City ,2002,United States,Norway,4539.0,58840.41,United States,0
+Athens 2004,1.0,Norway,5,0,1,6,Athens ,2004,Greece,Norway,4592.0,64824.14,Greece,0
+Beijing 2008,1.0,Norway,3,5,1,9,Beijing ,2008,China,Norway,4769.0,76522.06,China,0
+Vancouver 2010,0.0,Norway,9,8,6,23,Vancouver ,2010,Canada,Norway,4890.0,78476.15,Canada,0
+London 2012,1.0,Norway,2,1,1,4,London ,2012,United Kingdom,Norway,5019.0,81759.0,United Kingdom,0
+Sochi 2014,0.0,Norway,11,5,10,26,Sochi ,2014,Russia,Norway,5138.0,82216.0,Russian Federation,0
+Rio 2016,1.0,Norway,0,0,4,4,Rio ,2016,Brazil,Norway,5235.0,82814.0,Brazil,0
+PyeongChang 2018,0.0,Norway,14,14,11,39,PyeongChang ,2018,South Korea,Norway,5313.0,84580.14,Republic of Korea,0
+Tokyo 2020,1.0,Norway,4,2,2,8,Tokyo ,2020,Japan,Norway,,,Japan,0
+London 1908,1.0,Italy,2,2,0,4,London ,1908,United Kingdom,Italy,35899.0,3795.0,United Kingdom,0
+Stockholm 1912,1.0,Italy,5,1,2,8,Stockholm ,1912,Sweden,Italy,37150.0,3875.0,Sweden,0
+Antwerp 1920,1.0,Italy,14,6,5,25,Antwerp ,1920,Belgium,Italy,37398.0,3789.0,Belgium,0
+Paris 1924,1.0,Italy,8,3,5,16,Paris ,1924,France,Italy,38810.0,4324.0,France,0
+Amsterdam 1928,1.0,Italy,7,6,7,20,Amsterdam ,1928,Netherlands,Italy,40186.0,4693.0,Netherlands,0
+Los Angeles 1932,1.0,Italy,12,12,12,36,Los Angeles ,1932,United States,Italy,41431.0,4602.0,United States,0
+Berlin 1936,1.0,Italy,9,13,5,27,Berlin ,1936,Germany,Italy,42750.0,4471.0,Germany,0
+St. Moritz 1948,0.0,Italy,1,0,0,1,St. Moritz ,1948,Switzerland,Italy,46381.0,4814.0,Switzerland,0
+London 1948,1.0,Italy,9,12,10,31,London ,1948,United Kingdom,Italy,46381.0,4814.0,United Kingdom,0
+Helsinki 1952,1.0,Italy,8,9,4,21,Helsinki ,1952,Finland,Italy,47666.0,6371.0,Finland,0
+Oslo 1952,0.0,Italy,1,0,1,2,Oslo ,1952,Norway,Italy,47666.0,6371.0,Norway,0
+Melbourne 1956,1.0,Italy,8,6,8,22,Melbourne ,1956,Australia,Italy,48921.0,7745.0,Australia,0
+Squaw Valley 1960,0.0,Italy,0,0,1,1,Squaw Valley ,1960,United States,Italy,50198.0,9430.0,United States,0
+Rome 1960,1.0,Italy,13,10,13,36,Rome ,1960,Italy,Italy,50198.0,9430.0,Italy,1
+Innsbruck 1964,0.0,Italy,0,1,3,4,Innsbruck ,1964,Austria,Italy,51600.0,11934.0,Austria,0
+Tokyo 1964,1.0,Italy,10,10,7,27,Tokyo ,1964,Japan,Italy,51600.0,11934.0,Japan,0
+Mexico City 1968,1.0,Italy,3,4,9,16,Mexico City ,1968,Mexico,Italy,52987.0,14513.0,Mexico,0
+Grenoble 1968,0.0,Italy,4,0,0,4,Grenoble ,1968,France,Italy,52987.0,14513.0,France,0
+Sapporo 1972,0.0,Italy,2,2,1,5,Sapporo ,1972,Japan,Italy,54366.0,16035.0,Japan,0
+Munich 1972,1.0,Italy,5,3,10,18,Munich ,1972,Germany,Italy,54366.0,16035.0,Germany,0
+Montreal 1976,1.0,Italy,2,7,4,13,Montreal ,1976,Canada,Italy,55839.0,18147.0,Canada,0
+Innsbruck 1976,0.0,Italy,1,2,1,4,Innsbruck ,1976,Austria,Italy,55839.0,18147.0,Austria,0
+Moscow 1980,1.0,Italy,8,3,4,15,Moscow ,1980,Russia,Italy,56451.0,20959.0,Russian Federation,0
+Lake Placid 1980,0.0,Italy,0,2,0,2,Lake Placid ,1980,United States,Italy,56451.0,20959.0,United States,0
+Sarajevo 1984,0.0,Italy,2,0,0,2,Sarajevo ,1984,Bosnia and Herzegovina,Italy,56697.0,21868.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Italy,14,6,12,32,Los Angeles ,1984,United States,Italy,56697.0,21868.0,United States,0
+Seoul 1988,1.0,Italy,6,4,4,14,Seoul ,1988,South Korea,Italy,56734.0,24743.0,Republic of Korea,0
+Calgary 1988,0.0,Italy,2,1,2,5,Calgary ,1988,Canada,Italy,56734.0,24743.0,Canada,0
+Albertville 1992,0.0,Italy,4,6,4,14,Albertville ,1992,France,Italy,56821.0,26960.61,France,0
+Barcelona 1992,1.0,Italy,6,5,8,19,Barcelona ,1992,Spain,Italy,56821.0,26960.61,Spain,0
+Lillehammer 1994,0.0,Italy,7,5,8,20,Lillehammer ,1994,Norway,Italy,56867.0,27668.26,Norway,0
+Atlanta 1996,1.0,Italy,13,10,12,35,Atlanta ,1996,United States,Italy,56884.0,29231.28,United States,0
+Nagano 1998,0.0,Italy,2,6,2,10,Nagano ,1998,Japan,Italy,56930.0,30649.63,Japan,0
+Sydney 2000,1.0,Italy,13,8,13,34,Sydney ,2000,Australia,Italy,56966.0,32716.98,Australia,0
+Salt Lake City 2002,0.0,Italy,4,4,5,13,Salt Lake City ,2002,United States,Italy,57083.0,33780.05,United States,0
+Athens 2004,1.0,Italy,10,11,11,32,Athens ,2004,Greece,Italy,57709.0,34472.13,Greece,0
+Beijing 2008,1.0,Italy,8,9,10,27,Beijing ,2008,China,Italy,58851.0,35942.94,China,0
+Vancouver 2010,0.0,Italy,1,1,3,5,Vancouver ,2010,Canada,Italy,59302.0,34765.94,Canada,0
+London 2012,1.0,Italy,8,9,11,28,London ,2012,United Kingdom,Italy,59565.0,34068.0,United Kingdom,0
+Sochi 2014,0.0,Italy,0,2,6,8,Sochi ,2014,Russia,Italy,60814.0,32829.0,Russian Federation,0
+Rio 2016,1.0,Italy,8,12,8,28,Rio ,2016,Brazil,Italy,60653.0,33419.0,Brazil,0
+PyeongChang 2018,0.0,Italy,3,2,5,10,PyeongChang ,2018,South Korea,Italy,60447.0,34364.17,Republic of Korea,0
+Tokyo 2020,1.0,Italy,10,10,20,40,Tokyo ,2020,Japan,Italy,,,Japan,0
+London 1908,1.0,Belgium,1,5,2,8,London ,1908,United Kingdom,Belgium,7411.0,6269.0,United Kingdom,0
+Stockholm 1912,1.0,Belgium,2,1,3,6,Stockholm ,1912,Sweden,Belgium,7590.0,6704.0,Sweden,0
+Antwerp 1920,1.0,Belgium,16,12,14,42,Antwerp ,1920,Belgium,Belgium,7552.0,6315.0,Belgium,1
+Paris 1924,1.0,Belgium,3,7,3,13,Paris ,1924,France,Belgium,7707.0,7393.0,France,0
+Chamonix 1924,0.0,Belgium,0,0,1,1,Chamonix ,1924,France,Belgium,7707.0,7393.0,France,0
+Amsterdam 1928,1.0,Belgium,0,1,2,3,Amsterdam ,1928,Netherlands,Belgium,7968.0,8191.0,Netherlands,0
+St. Moritz 1928,0.0,Belgium,0,0,1,1,St. Moritz ,1928,Switzerland,Belgium,7968.0,8191.0,Switzerland,0
+Los Angeles 1932,1.0,Belgium,0,0,1,1,Los Angeles ,1932,United States,Belgium,8186.0,7343.0,United States,0
+Berlin 1936,1.0,Belgium,0,0,3,3,Berlin ,1936,Germany,Belgium,8315.0,7831.0,Germany,0
+St. Moritz 1948,0.0,Belgium,1,1,0,2,St. Moritz ,1948,Switzerland,Belgium,8557.0,8008.0,Switzerland,0
+London 1948,1.0,Belgium,2,2,3,7,London ,1948,United Kingdom,Belgium,8557.0,8008.0,United Kingdom,0
+Helsinki 1952,1.0,Belgium,2,2,0,4,Helsinki ,1952,Finland,Belgium,8730.0,9035.0,Finland,0
+Melbourne 1956,1.0,Belgium,0,2,0,2,Melbourne ,1956,Australia,Belgium,8924.0,10237.0,Australia,0
+Rome 1960,1.0,Belgium,0,2,2,4,Rome ,1960,Italy,Belgium,9119.0,11081.0,Italy,0
+Tokyo 1964,1.0,Belgium,2,0,1,3,Tokyo ,1964,Japan,Belgium,9367.0,13295.0,Japan,0
+Mexico City 1968,1.0,Belgium,0,1,1,2,Mexico City ,1968,Mexico,Belgium,9590.0,15009.0,Mexico,0
+Munich 1972,1.0,Belgium,0,2,0,2,Munich ,1972,Germany,Belgium,9709.0,18336.0,Germany,0
+Montreal 1976,1.0,Belgium,0,3,3,6,Montreal ,1976,Canada,Belgium,9811.0,20916.0,Canada,0
+Moscow 1980,1.0,Belgium,1,0,0,1,Moscow ,1980,Russia,Belgium,9847.0,23060.0,Russian Federation,0
+Los Angeles 1984,1.0,Belgium,1,1,2,4,Los Angeles ,1984,United States,Belgium,9855.0,23644.0,United States,0
+Seoul 1988,1.0,Belgium,0,0,2,2,Seoul ,1988,South Korea,Belgium,9884.0,25905.0,Republic of Korea,0
+Barcelona 1992,1.0,Belgium,0,1,2,3,Barcelona ,1992,Spain,Belgium,10047.0,28199.57,Spain,0
+Atlanta 1996,1.0,Belgium,2,2,2,6,Atlanta ,1996,United States,Belgium,10159.0,29820.3,United States,0
+Nagano 1998,0.0,Belgium,0,0,1,1,Nagano ,1998,Japan,Belgium,10205.0,31480.74,Japan,0
+Sydney 2000,1.0,Belgium,0,2,3,5,Sydney ,2000,Australia,Belgium,10253.0,33719.77,Australia,0
+Athens 2004,1.0,Belgium,1,0,2,3,Athens ,2004,Greece,Belgium,10423.0,35740.35,Greece,0
+Beijing 2008,1.0,Belgium,2,0,0,2,Beijing ,2008,China,Belgium,10712.0,38117.35,China,0
+London 2012,1.0,Belgium,0,1,2,3,London ,2012,United Kingdom,Belgium,11109.0,37906.0,United Kingdom,0
+Rio 2016,1.0,Belgium,2,2,2,6,Rio ,2016,Brazil,Belgium,11334.0,38766.0,Brazil,0
+PyeongChang 2018,0.0,Belgium,0,1,0,1,PyeongChang ,2018,South Korea,Belgium,11429.0,39756.2,Republic of Korea,0
+Tokyo 2020,1.0,Belgium,3,1,3,7,Tokyo ,2020,Japan,Belgium,,,Japan,0
+London 1908,1.0,Australasia,1,2,2,5,London ,1908,United Kingdom,,,,United Kingdom,0
+Stockholm 1912,1.0,Australasia,2,2,3,7,Stockholm ,1912,Sweden,,,,Sweden,0
+London 1908,1.0,Russian Federation,1,2,0,3,London ,1908,United Kingdom,Russian Federation,,,United Kingdom,0
+Stockholm 1912,1.0,Russian Federation,0,2,3,5,Stockholm ,1912,Sweden,Russian Federation,,,Sweden,0
+Lillehammer 1994,0.0,Russian Federation,11,8,4,23,Lillehammer ,1994,Norway,Russian Federation,148173.0,8743.75,Norway,0
+Atlanta 1996,1.0,Russian Federation,26,21,16,63,Atlanta ,1996,United States,Russian Federation,147973.0,8479.38,United States,0
+Nagano 1998,0.0,Russian Federation,9,6,3,18,Nagano ,1998,Japan,Russian Federation,147175.0,8557.5,Japan,0
+Sydney 2000,1.0,Russian Federation,32,28,29,89,Sydney ,2000,Australia,Russian Federation,145977.0,10552.88,Australia,0
+Salt Lake City 2002,0.0,Russian Federation,5,4,4,13,Salt Lake City ,2002,United States,Russian Federation,144680.0,12259.48,United States,0
+Athens 2004,1.0,Russian Federation,28,26,36,90,Athens ,2004,Greece,Russian Federation,143483.0,14880.98,Greece,0
+Beijing 2008,1.0,Russian Federation,24,13,23,60,Beijing ,2008,China,Russian Federation,142385.0,21563.46,China,0
+Vancouver 2010,0.0,Russian Federation,3,5,7,15,Vancouver ,2010,Canada,Russian Federation,142585.0,21737.38,Canada,0
+London 2012,1.0,Russian Federation,20,19,28,67,London ,2012,United Kingdom,Russian Federation,142984.0,23931.0,United Kingdom,0
+Sochi 2014,0.0,Russian Federation,11,9,9,29,Sochi ,2014,Russia,Russian Federation,145977.0,24387.0,Russian Federation,1
+Rio 2016,1.0,Russian Federation,19,17,20,56,Rio ,2016,Brazil,Russian Federation,146476.0,23635.0,Brazil,0
+London 1908,1.0,Finland,1,1,3,5,London ,1908,United Kingdom,Finland,2861.0,2915.0,United Kingdom,0
+Stockholm 1912,1.0,Finland,9,8,9,26,Stockholm ,1912,Sweden,Finland,2998.0,3223.0,Sweden,0
+Antwerp 1920,1.0,Finland,15,10,9,34,Antwerp ,1920,Belgium,Finland,3133.0,2942.0,Belgium,0
+Paris 1924,1.0,Finland,14,13,10,37,Paris ,1924,France,Finland,3272.0,3545.0,France,0
+Chamonix 1924,0.0,Finland,4,4,3,11,Chamonix ,1924,France,Finland,3272.0,3545.0,France,0
+Amsterdam 1928,1.0,Finland,8,8,9,25,Amsterdam ,1928,Netherlands,Finland,3396.0,4315.0,Netherlands,0
+St. Moritz 1928,0.0,Finland,2,1,1,4,St. Moritz ,1928,Switzerland,Finland,3396.0,4315.0,Switzerland,0
+Lake Placid 1932,0.0,Finland,1,1,1,3,Lake Placid ,1932,United States,Finland,3503.0,4065.0,United States,0
+Los Angeles 1932,1.0,Finland,5,8,12,25,Los Angeles ,1932,United States,Finland,3503.0,4065.0,United States,0
+Garmisch-Partenkirchen 1936,0.0,Finland,1,2,3,6,Garmisch-Partenkirchen ,1936,Germany,Finland,3601.0,5227.0,Germany,0
+Berlin 1936,1.0,Finland,8,6,6,20,Berlin ,1936,Germany,Finland,3601.0,5227.0,Germany,0
+St. Moritz 1948,0.0,Finland,1,3,2,6,St. Moritz ,1948,Switzerland,Finland,3912.0,6307.0,Switzerland,0
+London 1948,1.0,Finland,10,8,6,24,London ,1948,United Kingdom,Finland,3912.0,6307.0,United Kingdom,0
+Helsinki 1952,1.0,Finland,6,3,13,22,Helsinki ,1952,Finland,Finland,4091.0,7450.0,Finland,1
+Oslo 1952,0.0,Finland,3,4,2,9,Oslo ,1952,Norway,Finland,4091.0,7450.0,Norway,0
+Melbourne 1956,1.0,Finland,3,1,11,15,Melbourne ,1956,Australia,Finland,4282.0,8440.0,Australia,0
+Squaw Valley 1960,0.0,Finland,2,3,3,8,Squaw Valley ,1960,United States,Finland,4430.0,9931.0,United States,0
+Rome 1960,1.0,Finland,1,1,3,5,Rome ,1960,Italy,Finland,4430.0,9931.0,Italy,0
+Innsbruck 1964,0.0,Finland,3,4,3,10,Innsbruck ,1964,Austria,Finland,4549.0,11647.0,Austria,0
+Tokyo 1964,1.0,Finland,3,0,2,5,Tokyo ,1964,Japan,Finland,4549.0,11647.0,Japan,0
+Mexico City 1968,1.0,Finland,1,2,1,4,Mexico City ,1968,Mexico,Finland,4626.0,12900.0,Mexico,0
+Grenoble 1968,0.0,Finland,1,2,2,5,Grenoble ,1968,France,Finland,4626.0,12900.0,France,0
+Sapporo 1972,0.0,Finland,0,4,1,5,Sapporo ,1972,Japan,Finland,4640.0,16654.0,Japan,0
+Munich 1972,1.0,Finland,3,1,4,8,Munich ,1972,Germany,Finland,4640.0,16654.0,Germany,0
+Montreal 1976,1.0,Finland,4,2,0,6,Montreal ,1976,Canada,Finland,4726.0,18104.0,Canada,0
+Innsbruck 1976,0.0,Finland,2,4,1,7,Innsbruck ,1976,Austria,Finland,4726.0,18104.0,Austria,0
+Moscow 1980,1.0,Finland,3,1,4,8,Moscow ,1980,Russia,Finland,4780.0,20640.0,Russian Federation,0
+Lake Placid 1980,0.0,Finland,1,5,3,9,Lake Placid ,1980,United States,Finland,4780.0,20640.0,United States,0
+Sarajevo 1984,0.0,Finland,4,3,6,13,Sarajevo ,1984,Bosnia and Herzegovina,Finland,4882.0,22486.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Finland,4,2,6,12,Los Angeles ,1984,United States,Finland,4882.0,22486.0,United States,0
+Seoul 1988,1.0,Finland,1,1,2,4,Seoul ,1988,South Korea,Finland,4947.0,25644.0,Republic of Korea,0
+Calgary 1988,0.0,Finland,4,1,2,7,Calgary ,1988,Canada,Finland,4947.0,25644.0,Canada,0
+Albertville 1992,0.0,Finland,3,1,3,7,Albertville ,1992,France,Finland,5042.0,24219.76,France,0
+Barcelona 1992,1.0,Finland,1,2,2,5,Barcelona ,1992,Spain,Finland,5042.0,24219.76,Spain,0
+Lillehammer 1994,0.0,Finland,0,1,5,6,Lillehammer ,1994,Norway,Finland,5088.0,24797.66,Norway,0
+Atlanta 1996,1.0,Finland,1,2,1,4,Atlanta ,1996,United States,Finland,5125.0,26637.27,United States,0
+Nagano 1998,0.0,Finland,2,4,6,12,Nagano ,1998,Japan,Finland,5153.0,29715.34,Japan,0
+Sydney 2000,1.0,Finland,2,1,1,4,Sydney ,2000,Australia,Finland,5176.0,32689.77,Australia,0
+Salt Lake City 2002,0.0,Finland,4,2,1,7,Salt Lake City ,2002,United States,Finland,5201.0,33986.55,United States,0
+Athens 2004,1.0,Finland,0,2,0,2,Athens ,2004,Greece,Finland,5228.0,35888.61,Greece,0
+Beijing 2008,1.0,Finland,1,1,2,4,Beijing ,2008,China,Finland,5313.0,40129.65,China,0
+Vancouver 2010,0.0,Finland,0,1,4,5,Vancouver ,2010,Canada,Finland,5363.0,37615.11,Canada,0
+London 2012,1.0,Finland,0,2,1,3,London ,2012,United Kingdom,Finland,5414.0,37704.0,United Kingdom,0
+Sochi 2014,0.0,Finland,1,3,1,5,Sochi ,2014,Russia,Finland,5462.0,36858.0,Russian Federation,0
+Rio 2016,1.0,Finland,0,0,1,1,Rio ,2016,Brazil,Finland,5495.0,37239.0,Brazil,0
+PyeongChang 2018,0.0,Finland,1,1,4,6,PyeongChang ,2018,South Korea,Finland,5516.0,38896.7,Republic of Korea,0
+Tokyo 2020,1.0,Finland,0,0,2,2,Tokyo ,2020,Japan,Finland,,,Japan,0
+London 1908,1.0,South Africa,1,1,0,2,London ,1908,United Kingdom,South Africa,5733.697674418605,2283.0,United Kingdom,0
+Stockholm 1912,1.0,South Africa,4,2,0,6,Stockholm ,1912,Sweden,South Africa,6069.139534883721,1839.75,Sweden,0
+Antwerp 1920,1.0,South Africa,3,4,3,10,Antwerp ,1920,Belgium,South Africa,7561.135135135135,1915.0,Belgium,0
+Paris 1924,1.0,South Africa,1,1,1,3,Paris ,1924,France,South Africa,8365.783783783783,2037.0,France,0
+Amsterdam 1928,1.0,South Africa,1,0,2,3,Amsterdam ,1928,Netherlands,South Africa,9170.432432432433,2444.0,Netherlands,0
+Los Angeles 1932,1.0,South Africa,2,0,3,5,Los Angeles ,1932,United States,South Africa,9975.081081081082,2047.0,United States,0
+Berlin 1936,1.0,South Africa,0,1,0,1,Berlin ,1936,Germany,South Africa,10779.72972972973,3048.0,Germany,0
+London 1948,1.0,South Africa,2,2,2,6,London ,1948,United Kingdom,South Africa,13193.675675675677,3848.0,United Kingdom,0
+Helsinki 1952,1.0,South Africa,2,4,4,10,Helsinki ,1952,Finland,South Africa,14265.0,4175.0,Finland,0
+Melbourne 1956,1.0,South Africa,0,0,4,4,Melbourne ,1956,Australia,South Africa,15755.0,4645.0,Australia,0
+Rome 1960,1.0,South Africa,0,1,2,3,Rome ,1960,Italy,South Africa,17417.0,4847.0,Italy,0
+Barcelona 1992,1.0,South Africa,0,2,0,2,Barcelona ,1992,Spain,South Africa,40079.0,5901.98,Spain,0
+Atlanta 1996,1.0,South Africa,3,1,1,5,Atlanta ,1996,United States,South Africa,42643.0,6725.79,United States,0
+Sydney 2000,1.0,South Africa,0,2,3,5,Sydney ,2000,Australia,South Africa,44882.0,7582.78,Australia,0
+Athens 2004,1.0,South Africa,1,3,2,6,Athens ,2004,Greece,South Africa,47406.0,8877.92,Greece,0
+Beijing 2008,1.0,South Africa,0,1,0,1,Beijing ,2008,China,South Africa,49990.0,10977.15,China,0
+London 2012,1.0,South Africa,4,1,1,6,London ,2012,United Kingdom,South Africa,51877.0,11992.0,United Kingdom,0
+Rio 2016,1.0,South Africa,2,6,2,10,Rio ,2016,Brazil,South Africa,54263.0,12139.0,Brazil,0
+Tokyo 2020,1.0,South Africa,1,2,0,3,Tokyo ,2020,Japan,South Africa,,,Japan,0
+London 1908,1.0,Netherlands,0,0,2,2,London ,1908,United Kingdom,Netherlands,5786.0,5628.0,United Kingdom,0
+Stockholm 1912,1.0,Netherlands,0,0,3,3,Stockholm ,1912,Sweden,Netherlands,6068.0,6245.0,Sweden,0
+Antwerp 1920,1.0,Netherlands,4,2,5,11,Antwerp ,1920,Belgium,Netherlands,6848.0,6727.0,Belgium,0
+Paris 1924,1.0,Netherlands,4,1,6,11,Paris ,1924,France,Netherlands,7264.0,7803.0,France,0
+Amsterdam 1928,1.0,Netherlands,8,10,5,23,Amsterdam ,1928,Netherlands,Netherlands,7679.0,9118.0,Netherlands,1
+Los Angeles 1932,1.0,Netherlands,2,5,1,8,Los Angeles ,1932,United States,Netherlands,8123.0,8026.0,United States,0
+Berlin 1936,1.0,Netherlands,6,4,7,17,Berlin ,1936,Germany,Netherlands,8516.0,8273.0,Germany,0
+London 1948,1.0,Netherlands,5,2,9,16,London ,1948,United Kingdom,Netherlands,9800.0,8751.0,United Kingdom,0
+Helsinki 1952,1.0,Netherlands,0,5,0,5,Helsinki ,1952,Finland,Netherlands,10382.0,9698.0,Finland,0
+Oslo 1952,0.0,Netherlands,0,3,0,3,Oslo ,1952,Norway,Netherlands,10382.0,9698.0,Norway,0
+Squaw Valley 1960,0.0,Netherlands,0,1,1,2,Squaw Valley ,1960,United States,Netherlands,11486.0,13209.0,United States,0
+Rome 1960,1.0,Netherlands,0,1,2,3,Rome ,1960,Italy,Netherlands,11486.0,13209.0,Italy,0
+Innsbruck 1964,0.0,Netherlands,1,1,0,2,Innsbruck ,1964,Austria,Netherlands,12127.0,15042.0,Austria,0
+Tokyo 1964,1.0,Netherlands,2,4,4,10,Tokyo ,1964,Japan,Netherlands,12127.0,15042.0,Japan,0
+Mexico City 1968,1.0,Netherlands,3,3,1,7,Mexico City ,1968,Mexico,Netherlands,12725.0,17365.0,Mexico,0
+Grenoble 1968,0.0,Netherlands,3,3,3,9,Grenoble ,1968,France,Netherlands,12725.0,17365.0,France,0
+Sapporo 1972,0.0,Netherlands,4,3,2,9,Sapporo ,1972,Japan,Netherlands,13330.0,20079.0,Japan,0
+Munich 1972,1.0,Netherlands,3,1,1,5,Munich ,1972,Germany,Netherlands,13330.0,20079.0,Germany,0
+Montreal 1976,1.0,Netherlands,0,2,3,5,Montreal ,1976,Canada,Netherlands,13770.0,22132.0,Canada,0
+Innsbruck 1976,0.0,Netherlands,1,2,3,6,Innsbruck ,1976,Austria,Netherlands,13770.0,22132.0,Austria,0
+Moscow 1980,1.0,Netherlands,0,1,2,3,Moscow ,1980,Russia,Netherlands,14144.0,23438.0,Russian Federation,0
+Lake Placid 1980,0.0,Netherlands,1,2,1,4,Lake Placid ,1980,United States,Netherlands,14144.0,23438.0,United States,0
+Los Angeles 1984,1.0,Netherlands,5,2,6,13,Los Angeles ,1984,United States,Netherlands,14420.0,23750.0,United States,0
+Seoul 1988,1.0,Netherlands,2,2,5,9,Seoul ,1988,South Korea,Netherlands,14761.0,25574.0,Republic of Korea,0
+Calgary 1988,0.0,Netherlands,3,2,2,7,Calgary ,1988,Canada,Netherlands,14761.0,25574.0,Canada,0
+Albertville 1992,0.0,Netherlands,1,1,2,4,Albertville ,1992,France,Netherlands,15184.0,28555.73,France,0
+Barcelona 1992,1.0,Netherlands,2,6,7,15,Barcelona ,1992,Spain,Netherlands,15184.0,28555.73,Spain,0
+Lillehammer 1994,0.0,Netherlands,0,1,3,4,Lillehammer ,1994,Norway,Netherlands,15383.0,29727.56,Norway,0
+Atlanta 1996,1.0,Netherlands,4,5,10,19,Atlanta ,1996,United States,Netherlands,15530.0,31811.74,United States,0
+Nagano 1998,0.0,Netherlands,5,4,2,11,Nagano ,1998,Japan,Netherlands,15707.0,34688.55,Japan,0
+Sydney 2000,1.0,Netherlands,12,9,4,25,Sydney ,2000,Australia,Netherlands,15926.0,37899.95,Australia,0
+Salt Lake City 2002,0.0,Netherlands,3,5,0,8,Salt Lake City ,2002,United States,Netherlands,16149.0,38653.12,United States,0
+Athens 2004,1.0,Netherlands,4,9,9,22,Athens ,2004,Greece,Netherlands,16282.0,39682.38,Greece,0
+Beijing 2008,1.0,Netherlands,7,5,4,16,Beijing ,2008,China,Netherlands,16446.0,44840.71,China,0
+Vancouver 2010,0.0,Netherlands,4,1,3,8,Vancouver ,2010,Canada,Netherlands,16615.0,43812.35,Canada,0
+London 2012,1.0,Netherlands,6,6,8,20,London ,2012,United Kingdom,Netherlands,16755.0,43957.0,United Kingdom,0
+Sochi 2014,0.0,Netherlands,8,7,9,24,Sochi ,2014,Russia,Netherlands,16865.0,44205.0,Russian Federation,0
+Rio 2016,1.0,Netherlands,8,7,4,19,Rio ,2016,Brazil,Netherlands,17030.0,45600.0,Brazil,0
+PyeongChang 2018,0.0,Netherlands,8,6,6,20,PyeongChang ,2018,South Korea,Netherlands,17232.0,47474.11,Republic of Korea,0
+Tokyo 2020,1.0,Netherlands,10,12,14,36,Tokyo ,2020,Japan,Netherlands,,,Japan,0
+London 1908,1.0,Bohemia,0,0,2,2,London ,1908,United Kingdom,,,,United Kingdom,0
+Antwerp 1920,1.0,Estonia,1,2,0,3,Antwerp ,1920,Belgium,Estonia,,8403.77966101695,Belgium,0
+Paris 1924,1.0,Estonia,1,1,4,6,Paris ,1924,France,Estonia,,8810.966101694916,France,0
+Amsterdam 1928,1.0,Estonia,2,1,2,5,Amsterdam ,1928,Netherlands,Estonia,,9218.152542372882,Netherlands,0
+Berlin 1936,1.0,Estonia,2,2,3,7,Berlin ,1936,Germany,Estonia,,10032.525423728814,Germany,0
+Barcelona 1992,1.0,Estonia,1,0,1,2,Barcelona ,1992,Spain,Estonia,1533.0,13214.39,Spain,0
+Sydney 2000,1.0,Estonia,1,0,2,3,Sydney ,2000,Australia,Estonia,1365.0,16806.97,Australia,0
+Salt Lake City 2002,0.0,Estonia,1,1,1,3,Salt Lake City ,2002,United States,Estonia,1348.0,18589.15,United States,0
+Athens 2004,1.0,Estonia,0,1,2,3,Athens ,2004,Greece,Estonia,1332.0,20803.76,Greece,0
+Beijing 2008,1.0,Estonia,1,1,0,2,Beijing ,2008,China,Estonia,1307.0,24429.02,China,0
+Vancouver 2010,0.0,Estonia,0,1,0,1,Vancouver ,2010,Canada,Estonia,1301.0,20713.43,Canada,0
+London 2012,1.0,Estonia,0,1,1,2,London ,2012,United Kingdom,Estonia,1293.0,23026.0,United Kingdom,0
+Rio 2016,1.0,Estonia,0,0,1,1,Rio ,2016,Brazil,Estonia,1286.0,24857.0,Brazil,0
+Tokyo 2020,1.0,Estonia,1,0,1,2,Tokyo ,2020,Japan,Estonia,,,Japan,0
+Antwerp 1920,1.0,Brazil,1,1,1,3,Antwerp ,1920,Belgium,Brazil,27404.0,1242.0,Belgium,0
+London 1948,1.0,Brazil,0,0,1,1,London ,1948,United Kingdom,Brazil,49590.0,2096.0,United Kingdom,0
+Helsinki 1952,1.0,Brazil,1,0,2,3,Helsinki ,1952,Finland,Brazil,56603.0,2377.0,Finland,0
+Melbourne 1956,1.0,Brazil,1,0,0,1,Melbourne ,1956,Australia,Brazil,63632.0,2672.0,Australia,0
+Rome 1960,1.0,Brazil,0,0,2,2,Rome ,1960,Italy,Brazil,71695.0,3398.0,Italy,0
+Tokyo 1964,1.0,Brazil,0,0,1,1,Tokyo ,1964,Japan,Brazil,80667.0,3637.0,Japan,0
+Mexico City 1968,1.0,Brazil,0,1,2,3,Mexico City ,1968,Mexico,Brazil,90569.0,4050.0,Mexico,0
+Munich 1972,1.0,Brazil,0,0,2,2,Munich ,1972,Germany,Brazil,100874.0,5480.0,Germany,0
+Montreal 1976,1.0,Brazil,0,0,2,2,Montreal ,1976,Canada,Brazil,111603.0,7079.0,Canada,0
+Moscow 1980,1.0,Brazil,2,0,2,4,Moscow ,1980,Russia,Brazil,123020.0,8249.0,Russian Federation,0
+Los Angeles 1984,1.0,Brazil,1,5,2,8,Los Angeles ,1984,United States,Brazil,134699.0,7438.0,United States,0
+Seoul 1988,1.0,Brazil,1,2,3,6,Seoul ,1988,South Korea,Brazil,145873.0,8230.0,Republic of Korea,0
+Barcelona 1992,1.0,Brazil,2,1,0,3,Barcelona ,1992,Spain,Brazil,156281.0,7812.79,Spain,0
+Atlanta 1996,1.0,Brazil,3,3,9,15,Atlanta ,1996,United States,Brazil,166306.0,9124.52,United States,0
+Sydney 2000,1.0,Brazil,0,6,6,12,Sydney ,2000,Australia,Brazil,176369.0,9834.42,Australia,0
+Athens 2004,1.0,Brazil,5,2,3,10,Athens ,2004,Greece,Brazil,185994.0,10949.66,Greece,0
+Beijing 2008,1.0,Brazil,3,4,10,17,Beijing ,2008,China,Brazil,194394.0,13164.01,China,0
+London 2012,1.0,Brazil,3,5,9,17,London ,2012,United Kingdom,Brazil,201670.0,14985.0,United Kingdom,0
+Rio 2016,1.0,Brazil,7,6,6,19,Rio ,2016,Brazil,Brazil,208249.0,13873.0,Brazil,1
+Tokyo 2020,1.0,Brazil,7,6,8,21,Tokyo ,2020,Japan,Brazil,,,Japan,0
+Antwerp 1920,1.0,Spain,0,2,0,2,Antwerp ,1920,Belgium,Spain,21232.0,3244.0,Belgium,0
+Amsterdam 1928,1.0,Spain,1,0,0,1,Amsterdam ,1928,Netherlands,Spain,22977.0,3907.0,Netherlands,0
+Los Angeles 1932,1.0,Spain,0,0,1,1,Los Angeles ,1932,United States,Spain,23897.0,3856.0,United States,0
+London 1948,1.0,Spain,0,1,0,1,London ,1948,United Kingdom,Spain,27437.0,3478.0,United Kingdom,0
+Helsinki 1952,1.0,Spain,0,1,0,1,Helsinki ,1952,Finland,Spain,28550.0,4105.0,Finland,0
+Rome 1960,1.0,Spain,0,0,1,1,Rome ,1960,Italy,Spain,30641.0,5037.0,Italy,0
+Sapporo 1972,0.0,Spain,1,0,0,1,Sapporo ,1972,Japan,Spain,34513.0,10796.0,Japan,0
+Munich 1972,1.0,Spain,0,0,1,1,Munich ,1972,Germany,Spain,34513.0,10796.0,Germany,0
+Montreal 1976,1.0,Spain,0,2,0,2,Montreal ,1976,Canada,Spain,35997.0,13053.0,Canada,0
+Moscow 1980,1.0,Spain,1,3,2,6,Moscow ,1980,Russia,Spain,37488.0,14008.0,Russian Federation,0
+Los Angeles 1984,1.0,Spain,1,2,2,5,Los Angeles ,1984,United States,Spain,38363.0,14308.0,United States,0
+Seoul 1988,1.0,Spain,1,1,2,4,Seoul ,1988,South Korea,Spain,39054.0,17272.0,Republic of Korea,0
+Albertville 1992,0.0,Spain,0,0,1,1,Albertville ,1992,France,Spain,39645.0,20329.17,France,0
+Barcelona 1992,1.0,Spain,13,7,2,22,Barcelona ,1992,Spain,Spain,39645.0,20329.17,Spain,1
+Atlanta 1996,1.0,Spain,5,6,6,17,Atlanta ,1996,United States,Spain,40386.0,22185.07,United States,0
+Sydney 2000,1.0,Spain,3,3,5,11,Sydney ,2000,Australia,Spain,41072.0,26994.86,Australia,0
+Athens 2004,1.0,Spain,3,11,6,20,Athens ,2004,Greece,Spain,43456.0,30088.09,Greece,0
+Beijing 2008,1.0,Spain,5,11,3,19,Beijing ,2008,China,Spain,46526.0,32844.33,China,0
+London 2012,1.0,Spain,4,10,4,18,London ,2012,United Kingdom,Spain,47355.0,30699.0,United Kingdom,0
+Rio 2016,1.0,Spain,7,4,6,17,Rio ,2016,Brazil,Spain,47062.0,30110.0,Brazil,0
+PyeongChang 2018,0.0,Spain,0,0,2,2,PyeongChang ,2018,South Korea,Spain,47380.0,31496.52,Republic of Korea,0
+Tokyo 2020,1.0,Spain,3,8,6,17,Tokyo ,2020,Japan,Spain,,,Japan,0
+Antwerp 1920,1.0,Japan,0,2,0,2,Antwerp ,1920,Belgium,Japan,55818.0,2973.96,Belgium,0
+Paris 1924,1.0,Japan,0,0,1,1,Paris ,1924,France,Japan,58686.0,3316.36,France,0
+Amsterdam 1928,1.0,Japan,2,2,1,5,Amsterdam ,1928,Netherlands,Japan,62361.0,3554.12,Netherlands,0
+Los Angeles 1932,1.0,Japan,7,7,4,18,Los Angeles ,1932,United States,Japan,66189.0,3529.29,United States,0
+Berlin 1936,1.0,Japan,6,4,10,20,Berlin ,1936,Germany,Japan,70171.0,3985.55,Germany,0
+Helsinki 1952,1.0,Japan,1,6,2,9,Helsinki ,1952,Finland,Japan,86459.0,3724.0,Finland,0
+Melbourne 1956,1.0,Japan,4,10,5,19,Melbourne ,1956,Australia,Japan,90766.0,4699.0,Australia,0
+Rome 1960,1.0,Japan,4,7,7,18,Rome ,1960,Italy,Japan,94092.0,6354.0,Italy,0
+Tokyo 1964,1.0,Japan,16,5,8,29,Tokyo ,1964,Japan,Japan,97826.0,9035.0,Japan,1
+Mexico City 1968,1.0,Japan,11,7,7,25,Mexico City ,1968,Mexico,Japan,101961.0,12725.0,Mexico,0
+Sapporo 1972,0.0,Japan,1,1,1,3,Sapporo ,1972,Japan,Japan,107188.0,17110.0,Japan,1
+Munich 1972,1.0,Japan,13,8,8,29,Munich ,1972,Germany,Japan,107188.0,17110.0,Germany,0
+Montreal 1976,1.0,Japan,9,6,10,25,Montreal ,1976,Canada,Japan,112775.0,18600.0,Canada,0
+Lake Placid 1980,0.0,Japan,0,1,0,1,Lake Placid ,1980,United States,Japan,116807.0,21404.0,United States,0
+Sarajevo 1984,0.0,Japan,0,1,0,1,Sarajevo ,1984,Bosnia and Herzegovina,Japan,120035.0,23548.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Japan,10,8,14,32,Los Angeles ,1984,United States,Japan,120035.0,23548.0,United States,0
+Seoul 1988,1.0,Japan,4,3,7,14,Seoul ,1988,South Korea,Japan,122613.0,27393.0,Republic of Korea,0
+Calgary 1988,0.0,Japan,0,0,1,1,Calgary ,1988,Canada,Japan,122613.0,27393.0,Canada,0
+Albertville 1992,0.0,Japan,1,2,4,7,Albertville ,1992,France,Japan,124467.0,30977.81,France,0
+Barcelona 1992,1.0,Japan,3,8,11,22,Barcelona ,1992,Spain,Japan,124467.0,30977.81,Spain,0
+Lillehammer 1994,0.0,Japan,1,2,2,5,Lillehammer ,1994,Norway,Japan,125217.0,31135.43,Norway,0
+Atlanta 1996,1.0,Japan,3,6,5,14,Atlanta ,1996,United States,Japan,125812.0,32784.16,United States,0
+Nagano 1998,0.0,Japan,5,1,4,10,Nagano ,1998,Japan,Japan,126451.0,32558.19,Japan,1
+Sydney 2000,1.0,Japan,5,8,5,18,Sydney ,2000,Australia,Japan,126933.0,33210.81,Australia,0
+Salt Lake City 2002,0.0,Japan,0,1,1,2,Salt Lake City ,2002,United States,Japan,127503.0,33195.4,United States,0
+Athens 2004,1.0,Japan,16,9,12,37,Athens ,2004,Greece,Japan,127837.0,34313.56,Greece,0
+Beijing 2008,1.0,Japan,9,8,8,25,Beijing ,2008,China,Japan,127795.0,35496.23,China,0
+Vancouver 2010,0.0,Japan,0,3,2,5,Vancouver ,2010,Canada,Japan,127529.0,35011.4,Canada,0
+London 2012,1.0,Japan,7,14,17,38,London ,2012,United Kingdom,Japan,127141.0,35580.0,United Kingdom,0
+Sochi 2014,0.0,Japan,1,4,3,8,Sochi ,2014,Russia,Japan,126710.0,36537.0,Russian Federation,0
+Rio 2016,1.0,Japan,12,8,21,41,Rio ,2016,Brazil,Japan,126310.0,37465.0,Brazil,0
+PyeongChang 2018,0.0,Japan,4,5,4,13,PyeongChang ,2018,South Korea,Japan,125848.0,38673.81,Republic of Korea,0
+Tokyo 2020,1.0,Japan,27,14,17,58,Tokyo ,2020,Japan,Japan,,,Japan,1
+Antwerp 1920,1.0,Luxembourg,0,1,0,1,Antwerp ,1920,Belgium,Luxembourg,,,Belgium,0
+Paris 1924,1.0,Luxembourg,1,1,0,2,Paris ,1924,France,Luxembourg,,,France,0
+Amsterdam 1928,1.0,Luxembourg,1,0,0,1,Amsterdam ,1928,Netherlands,Luxembourg,,,Netherlands,0
+Helsinki 1952,1.0,Luxembourg,1,0,0,1,Helsinki ,1952,Finland,Luxembourg,299.0,13162.0,Finland,0
+Albertville 1992,0.0,Luxembourg,0,2,0,2,Albertville ,1992,France,Luxembourg,393.0,39231.59,France,0
+Antwerp 1920,1.0,Czechoslovakia,0,0,2,2,Antwerp ,1920,Belgium,Czechoslovakia,12979.0,3081.0,Belgium,0
+Paris 1924,1.0,Czechoslovakia,1,4,5,10,Paris ,1924,France,Czechoslovakia,13413.0,3751.0,France,0
+Amsterdam 1928,1.0,Czechoslovakia,2,5,2,9,Amsterdam ,1928,Netherlands,Czechoslovakia,13807.0,4745.0,Netherlands,0
+St. Moritz 1928,0.0,Czechoslovakia,0,0,1,1,St. Moritz ,1928,Switzerland,Czechoslovakia,13807.0,4745.0,Switzerland,0
+Los Angeles 1932,1.0,Czechoslovakia,1,3,2,6,Los Angeles ,1932,United States,Czechoslovakia,14138.0,4272.0,United States,0
+Berlin 1936,1.0,Czechoslovakia,3,5,1,9,Berlin ,1936,Germany,Czechoslovakia,14387.0,4143.0,Germany,0
+St. Moritz 1948,0.0,Czechoslovakia,0,1,0,1,St. Moritz ,1948,Switzerland,Czechoslovakia,12339.0,4922.0,Switzerland,0
+London 1948,1.0,Czechoslovakia,6,2,3,11,London ,1948,United Kingdom,Czechoslovakia,12339.0,4922.0,United Kingdom,0
+Helsinki 1952,1.0,Czechoslovakia,7,3,3,13,Helsinki ,1952,Finland,Czechoslovakia,12683.0,5735.0,Finland,0
+Melbourne 1956,1.0,Czechoslovakia,1,4,1,6,Melbourne ,1956,Australia,Czechoslovakia,13229.0,6551.0,Australia,0
+Squaw Valley 1960,0.0,Czechoslovakia,0,1,0,1,Squaw Valley ,1960,United States,Czechoslovakia,13654.0,8142.0,United States,0
+Rome 1960,1.0,Czechoslovakia,3,2,3,8,Rome ,1960,Italy,Czechoslovakia,13654.0,8142.0,Italy,0
+Innsbruck 1964,0.0,Czechoslovakia,0,0,1,1,Innsbruck ,1964,Austria,Czechoslovakia,14052.0,8563.0,Austria,0
+Tokyo 1964,1.0,Czechoslovakia,5,6,3,14,Tokyo ,1964,Japan,Czechoslovakia,14052.0,8563.0,Japan,0
+Mexico City 1968,1.0,Czechoslovakia,7,2,4,13,Mexico City ,1968,Mexico,Czechoslovakia,14323.0,9919.0,Mexico,0
+Grenoble 1968,0.0,Czechoslovakia,1,2,1,4,Grenoble ,1968,France,Czechoslovakia,14323.0,9919.0,France,0
+Sapporo 1972,0.0,Czechoslovakia,1,0,2,3,Sapporo ,1972,Japan,Czechoslovakia,14456.0,10932.0,Japan,0
+Munich 1972,1.0,Czechoslovakia,2,4,2,8,Munich ,1972,Germany,Czechoslovakia,14456.0,10932.0,Germany,0
+Montreal 1976,1.0,Czechoslovakia,2,2,4,8,Montreal ,1976,Canada,Czechoslovakia,14884.0,11893.0,Canada,0
+Innsbruck 1976,0.0,Czechoslovakia,0,1,0,1,Innsbruck ,1976,Austria,Czechoslovakia,14884.0,11893.0,Austria,0
+Moscow 1980,1.0,Czechoslovakia,2,3,9,14,Moscow ,1980,Russia,Czechoslovakia,15255.0,12723.0,Russian Federation,0
+Lake Placid 1980,0.0,Czechoslovakia,0,0,1,1,Lake Placid ,1980,United States,Czechoslovakia,15255.0,12723.0,United States,0
+Sarajevo 1984,0.0,Czechoslovakia,0,2,4,6,Sarajevo ,1984,Bosnia and Herzegovina,Czechoslovakia,15423.0,13260.0,Former Yugoslavia,0
+Seoul 1988,1.0,Czechoslovakia,3,3,2,8,Seoul ,1988,South Korea,Czechoslovakia,15537.0,13882.0,Republic of Korea,0
+Calgary 1988,0.0,Czechoslovakia,0,1,2,3,Calgary ,1988,Canada,Czechoslovakia,15537.0,13882.0,Canada,0
+Albertville 1992,0.0,Czechoslovakia,0,0,3,3,Albertville ,1992,France,Czechoslovakia,15619.0,11742.93,France,0
+Barcelona 1992,1.0,Czechoslovakia,4,2,1,7,Barcelona ,1992,Spain,Czechoslovakia,15619.0,11742.93,Spain,0
+Antwerp 1920,1.0,New Zealand,0,0,1,1,Antwerp ,1920,Belgium,New Zealand,1241.0,8992.0,Belgium,0
+Paris 1924,1.0,New Zealand,0,0,1,1,Paris ,1924,France,New Zealand,1350.0,8198.0,France,0
+Amsterdam 1928,1.0,New Zealand,1,0,0,1,Amsterdam ,1928,Netherlands,New Zealand,1454.0,8195.0,Netherlands,0
+Los Angeles 1932,1.0,New Zealand,0,1,0,1,Los Angeles ,1932,United States,New Zealand,1527.0,6897.0,United States,0
+Berlin 1936,1.0,New Zealand,1,0,0,1,Berlin ,1936,Germany,New Zealand,1573.0,9309.0,Germany,0
+Helsinki 1952,1.0,New Zealand,1,0,2,3,Helsinki ,1952,Finland,New Zealand,1995.0,12427.0,Finland,0
+Melbourne 1956,1.0,New Zealand,2,0,0,2,Melbourne ,1956,Australia,New Zealand,2178.0,14346.0,Australia,0
+Rome 1960,1.0,New Zealand,2,0,1,3,Rome ,1960,Italy,New Zealand,2372.0,15087.0,Italy,0
+Tokyo 1964,1.0,New Zealand,3,0,2,5,Tokyo ,1964,Japan,New Zealand,2592.0,16606.0,Japan,0
+Mexico City 1968,1.0,New Zealand,1,0,2,3,Mexico City ,1968,Mexico,New Zealand,2759.0,16809.0,Mexico,0
+Munich 1972,1.0,New Zealand,1,1,1,3,Munich ,1972,Germany,New Zealand,2929.0,18889.0,Germany,0
+Montreal 1976,1.0,New Zealand,2,1,1,4,Montreal ,1976,Canada,New Zealand,3154.0,20161.0,Canada,0
+Los Angeles 1984,1.0,New Zealand,8,1,2,11,Los Angeles ,1984,United States,New Zealand,3298.0,21783.0,United States,0
+Seoul 1988,1.0,New Zealand,3,2,8,13,Seoul ,1988,South Korea,New Zealand,3361.0,22022.0,Republic of Korea,0
+Albertville 1992,0.0,New Zealand,0,1,0,1,Albertville ,1992,France,New Zealand,3494.0,21093.06,France,0
+Barcelona 1992,1.0,New Zealand,1,4,5,10,Barcelona ,1992,Spain,New Zealand,3494.0,21093.06,Spain,0
+Atlanta 1996,1.0,New Zealand,3,2,1,6,Atlanta ,1996,United States,New Zealand,3697.0,24321.25,United States,0
+Sydney 2000,1.0,New Zealand,1,0,3,4,Sydney ,2000,Australia,New Zealand,3802.0,26823.02,Australia,0
+Athens 2004,1.0,New Zealand,3,2,0,5,Athens ,2004,Greece,New Zealand,4039.0,29806.74,Greece,0
+Beijing 2008,1.0,New Zealand,3,2,4,9,Beijing ,2008,China,New Zealand,4202.0,31444.63,China,0
+London 2012,1.0,New Zealand,6,2,5,13,London ,2012,United Kingdom,New Zealand,4345.0,32674.0,United Kingdom,0
+Rio 2016,1.0,New Zealand,4,9,5,18,Rio ,2016,Brazil,New Zealand,4660.0,34295.0,Brazil,0
+PyeongChang 2018,0.0,New Zealand,0,0,2,2,PyeongChang ,2018,South Korea,New Zealand,4840.0,35336.14,Republic of Korea,0
+Tokyo 2020,1.0,New Zealand,7,6,7,20,Tokyo ,2020,Japan,New Zealand,,,Japan,0
+Paris 1924,1.0,Yugoslavia,2,0,0,2,Paris ,1924,France,Former Yugoslavia,13180.0,1699.0,France,0
+Amsterdam 1928,1.0,Yugoslavia,1,1,3,5,Amsterdam ,1928,Netherlands,Former Yugoslavia,13986.0,1929.0,Netherlands,0
+Berlin 1936,1.0,Yugoslavia,0,1,0,1,Berlin ,1936,Germany,Former Yugoslavia,15651.0,1863.0,Germany,0
+London 1948,1.0,Yugoslavia,0,2,0,2,London ,1948,United Kingdom,Former Yugoslavia,15817.0,2273.0,United Kingdom,0
+Helsinki 1952,1.0,Yugoslavia,1,2,0,3,Helsinki ,1952,Finland,Former Yugoslavia,16708.0,2125.0,Finland,0
+Melbourne 1956,1.0,Yugoslavia,0,3,0,3,Melbourne ,1956,Australia,Former Yugoslavia,17508.0,2560.0,Australia,0
+Rome 1960,1.0,Yugoslavia,1,1,0,2,Rome ,1960,Italy,Former Yugoslavia,18133.0,3778.0,Italy,0
+Tokyo 1964,1.0,Yugoslavia,2,1,2,5,Tokyo ,1964,Japan,Former Yugoslavia,18852.0,4941.0,Japan,0
+Mexico City 1968,1.0,Yugoslavia,3,3,2,8,Mexico City ,1968,Mexico,Former Yugoslavia,19552.0,5523.0,Mexico,0
+Munich 1972,1.0,Yugoslavia,2,1,2,5,Munich ,1972,Germany,Former Yugoslavia,20197.0,6948.0,Germany,0
+Montreal 1976,1.0,Yugoslavia,2,3,3,8,Montreal ,1976,Canada,Former Yugoslavia,20930.0,8207.0,Canada,0
+Moscow 1980,1.0,Yugoslavia,2,3,4,9,Moscow ,1980,Russia,Former Yugoslavia,21615.0,10037.0,Russian Federation,0
+Sarajevo 1984,0.0,Yugoslavia,0,1,0,1,Sarajevo ,1984,Bosnia and Herzegovina,Former Yugoslavia,22087.0,10029.0,Former Yugoslavia,1
+Los Angeles 1984,1.0,Yugoslavia,7,4,7,18,Los Angeles ,1984,United States,Former Yugoslavia,22087.0,10029.0,United States,0
+Seoul 1988,1.0,Yugoslavia,3,4,5,12,Seoul ,1988,South Korea,Former Yugoslavia,22536.0,9884.0,Republic of Korea,0
+Calgary 1988,0.0,Yugoslavia,0,2,1,3,Calgary ,1988,Canada,Former Yugoslavia,22536.0,9884.0,Canada,0
+Paris 1924,1.0,Argentina,1,3,2,6,Paris ,1924,France,Argentina,10054.0,6464.0,France,0
+Amsterdam 1928,1.0,Argentina,3,3,1,7,Amsterdam ,1928,Netherlands,Argentina,11282.0,6840.0,Netherlands,0
+Los Angeles 1932,1.0,Argentina,3,1,0,4,Los Angeles ,1932,United States,Argentina,12402.0,5614.0,United States,0
+Berlin 1936,1.0,Argentina,2,2,3,7,Berlin ,1936,Germany,Argentina,13260.0,6236.0,Germany,0
+London 1948,1.0,Argentina,3,3,1,7,London ,1948,United Kingdom,Argentina,16307.0,8372.0,United Kingdom,0
+Helsinki 1952,1.0,Argentina,1,2,2,5,Helsinki ,1952,Finland,Argentina,17877.0,7519.0,Finland,0
+Melbourne 1956,1.0,Argentina,0,1,1,2,Melbourne ,1956,Australia,Argentina,19272.0,8424.0,Australia,0
+Rome 1960,1.0,Argentina,0,1,1,2,Rome ,1960,Italy,Argentina,20616.0,8861.0,Italy,0
+Tokyo 1964,1.0,Argentina,0,1,0,1,Tokyo ,1964,Japan,Argentina,21949.0,9446.0,Japan,0
+Mexico City 1968,1.0,Argentina,0,0,2,2,Mexico City ,1968,Mexico,Argentina,23261.0,10485.0,Mexico,0
+Munich 1972,1.0,Argentina,0,1,0,1,Munich ,1972,Germany,Argentina,24780.0,12170.0,Germany,0
+Seoul 1988,1.0,Argentina,0,1,1,2,Seoul ,1988,South Korea,Argentina,32099.0,11244.0,Republic of Korea,0
+Barcelona 1992,1.0,Argentina,0,0,1,1,Barcelona ,1992,Spain,Argentina,33967.0,12267.08,Spain,0
+Atlanta 1996,1.0,Argentina,0,2,1,3,Atlanta ,1996,United States,Argentina,35683.0,13715.23,United States,0
+Sydney 2000,1.0,Argentina,0,2,2,4,Sydney ,2000,Australia,Argentina,37336.0,14368.94,Australia,0
+Athens 2004,1.0,Argentina,2,0,4,6,Athens ,2004,Greece,Argentina,38946.0,14183.23,Greece,0
+Beijing 2008,1.0,Argentina,2,0,4,6,Beijing ,2008,China,Argentina,40532.0,18520.3,China,0
+London 2012,1.0,Argentina,1,1,2,4,London ,2012,United Kingdom,Argentina,42217.0,19599.0,United Kingdom,0
+Rio 2016,1.0,Argentina,3,1,0,4,Rio ,2016,Brazil,Argentina,43887.0,18875.0,Brazil,0
+Tokyo 2020,1.0,Argentina,0,1,2,3,Tokyo ,2020,Japan,Argentina,,,Japan,0
+Paris 1924,1.0,Uruguay,1,0,0,1,Paris ,1924,France,Uruguay,1498.0,4258.0,France,0
+Amsterdam 1928,1.0,Uruguay,1,0,0,1,Amsterdam ,1928,Netherlands,Uruguay,1646.0,5176.0,Netherlands,0
+Los Angeles 1932,1.0,Uruguay,0,0,1,1,Los Angeles ,1932,United States,Uruguay,1770.0,4450.0,United States,0
+London 1948,1.0,Uruguay,0,1,1,2,London ,1948,United Kingdom,Uruguay,2160.0,5853.0,United Kingdom,0
+Helsinki 1952,1.0,Uruguay,0,0,2,2,Helsinki ,1952,Finland,Uruguay,2253.0,7353.0,Finland,0
+Melbourne 1956,1.0,Uruguay,0,0,1,1,Melbourne ,1956,Australia,Uruguay,2389.0,8225.0,Australia,0
+Tokyo 1964,1.0,Uruguay,0,0,1,1,Tokyo ,1964,Japan,Uruguay,2664.0,7498.0,Japan,0
+Sydney 2000,1.0,Uruguay,0,1,0,1,Sydney ,2000,Australia,Uruguay,3246.0,13050.06,Australia,0
+Paris 1924,1.0,Ireland,0,1,1,2,Paris ,1924,France,Ireland,3005.0,4095.0,France,0
+Amsterdam 1928,1.0,Ireland,1,0,0,1,Amsterdam ,1928,Netherlands,Ireland,2944.0,4363.0,Netherlands,0
+Los Angeles 1932,1.0,Ireland,2,0,0,2,Los Angeles ,1932,United States,Ireland,2949.0,4599.0,United States,0
+London 1948,1.0,Ireland,0,0,1,1,London ,1948,United Kingdom,Ireland,2985.0,5149.0,United Kingdom,0
+Helsinki 1952,1.0,Ireland,0,1,0,1,Helsinki ,1952,Finland,Ireland,2952.0,5805.0,Finland,0
+Melbourne 1956,1.0,Ireland,1,1,3,5,Melbourne ,1956,Australia,Ireland,2895.0,6212.0,Australia,0
+Tokyo 1964,1.0,Ireland,0,0,1,1,Tokyo ,1964,Japan,Ireland,2864.0,7948.0,Japan,0
+Moscow 1980,1.0,Ireland,0,1,1,2,Moscow ,1980,Russia,Ireland,3401.0,13614.0,Russian Federation,0
+Los Angeles 1984,1.0,Ireland,0,1,0,1,Los Angeles ,1984,United States,Ireland,3529.0,14435.0,United States,0
+Barcelona 1992,1.0,Ireland,1,1,0,2,Barcelona ,1992,Spain,Ireland,3553.0,20032.72,Spain,0
+Atlanta 1996,1.0,Ireland,3,0,1,4,Atlanta ,1996,United States,Ireland,3632.0,26562.91,United States,0
+Sydney 2000,1.0,Ireland,0,1,0,1,Sydney ,2000,Australia,Ireland,3799.0,38806.5,Australia,0
+Beijing 2008,1.0,Ireland,0,1,2,3,Beijing ,2008,China,Ireland,4482.0,49583.14,China,0
+London 2012,1.0,Ireland,1,1,4,6,London ,2012,United Kingdom,Ireland,4592.0,48333.0,United Kingdom,0
+Rio 2016,1.0,Ireland,0,2,0,2,Rio ,2016,Brazil,Ireland,4748.0,56597.0,Brazil,0
+Tokyo 2020,1.0,Ireland,2,0,2,4,Tokyo ,2020,Japan,Ireland,,,Japan,0
+Paris 1924,1.0,Poland,0,1,1,2,Paris ,1924,France,Poland,25992.0,3166.222222222222,France,0
+Amsterdam 1928,1.0,Poland,2,1,4,7,Amsterdam ,1928,Netherlands,Poland,27509.0,3332.4444444444443,Netherlands,0
+Los Angeles 1932,1.0,Poland,3,2,4,9,Los Angeles ,1932,United States,Poland,29022.0,2643.0,United States,0
+Berlin 1936,1.0,Poland,0,4,5,9,Berlin ,1936,Germany,Poland,30471.0,2590.0,Germany,0
+London 1948,1.0,Poland,1,0,1,2,London ,1948,United Kingdom,Poland,23980.0,3439.49,United Kingdom,0
+Helsinki 1952,1.0,Poland,1,2,1,4,Helsinki ,1952,Finland,Poland,25731.0,4018.0,Finland,0
+Melbourne 1956,1.0,Poland,1,4,4,9,Melbourne ,1956,Australia,Poland,27744.0,4565.0,Australia,0
+Squaw Valley 1960,0.0,Poland,0,1,1,2,Squaw Valley ,1960,United States,Poland,29590.0,5125.0,United States,0
+Rome 1960,1.0,Poland,4,6,11,21,Rome ,1960,Italy,Poland,29590.0,5125.0,Italy,0
+Tokyo 1964,1.0,Poland,7,6,10,23,Tokyo ,1964,Japan,Poland,30976.0,5773.0,Japan,0
+Mexico City 1968,1.0,Poland,5,2,11,18,Mexico City ,1968,Mexico,Poland,32035.0,6881.0,Mexico,0
+Sapporo 1972,0.0,Poland,1,0,0,1,Sapporo ,1972,Japan,Poland,33040.0,7986.0,Japan,0
+Munich 1972,1.0,Poland,7,5,9,21,Munich ,1972,Germany,Poland,33040.0,7986.0,Germany,0
+Montreal 1976,1.0,Poland,7,6,13,26,Montreal ,1976,Canada,Poland,34299.0,9397.0,Canada,0
+Moscow 1980,1.0,Poland,3,14,15,32,Moscow ,1980,Russia,Poland,35578.0,9149.0,Russian Federation,0
+Seoul 1988,1.0,Poland,2,5,9,16,Seoul ,1988,South Korea,Poland,37867.0,9228.0,Republic of Korea,0
+Barcelona 1992,1.0,Poland,3,6,10,19,Barcelona ,1992,Spain,Poland,38372.0,7873.92,Spain,0
+Atlanta 1996,1.0,Poland,7,5,5,17,Atlanta ,1996,United States,Poland,38633.0,10066.17,United States,0
+Sydney 2000,1.0,Poland,6,5,3,14,Sydney ,2000,Australia,Poland,38658.0,12732.17,Australia,0
+Salt Lake City 2002,0.0,Poland,0,1,1,2,Salt Lake City ,2002,United States,Poland,38629.0,13415.57,United States,0
+Athens 2004,1.0,Poland,3,2,5,10,Athens ,2004,Greece,Poland,38580.0,14906.09,Greece,0
+Beijing 2008,1.0,Poland,4,5,2,11,Beijing ,2008,China,Poland,38523.0,19011.55,China,0
+Vancouver 2010,0.0,Poland,1,3,2,6,Vancouver ,2010,Canada,Poland,38440.0,20608.69,Canada,0
+London 2012,1.0,Poland,3,1,7,11,London ,2012,United Kingdom,Poland,38460.0,22188.0,United Kingdom,0
+Sochi 2014,0.0,Poland,4,1,1,6,Sochi ,2014,Russia,Poland,38408.0,23266.0,Russian Federation,0
+Rio 2016,1.0,Poland,2,3,6,11,Rio ,2016,Brazil,Poland,38366.0,24838.0,Brazil,0
+PyeongChang 2018,0.0,Poland,1,0,1,2,PyeongChang ,2018,South Korea,Poland,38371.0,27455.24,Republic of Korea,0
+Tokyo 2020,1.0,Poland,4,5,5,14,Tokyo ,2020,Japan,Poland,,,Japan,0
+Paris 1924,1.0,Haiti,0,0,1,1,Paris ,1924,France,Haiti,2239.0,,France,0
+Amsterdam 1928,1.0,Haiti,0,1,0,1,Amsterdam ,1928,Netherlands,Haiti,2359.0,,Netherlands,0
+Paris 1924,1.0,Monaco,0,0,1,1,Paris ,1924,France,,,,France,0
+Paris 1924,1.0,Portugal,0,0,1,1,Paris ,1924,France,Portugal,6300.0,2233.0,France,0
+Amsterdam 1928,1.0,Portugal,0,0,1,1,Amsterdam ,1928,Netherlands,Portugal,6619.0,2343.0,Netherlands,0
+Berlin 1936,1.0,Portugal,0,0,1,1,Berlin ,1936,Germany,Portugal,7305.0,2428.0,Germany,0
+London 1948,1.0,Portugal,0,1,1,2,London ,1948,United Kingdom,Portugal,8256.0,3261.0,United Kingdom,0
+Helsinki 1952,1.0,Portugal,0,0,1,1,Helsinki ,1952,Finland,Portugal,8526.0,3445.0,Finland,0
+Rome 1960,1.0,Portugal,0,1,0,1,Rome ,1960,Italy,Portugal,9037.0,4712.0,Italy,0
+Montreal 1976,1.0,Portugal,0,2,0,2,Montreal ,1976,Canada,Portugal,9622.0,10861.0,Canada,0
+Los Angeles 1984,1.0,Portugal,1,0,2,3,Los Angeles ,1984,United States,Portugal,9885.0,12894.0,United States,0
+Seoul 1988,1.0,Portugal,1,0,0,1,Seoul ,1988,South Korea,Portugal,9921.0,15729.0,Republic of Korea,0
+Atlanta 1996,1.0,Portugal,1,0,1,2,Atlanta ,1996,United States,Portugal,10003.0,19939.31,United States,0
+Sydney 2000,1.0,Portugal,0,0,2,2,Sydney ,2000,Australia,Portugal,10228.0,23372.04,Australia,0
+Athens 2004,1.0,Portugal,0,2,1,3,Athens ,2004,Greece,Portugal,10420.0,24142.77,Greece,0
+Beijing 2008,1.0,Portugal,1,1,0,2,Beijing ,2008,China,Portugal,10494.0,25590.88,China,0
+London 2012,1.0,Portugal,0,1,0,1,London ,2012,United Kingdom,Portugal,10451.0,24218.0,United Kingdom,0
+Rio 2016,1.0,Portugal,0,0,1,1,Rio ,2016,Brazil,Portugal,10263.0,25346.0,Brazil,0
+Tokyo 2020,1.0,Portugal,1,1,2,4,Tokyo ,2020,Japan,Portugal,,,Japan,0
+Paris 1924,1.0,Romania,0,0,1,1,Paris ,1924,France,Romania,13020.0,606.0,France,0
+Berlin 1936,1.0,Romania,0,1,0,1,Berlin ,1936,Germany,Romania,15256.0,693.0,Germany,0
+Helsinki 1952,1.0,Romania,1,1,2,4,Helsinki ,1952,Finland,Romania,16630.0,1031.0,Finland,0
+Melbourne 1956,1.0,Romania,5,3,5,13,Melbourne ,1956,Australia,Romania,17583.0,1223.0,Australia,0
+Rome 1960,1.0,Romania,3,1,6,10,Rome ,1960,Italy,Romania,18403.0,1605.0,Italy,0
+Tokyo 1964,1.0,Romania,2,4,6,12,Tokyo ,1964,Japan,Romania,18927.0,2098.0,Japan,0
+Mexico City 1968,1.0,Romania,4,6,5,15,Mexico City ,1968,Mexico,Romania,19721.0,2860.0,Mexico,0
+Grenoble 1968,0.0,Romania,0,0,1,1,Grenoble ,1968,France,Romania,19721.0,2860.0,France,0
+Munich 1972,1.0,Romania,3,6,7,16,Munich ,1972,Germany,Romania,20663.0,3867.0,Germany,0
+Montreal 1976,1.0,Romania,4,9,14,27,Montreal ,1976,Canada,Romania,21446.0,4809.0,Canada,0
+Moscow 1980,1.0,Romania,6,6,13,25,Moscow ,1980,Russia,Romania,22130.0,5482.0,Russian Federation,0
+Los Angeles 1984,1.0,Romania,20,16,17,53,Los Angeles ,1984,United States,Romania,22454.0,6295.0,United States,0
+Seoul 1988,1.0,Romania,7,11,6,24,Seoul ,1988,South Korea,Romania,22769.0,6338.0,Republic of Korea,0
+Barcelona 1992,1.0,Romania,4,6,8,18,Barcelona ,1992,Spain,Romania,22464.0,4818.3,Spain,0
+Atlanta 1996,1.0,Romania,4,7,9,20,Atlanta ,1996,United States,Romania,22292.0,6476.47,United States,0
+Sydney 2000,1.0,Romania,11,6,9,26,Sydney ,2000,Australia,Romania,22118.0,7089.95,Australia,0
+Athens 2004,1.0,Romania,8,5,6,19,Athens ,2004,Greece,Romania,21141.0,10531.17,Greece,0
+Beijing 2008,1.0,Romania,4,1,4,9,Beijing ,2008,China,Romania,20241.0,16347.34,China,0
+London 2012,1.0,Romania,2,5,2,9,London ,2012,United Kingdom,Romania,19768.0,17174.0,United Kingdom,0
+Rio 2016,1.0,Romania,1,1,2,4,Rio ,2016,Brazil,Romania,19417.0,17782.0,Brazil,0
+Tokyo 2020,1.0,Romania,1,3,0,4,Tokyo ,2020,Japan,Romania,,,Japan,0
+Amsterdam 1928,1.0,Egypt,2,1,1,4,Amsterdam ,1928,Netherlands,Egypt,15814.54054054054,1583.5824324324324,Netherlands,0
+Berlin 1936,1.0,Egypt,2,1,2,5,Berlin ,1936,Germany,Egypt,17772.162162162163,1535.3597297297297,Germany,0
+London 1948,1.0,Egypt,2,2,1,5,London ,1948,United Kingdom,Egypt,20708.594594594593,1463.0256756756758,United Kingdom,0
+Helsinki 1952,1.0,Egypt,0,0,1,1,Helsinki ,1952,Finland,Egypt,22223.0,1435.0,Finland,0
+Los Angeles 1984,1.0,Egypt,0,1,0,1,Los Angeles ,1984,United States,Egypt,48550.0,3810.0,United States,0
+Athens 2004,1.0,Egypt,1,1,3,5,Athens ,2004,Greece,Egypt,73195.0,7661.86,Greece,0
+Beijing 2008,1.0,Egypt,0,0,2,2,Beijing ,2008,China,Egypt,79677.0,9698.02,China,0
+London 2012,1.0,Egypt,0,3,1,4,London ,2012,United Kingdom,Egypt,87840.0,10767.0,United Kingdom,0
+Rio 2016,1.0,Egypt,0,0,3,3,Rio ,2016,Brazil,Egypt,97305.0,11351.0,Brazil,0
+Tokyo 2020,1.0,Egypt,1,1,4,6,Tokyo ,2020,Japan,Egypt,,,Japan,0
+Amsterdam 1928,1.0,India,1,0,0,1,Amsterdam ,1928,Netherlands,India,329700.0,1125.0,Netherlands,0
+Los Angeles 1932,1.0,India,1,0,0,1,Los Angeles ,1932,United States,India,345800.0,1130.0,United States,0
+Berlin 1936,1.0,India,1,0,0,1,Berlin ,1936,Germany,India,365700.0,1111.0,Germany,0
+London 1948,1.0,India,1,0,0,1,London ,1948,United Kingdom,India,350000.0,983.0,United Kingdom,0
+Helsinki 1952,1.0,India,1,0,1,2,Helsinki ,1952,Finland,India,372000.0,1003.0,Finland,0
+Melbourne 1956,1.0,India,1,0,0,1,Melbourne ,1956,Australia,India,401000.0,1117.0,Australia,0
+Rome 1960,1.0,India,0,1,0,1,Rome ,1960,Italy,India,434000.0,1200.0,Italy,0
+Tokyo 1964,1.0,India,1,0,0,1,Tokyo ,1964,Japan,India,474000.0,1309.0,Japan,0
+Mexico City 1968,1.0,India,0,0,1,1,Mexico City ,1968,Mexico,India,518000.0,1290.0,Mexico,0
+Munich 1972,1.0,India,0,0,1,1,Munich ,1972,Germany,India,567000.0,1329.0,Germany,0
+Moscow 1980,1.0,India,1,0,0,1,Moscow ,1980,Russia,India,679000.0,1495.0,Russian Federation,0
+Atlanta 1996,1.0,India,0,0,1,1,Atlanta ,1996,United States,India,938667.0,2475.57,United States,0
+Sydney 2000,1.0,India,0,0,1,1,Sydney ,2000,Australia,India,1007310.0,2753.09,Australia,0
+Athens 2004,1.0,India,0,1,0,1,Athens ,2004,Greece,India,1075237.0,3212.51,Greece,0
+Beijing 2008,1.0,India,1,0,2,3,Beijing ,2008,China,India,1141711.0,4030.65,China,0
+London 2012,1.0,India,0,2,4,6,London ,2012,United Kingdom,India,1206283.0,4932.0,United Kingdom,0
+Rio 2016,1.0,India,0,1,1,2,Rio ,2016,Brazil,India,1268155.0,6125.0,Brazil,0
+Tokyo 2020,1.0,India,1,2,4,7,Tokyo ,2020,Japan,India,,,Japan,0
+Amsterdam 1928,1.0,Chile,0,1,0,1,Amsterdam ,1928,Netherlands,Chile,4140.0,5609.0,Netherlands,0
+Helsinki 1952,1.0,Chile,0,2,0,2,Helsinki ,1952,Finland,Chile,6378.0,6252.0,Finland,0
+Melbourne 1956,1.0,Chile,0,2,2,4,Melbourne ,1956,Australia,Chile,6889.0,6285.0,Australia,0
+Seoul 1988,1.0,Chile,0,1,0,1,Seoul ,1988,South Korea,Chile,12679.0,9199.0,Republic of Korea,0
+Sydney 2000,1.0,Chile,0,0,1,1,Sydney ,2000,Australia,Chile,15285.0,15211.62,Australia,0
+Athens 2004,1.0,Chile,2,0,1,3,Athens ,2004,Greece,Chile,15958.0,16478.97,Greece,0
+Beijing 2008,1.0,Chile,0,1,0,1,Beijing ,2008,China,Chile,16631.0,18804.03,China,0
+Amsterdam 1928,1.0,Philippines,0,0,1,1,Amsterdam ,1928,Netherlands,Philippines,12543.0,2219.0,Netherlands,0
+Los Angeles 1932,1.0,Philippines,0,0,3,3,Los Angeles ,1932,United States,Philippines,13829.0,2212.0,United States,0
+Berlin 1936,1.0,Philippines,0,0,1,1,Berlin ,1936,Germany,Philippines,15199.0,2174.0,Germany,0
+Tokyo 1964,1.0,Philippines,0,1,0,1,Tokyo ,1964,Japan,Philippines,32254.0,2550.0,Japan,0
+Seoul 1988,1.0,Philippines,0,0,1,1,Seoul ,1988,South Korea,Philippines,62081.0,3355.0,Republic of Korea,0
+Barcelona 1992,1.0,Philippines,0,0,1,1,Barcelona ,1992,Spain,Philippines,67933.0,3399.24,Spain,0
+Atlanta 1996,1.0,Philippines,0,1,0,1,Atlanta ,1996,United States,Philippines,74209.0,3790.78,United States,0
+Rio 2016,1.0,Philippines,0,1,0,1,Rio ,2016,Brazil,Philippines,108645.0,7410.0,Brazil,0
+Tokyo 2020,1.0,Philippines,1,2,1,4,Tokyo ,2020,Japan,Philippines,,,Japan,0
+Los Angeles 1932,1.0,Mexico,0,2,0,2,Los Angeles ,1932,United States,Mexico,17790.0,1890.0,United States,0
+Berlin 1936,1.0,Mexico,0,0,3,3,Berlin ,1936,Germany,Mexico,19040.0,2444.0,Germany,0
+London 1948,1.0,Mexico,2,1,2,5,London ,1948,United Kingdom,Mexico,25852.0,3188.0,United Kingdom,0
+Helsinki 1952,1.0,Mexico,0,1,0,1,Helsinki ,1952,Finland,Mexico,30144.0,3706.0,Finland,0
+Melbourne 1956,1.0,Mexico,1,0,1,2,Melbourne ,1956,Australia,Mexico,33946.0,4213.0,Australia,0
+Rome 1960,1.0,Mexico,0,0,1,1,Rome ,1960,Italy,Mexico,38579.0,4723.0,Italy,0
+Tokyo 1964,1.0,Mexico,0,0,1,1,Tokyo ,1964,Japan,Mexico,43775.0,5555.0,Japan,0
+Mexico City 1968,1.0,Mexico,3,3,3,9,Mexico City ,1968,Mexico,Mexico,49519.0,6432.0,Mexico,1
+Munich 1972,1.0,Mexico,0,1,0,1,Munich ,1972,Germany,Mexico,55984.0,7256.0,Germany,0
+Montreal 1976,1.0,Mexico,1,0,1,2,Montreal ,1976,Canada,Mexico,62220.0,8131.0,Canada,0
+Moscow 1980,1.0,Mexico,0,1,3,4,Moscow ,1980,Russia,Mexico,68347.0,9929.0,Russian Federation,0
+Los Angeles 1984,1.0,Mexico,2,3,1,6,Los Angeles ,1984,United States,Mexico,75080.0,9777.0,United States,0
+Seoul 1988,1.0,Mexico,0,0,2,2,Seoul ,1988,South Korea,Mexico,81782.0,9193.0,Republic of Korea,0
+Barcelona 1992,1.0,Mexico,0,1,0,1,Barcelona ,1992,Spain,Mexico,87906.0,10262.21,Spain,0
+Atlanta 1996,1.0,Mexico,0,0,1,1,Atlanta ,1996,United States,Mexico,93508.0,10386.5,United States,0
+Sydney 2000,1.0,Mexico,1,2,3,6,Sydney ,2000,Australia,Mexico,98403.0,12613.4,Australia,0
+Athens 2004,1.0,Mexico,0,3,1,4,Athens ,2004,Greece,Mexico,103334.0,13287.6,Greece,0
+Beijing 2008,1.0,Mexico,2,0,2,4,Beijing ,2008,China,Mexico,108549.0,14808.09,China,0
+London 2012,1.0,Mexico,1,3,4,8,London ,2012,United Kingdom,Mexico,114162.0,15639.0,United Kingdom,0
+Rio 2016,1.0,Mexico,0,3,2,5,Rio ,2016,Brazil,Mexico,119252.0,16133.0,Brazil,0
+Tokyo 2020,1.0,Mexico,0,0,4,4,Tokyo ,2020,Japan,Mexico,,,Japan,0
+Los Angeles 1932,1.0,Latvia,0,1,0,1,Los Angeles ,1932,United States,Latvia,,,United States,0
+Berlin 1936,1.0,Latvia,0,1,1,2,Berlin ,1936,Germany,Latvia,,,Germany,0
+Barcelona 1992,1.0,Latvia,0,2,1,3,Barcelona ,1992,Spain,Latvia,2615.0,9411.2,Spain,0
+Atlanta 1996,1.0,Latvia,0,1,0,1,Atlanta ,1996,United States,Latvia,2458.0,8947.27,United States,0
+Sydney 2000,1.0,Latvia,1,1,1,3,Sydney ,2000,Australia,Latvia,2368.0,11309.74,Australia,0
+Athens 2004,1.0,Latvia,0,4,0,4,Athens ,2004,Greece,Latvia,2263.0,15371.18,Greece,0
+Beijing 2008,1.0,Latvia,1,1,1,3,Beijing ,2008,China,Latvia,2178.0,20342.2,China,0
+Vancouver 2010,0.0,Latvia,0,2,0,2,Vancouver ,2010,Canada,Latvia,2098.0,17140.23,Canada,0
+London 2012,1.0,Latvia,1,0,1,2,London ,2012,United Kingdom,Latvia,2035.0,19405.0,United Kingdom,0
+Sochi 2014,0.0,Latvia,1,1,3,5,Sochi ,2014,Russia,Latvia,1994.0,20751.0,Russian Federation,0
+PyeongChang 2018,0.0,Latvia,0,0,1,1,PyeongChang ,2018,South Korea,Latvia,1927.0,24312.68,Republic of Korea,0
+Tokyo 2020,1.0,Latvia,1,0,1,2,Tokyo ,2020,Japan,Latvia,,,Japan,0
+Berlin 1936,1.0,Turkey,1,0,1,2,Berlin ,1936,Germany,Turkey,16434.0,2034.0,Germany,0
+London 1948,1.0,Turkey,6,4,2,12,London ,1948,United Kingdom,Turkey,20156.0,2098.0,United Kingdom,0
+Helsinki 1952,1.0,Turkey,2,0,1,3,Helsinki ,1952,Finland,Turkey,22236.0,2522.0,Finland,0
+Melbourne 1956,1.0,Turkey,3,2,2,7,Melbourne ,1956,Australia,Turkey,24877.0,2777.0,Australia,0
+Rome 1960,1.0,Turkey,7,2,0,9,Rome ,1960,Italy,Turkey,28217.0,3041.0,Italy,0
+Tokyo 1964,1.0,Turkey,2,3,1,6,Tokyo ,1964,Japan,Turkey,31227.0,3453.0,Japan,0
+Mexico City 1968,1.0,Turkey,2,0,0,2,Mexico City ,1968,Mexico,Turkey,34165.0,4122.0,Mexico,0
+Munich 1972,1.0,Turkey,0,1,0,1,Munich ,1972,Germany,Turkey,37493.0,4929.0,Germany,0
+Los Angeles 1984,1.0,Turkey,0,0,3,3,Los Angeles ,1984,United States,Turkey,49840.0,6736.0,United States,0
+Seoul 1988,1.0,Turkey,1,1,0,2,Seoul ,1988,South Korea,Turkey,54356.0,8019.0,Republic of Korea,0
+Barcelona 1992,1.0,Turkey,2,2,2,6,Barcelona ,1992,Spain,Turkey,58872.0,9150.43,Spain,0
+Atlanta 1996,1.0,Turkey,4,1,1,6,Atlanta ,1996,United States,Turkey,63423.0,10644.63,United States,0
+Sydney 2000,1.0,Turkey,3,0,2,5,Sydney ,2000,Australia,Turkey,67839.0,11904.01,Australia,0
+Athens 2004,1.0,Turkey,3,3,4,10,Athens ,2004,Greece,Turkey,71358.0,13423.79,Greece,0
+Beijing 2008,1.0,Turkey,1,1,3,5,Beijing ,2008,China,Turkey,75003.0,16182.73,China,0
+London 2012,1.0,Turkey,1,1,1,3,London ,2012,United Kingdom,Turkey,79357.0,18170.0,United Kingdom,0
+Rio 2016,1.0,Turkey,1,3,4,8,Rio ,2016,Brazil,Turkey,83687.0,17906.0,Brazil,0
+Tokyo 2020,1.0,Turkey,2,2,9,13,Tokyo ,2020,Japan,Turkey,,,Japan,0
+London 1948,1.0,Jamaica,1,2,0,3,London ,1948,United Kingdom,Jamaica,1350.0,2311.6666666666665,United Kingdom,0
+Helsinki 1952,1.0,Jamaica,2,3,0,5,Helsinki ,1952,Finland,Jamaica,1426.0,2397.0,Finland,0
+Mexico City 1968,1.0,Jamaica,0,1,0,1,Mexico City ,1968,Mexico,Jamaica,1893.0,5235.0,Mexico,0
+Munich 1972,1.0,Jamaica,0,0,1,1,Munich ,1972,Germany,Jamaica,1998.0,6150.0,Germany,0
+Montreal 1976,1.0,Jamaica,1,1,0,2,Montreal ,1976,Canada,Jamaica,2133.0,5681.0,Canada,0
+Moscow 1980,1.0,Jamaica,0,0,3,3,Moscow ,1980,Russia,Jamaica,2229.0,4975.0,Russian Federation,0
+Los Angeles 1984,1.0,Jamaica,0,1,2,3,Los Angeles ,1984,United States,Jamaica,2313.0,5059.0,United States,0
+Seoul 1988,1.0,Jamaica,0,2,0,2,Seoul ,1988,South Korea,Jamaica,2330.0,5397.0,Republic of Korea,0
+Barcelona 1992,1.0,Jamaica,0,3,1,4,Barcelona ,1992,Spain,Jamaica,2413.0,6292.03,Spain,0
+Atlanta 1996,1.0,Jamaica,1,3,2,6,Atlanta ,1996,United States,Jamaica,2546.0,6648.93,United States,0
+Sydney 2000,1.0,Jamaica,0,6,3,9,Sydney ,2000,Australia,Jamaica,2670.0,6531.28,Australia,0
+Athens 2004,1.0,Jamaica,2,1,2,5,Athens ,2004,Greece,Jamaica,2711.0,7004.98,Greece,0
+Beijing 2008,1.0,Jamaica,5,4,1,10,Beijing ,2008,China,Jamaica,2705.0,7353.11,China,0
+London 2012,1.0,Jamaica,4,5,3,12,London ,2012,United Kingdom,Jamaica,2686.0,7053.0,United Kingdom,0
+Rio 2016,1.0,Jamaica,6,3,2,11,Rio ,2016,Brazil,Jamaica,2674.0,7084.0,Brazil,0
+Tokyo 2020,1.0,Jamaica,4,1,4,9,Tokyo ,2020,Japan,Jamaica,,,Japan,0
+London 1948,1.0,Peru,1,0,0,1,London ,1948,United Kingdom,Peru,7376.0,3282.0,United Kingdom,0
+Los Angeles 1984,1.0,Peru,0,1,0,1,Los Angeles ,1984,United States,Peru,19011.0,5859.0,United States,0
+Seoul 1988,1.0,Peru,0,1,0,1,Seoul ,1988,South Korea,Peru,20710.0,6003.0,Republic of Korea,0
+Barcelona 1992,1.0,Peru,0,1,0,1,Barcelona ,1992,Spain,Peru,22528.0,4698.48,Spain,0
+London 1948,1.0,Trinidad and Tobago,0,1,0,1,London ,1948,United Kingdom,Trinidad and Tobago,600.0,,United Kingdom,0
+Helsinki 1952,1.0,Trinidad and Tobago,0,0,2,2,Helsinki ,1952,Finland,Trinidad and Tobago,663.0,6282.0,Finland,0
+Tokyo 1964,1.0,Trinidad and Tobago,0,1,2,3,Tokyo ,1964,Japan,Trinidad and Tobago,924.0,10841.0,Japan,0
+Montreal 1976,1.0,Trinidad and Tobago,1,0,0,1,Montreal ,1976,Canada,Trinidad and Tobago,1021.0,15696.0,Canada,0
+Atlanta 1996,1.0,Trinidad and Tobago,0,0,2,2,Atlanta ,1996,United States,Trinidad and Tobago,1262.0,15004.26,United States,0
+Sydney 2000,1.0,Trinidad and Tobago,0,1,1,2,Sydney ,2000,Australia,Trinidad and Tobago,1252.0,19179.92,Australia,0
+Athens 2004,1.0,Trinidad and Tobago,0,0,1,1,Athens ,2004,Greece,Trinidad and Tobago,1239.0,25403.27,Greece,0
+Beijing 2008,1.0,Trinidad and Tobago,1,1,0,2,Beijing ,2008,China,Trinidad and Tobago,1231.0,31434.3,China,0
+London 2012,1.0,Trinidad and Tobago,1,1,2,4,London ,2012,United Kingdom,Trinidad and Tobago,1226.0,30157.0,United Kingdom,0
+Rio 2016,1.0,Trinidad and Tobago,0,0,1,1,Rio ,2016,Brazil,Trinidad and Tobago,1220.0,29178.0,Brazil,0
+London 1948,1.0,Sri Lanka,0,1,0,1,London ,1948,United Kingdom,Sri Lanka,7244.0,1847.0,United Kingdom,0
+Sydney 2000,1.0,Sri Lanka,0,1,0,1,Sydney ,2000,Australia,Sri Lanka,18820.0,5841.09,Australia,0
+London 1948,1.0,Cuba,0,1,0,1,London ,1948,United Kingdom,Cuba,5268.0,2507.0,United Kingdom,0
+Tokyo 1964,1.0,Cuba,0,1,0,1,Tokyo ,1964,Japan,Cuba,7612.0,3158.0,Japan,0
+Mexico City 1968,1.0,Cuba,0,4,0,4,Mexico City ,1968,Mexico,Cuba,8284.0,3229.0,Mexico,0
+Munich 1972,1.0,Cuba,3,1,4,8,Munich ,1972,Germany,Cuba,8830.0,3253.0,Germany,0
+Montreal 1976,1.0,Cuba,6,4,3,13,Montreal ,1976,Canada,Cuba,9418.0,3786.0,Canada,0
+Moscow 1980,1.0,Cuba,8,7,5,20,Moscow ,1980,Russia,Cuba,9648.0,4106.0,Russian Federation,0
+Barcelona 1992,1.0,Cuba,14,6,11,31,Barcelona ,1992,Spain,Cuba,10780.0,3399.96,Spain,0
+Atlanta 1996,1.0,Cuba,9,8,8,25,Atlanta ,1996,United States,Cuba,10963.0,3249.64,United States,0
+Sydney 2000,1.0,Cuba,11,11,7,29,Sydney ,2000,Australia,Cuba,11147.0,4009.34,Australia,0
+Athens 2004,1.0,Cuba,9,7,11,27,Athens ,2004,Greece,Cuba,11260.0,4561.02,Greece,0
+Beijing 2008,1.0,Cuba,3,10,17,30,Beijing ,2008,China,Cuba,11258.0,6004.89,China,0
+London 2012,1.0,Cuba,5,3,7,15,London ,2012,United Kingdom,Cuba,11262.0,7138.0,United Kingdom,0
+Rio 2016,1.0,Cuba,5,2,4,11,Rio ,2016,Brazil,Cuba,11180.0,8000.0,Brazil,0
+Tokyo 2020,1.0,Cuba,7,3,5,15,Tokyo ,2020,Japan,Cuba,,,Japan,0
+London 1948,1.0,Republic of Korea,0,0,2,2,London ,1948,United Kingdom,Republic of Korea,20027.0,1098.87,United Kingdom,0
+Helsinki 1952,1.0,Republic of Korea,0,0,2,2,Helsinki ,1952,Finland,Republic of Korea,20948.0,1038.04,Finland,0
+Melbourne 1956,1.0,Republic of Korea,0,1,1,2,Melbourne ,1956,Australia,Republic of Korea,22031.0,1381.98,Australia,0
+Tokyo 1964,1.0,Republic of Korea,0,2,1,3,Tokyo ,1964,Japan,Republic of Korea,27984.0,1834.98,Japan,0
+Mexico City 1968,1.0,Republic of Korea,0,1,1,2,Mexico City ,1968,Mexico,Republic of Korea,30838.0,2468.48,Mexico,0
+Munich 1972,1.0,Republic of Korea,0,1,0,1,Munich ,1972,Germany,Republic of Korea,33505.0,3387.89,Germany,0
+Montreal 1976,1.0,Republic of Korea,1,1,4,6,Montreal ,1976,Canada,Republic of Korea,35860.0,4855.94,Canada,0
+Los Angeles 1984,1.0,Republic of Korea,6,6,7,19,Los Angeles ,1984,United States,Republic of Korea,40406.0,8303.52,United States,0
+Seoul 1988,1.0,Republic of Korea,12,10,11,33,Seoul ,1988,South Korea,Republic of Korea,42031.0,12039.95,Republic of Korea,1
+Albertville 1992,0.0,Republic of Korea,2,1,1,4,Albertville ,1992,France,Republic of Korea,43748.0,15712.0,France,0
+Barcelona 1992,1.0,Republic of Korea,12,5,12,29,Barcelona ,1992,Spain,Republic of Korea,43748.0,15712.0,Spain,0
+Lillehammer 1994,0.0,Republic of Korea,4,1,1,6,Lillehammer ,1994,Norway,Republic of Korea,44642.0,17720.4,Norway,0
+Atlanta 1996,1.0,Republic of Korea,7,15,5,27,Atlanta ,1996,United States,Republic of Korea,45525.0,20204.56,United States,0
+Nagano 1998,0.0,Republic of Korea,3,1,2,6,Nagano ,1998,Japan,Republic of Korea,46287.0,19624.69,Japan,0
+Sydney 2000,1.0,Republic of Korea,8,10,10,28,Sydney ,2000,Australia,Republic of Korea,47008.0,23108.02,Australia,0
+Salt Lake City 2002,0.0,Republic of Korea,2,2,0,4,Salt Lake City ,2002,United States,Republic of Korea,47645.0,25250.64,United States,0
+Athens 2004,1.0,Republic of Korea,9,12,9,30,Athens ,2004,Greece,Republic of Korea,48083.0,26646.5,Greece,0
+Beijing 2008,1.0,Republic of Korea,13,11,8,32,Beijing ,2008,China,Republic of Korea,49055.0,30117.73,China,0
+Vancouver 2010,0.0,Republic of Korea,6,6,2,14,Vancouver ,2010,Canada,Republic of Korea,49554.0,31537.77,Canada,0
+London 2012,1.0,Republic of Korea,13,9,8,30,London ,2012,United Kingdom,Republic of Korea,50200.0,32791.0,United Kingdom,0
+Sochi 2014,0.0,Republic of Korea,3,3,2,8,Sochi ,2014,Russia,Republic of Korea,50747.0,34493.0,Russian Federation,0
+Rio 2016,1.0,Republic of Korea,9,3,9,21,Rio ,2016,Brazil,Republic of Korea,51218.0,36103.0,Brazil,0
+PyeongChang 2018,0.0,Republic of Korea,5,8,4,17,PyeongChang ,2018,South Korea,Republic of Korea,51635.0,37927.61,Republic of Korea,1
+Tokyo 2020,1.0,Republic of Korea,6,4,10,20,Tokyo ,2020,Japan,Republic of Korea,,,Japan,0
+London 1948,1.0,Panama,0,0,2,2,London ,1948,United Kingdom,Panama,822.0,2724.0,United Kingdom,0
+Beijing 2008,1.0,Panama,1,0,0,1,Beijing ,2008,China,Panama,3310.0,14466.97,China,0
+London 1948,1.0,Islamic Republic of Iran,0,0,1,1,London ,1948,United Kingdom,Iran (Islamic Republic of),16067.108108108107,2662.7027027027025,United Kingdom,0
+Helsinki 1952,1.0,Islamic Republic of Iran,0,3,4,7,Helsinki ,1952,Finland,Iran (Islamic Republic of),17267.0,2597.0,Finland,0
+Melbourne 1956,1.0,Islamic Republic of Iran,2,2,1,5,Melbourne ,1956,Australia,Iran (Islamic Republic of),19233.0,2541.0,Australia,0
+Rome 1960,1.0,Islamic Republic of Iran,0,1,3,4,Rome ,1960,Italy,Iran (Islamic Republic of),21548.0,3437.0,Italy,0
+Tokyo 1964,1.0,Islamic Republic of Iran,0,0,2,2,Tokyo ,1964,Japan,Iran (Islamic Republic of),24218.0,4026.0,Japan,0
+Mexico City 1968,1.0,Islamic Republic of Iran,2,1,2,5,Mexico City ,1968,Mexico,Iran (Islamic Republic of),27254.0,5659.0,Mexico,0
+Munich 1972,1.0,Islamic Republic of Iran,0,2,1,3,Munich ,1972,Germany,Iran (Islamic Republic of),30522.0,8247.0,Germany,0
+Montreal 1976,1.0,Islamic Republic of Iran,0,1,1,2,Montreal ,1976,Canada,Iran (Islamic Republic of),34259.0,10665.0,Canada,0
+Seoul 1988,1.0,Islamic Republic of Iran,0,1,0,1,Seoul ,1988,South Korea,Iran (Islamic Republic of),52997.0,5249.0,Republic of Korea,0
+Barcelona 1992,1.0,Islamic Republic of Iran,0,1,2,3,Barcelona ,1992,Spain,Iran (Islamic Republic of),59096.0,7036.32,Spain,0
+Atlanta 1996,1.0,Islamic Republic of Iran,1,1,1,3,Atlanta ,1996,United States,Iran (Islamic Republic of),62629.0,7746.41,United States,0
+Sydney 2000,1.0,Islamic Republic of Iran,3,0,1,4,Sydney ,2000,Australia,Iran (Islamic Republic of),65976.0,9104.76,Australia,0
+Athens 2004,1.0,Islamic Republic of Iran,2,2,2,6,Athens ,2004,Greece,Iran (Islamic Republic of),69321.0,12404.32,Greece,0
+Beijing 2008,1.0,Islamic Republic of Iran,1,0,1,2,Beijing ,2008,China,Iran (Islamic Republic of),72508.0,15739.98,China,0
+London 2012,1.0,Islamic Republic of Iran,6,6,1,13,London ,2012,United Kingdom,Iran (Islamic Republic of),75945.0,16745.0,United Kingdom,0
+Rio 2016,1.0,Islamic Republic of Iran,3,1,4,8,Rio ,2016,Brazil,Iran (Islamic Republic of),79991.0,16783.0,Brazil,0
+Tokyo 2020,1.0,Islamic Republic of Iran,3,2,2,7,Tokyo ,2020,Japan,Iran (Islamic Republic of),,,Japan,0
+London 1948,1.0,Puerto Rico,0,0,1,1,London ,1948,United Kingdom,Puerto Rico,2187.0,,United Kingdom,0
+Montreal 1976,1.0,Puerto Rico,0,0,1,1,Montreal ,1976,Canada,Puerto Rico,3026.0,11308.0,Canada,0
+Los Angeles 1984,1.0,Puerto Rico,0,1,1,2,Los Angeles ,1984,United States,Puerto Rico,3350.0,13201.0,United States,0
+Barcelona 1992,1.0,Puerto Rico,0,0,1,1,Barcelona ,1992,Spain,Puerto Rico,3585.0,18290.73,Spain,0
+Atlanta 1996,1.0,Puerto Rico,0,0,1,1,Atlanta ,1996,United States,Puerto Rico,3725.0,21856.02,United States,0
+London 2012,1.0,Puerto Rico,0,1,1,2,London ,2012,United Kingdom,Puerto Rico,3636.0,34395.0,United Kingdom,0
+Rio 2016,1.0,Puerto Rico,1,0,0,1,Rio ,2016,Brazil,Puerto Rico,3411.0,35082.0,Brazil,0
+Tokyo 2020,1.0,Puerto Rico,1,0,0,1,Tokyo ,2020,Japan,Puerto Rico,,,Japan,0
+Helsinki 1952,1.0,Soviet Union,22,30,19,71,Helsinki ,1952,Finland,Former USSR,185856.0,4682.0,Finland,0
+Melbourne 1956,1.0,Soviet Union,37,29,32,98,Melbourne ,1956,Australia,Former USSR,199103.0,5684.0,Australia,0
+Squaw Valley 1960,0.0,Soviet Union,7,5,9,21,Squaw Valley ,1960,United States,Former USSR,213780.0,6288.0,United States,0
+Rome 1960,1.0,Soviet Union,43,29,31,103,Rome ,1960,Italy,Former USSR,213780.0,6288.0,Italy,0
+Innsbruck 1964,0.0,Soviet Union,11,8,6,25,Innsbruck ,1964,Austria,Former USSR,227698.0,7076.0,Austria,0
+Tokyo 1964,1.0,Soviet Union,30,31,35,96,Tokyo ,1964,Japan,Former USSR,227698.0,7076.0,Japan,0
+Mexico City 1968,1.0,Soviet Union,29,32,30,91,Mexico City ,1968,Mexico,Former USSR,237983.0,8292.0,Mexico,0
+Grenoble 1968,0.0,Soviet Union,5,5,3,13,Grenoble ,1968,France,Former USSR,237983.0,8292.0,France,0
+Sapporo 1972,0.0,Soviet Union,8,5,3,16,Sapporo ,1972,Japan,Former USSR,247343.0,8995.0,Japan,0
+Munich 1972,1.0,Soviet Union,50,27,22,99,Munich ,1972,Germany,Former USSR,247343.0,8995.0,Germany,0
+Montreal 1976,1.0,Soviet Union,49,41,35,125,Montreal ,1976,Canada,Former USSR,256883.0,10143.0,Canada,0
+Innsbruck 1976,0.0,Soviet Union,13,6,8,27,Innsbruck ,1976,Austria,Former USSR,256883.0,10143.0,Austria,0
+Moscow 1980,1.0,Soviet Union,80,69,46,195,Moscow ,1980,Russia,Former USSR,265926.0,10245.0,Russian Federation,0
+Lake Placid 1980,0.0,Soviet Union,10,6,6,22,Lake Placid ,1980,United States,Former USSR,265926.0,10245.0,United States,0
+Sarajevo 1984,0.0,Soviet Union,6,10,9,25,Sarajevo ,1984,Bosnia and Herzegovina,Former USSR,275330.0,10694.0,Former Yugoslavia,0
+Seoul 1988,1.0,Soviet Union,55,31,46,132,Seoul ,1988,South Korea,Former USSR,285020.0,11226.0,Republic of Korea,0
+Calgary 1988,0.0,Soviet Union,11,9,9,29,Calgary ,1988,Canada,Former USSR,285020.0,11226.0,Canada,0
+Helsinki 1952,1.0,Lebanon,0,1,1,2,Helsinki ,1952,Finland,Lebanon,1440.0,5327.0,Finland,0
+Munich 1972,1.0,Lebanon,0,1,0,1,Munich ,1972,Germany,Lebanon,2680.0,8228.0,Germany,0
+Moscow 1980,1.0,Lebanon,0,0,1,1,Moscow ,1980,Russia,Lebanon,3087.0,4608.0,Russian Federation,0
+Helsinki 1952,1.0,Bulgaria,0,0,1,1,Helsinki ,1952,Finland,Bulgaria,7275.0,3017.0,Finland,0
+Melbourne 1956,1.0,Bulgaria,1,3,1,5,Melbourne ,1956,Australia,Bulgaria,7576.0,3392.0,Australia,0
+Rome 1960,1.0,Bulgaria,1,3,3,7,Rome ,1960,Italy,Bulgaria,7867.0,4642.0,Italy,0
+Tokyo 1964,1.0,Bulgaria,3,5,2,10,Tokyo ,1964,Japan,Bulgaria,8144.0,5829.0,Japan,0
+Mexico City 1968,1.0,Bulgaria,2,4,3,9,Mexico City ,1968,Mexico,Bulgaria,8370.0,6963.0,Mexico,0
+Munich 1972,1.0,Bulgaria,6,10,5,21,Munich ,1972,Germany,Bulgaria,8576.0,8145.0,Germany,0
+Montreal 1976,1.0,Bulgaria,6,9,7,22,Montreal ,1976,Canada,Bulgaria,8755.0,9535.0,Canada,0
+Moscow 1980,1.0,Bulgaria,8,16,17,41,Moscow ,1980,Russia,Bulgaria,8844.0,9634.0,Russian Federation,0
+Lake Placid 1980,0.0,Bulgaria,0,0,1,1,Lake Placid ,1980,United States,Bulgaria,8844.0,9634.0,United States,0
+Seoul 1988,1.0,Bulgaria,10,12,13,35,Seoul ,1988,South Korea,Bulgaria,8982.0,10098.0,Republic of Korea,0
+Barcelona 1992,1.0,Bulgaria,3,7,6,16,Barcelona ,1992,Spain,Bulgaria,8712.0,7846.12,Spain,0
+Atlanta 1996,1.0,Bulgaria,3,7,5,15,Atlanta ,1996,United States,Bulgaria,8531.0,7901.12,United States,0
+Nagano 1998,0.0,Bulgaria,1,0,0,1,Nagano ,1998,Japan,Bulgaria,8423.0,8322.08,Japan,0
+Sydney 2000,1.0,Bulgaria,5,6,2,13,Sydney ,2000,Australia,Bulgaria,8335.0,8410.8,Australia,0
+Salt Lake City 2002,0.0,Bulgaria,0,1,2,3,Salt Lake City ,2002,United States,Bulgaria,7995.0,9471.77,United States,0
+Athens 2004,1.0,Bulgaria,2,1,9,12,Athens ,2004,Greece,Bulgaria,7872.0,10853.79,Greece,0
+Beijing 2008,1.0,Bulgaria,1,1,3,5,Beijing ,2008,China,Bulgaria,7644.0,14761.71,China,0
+London 2012,1.0,Bulgaria,0,2,1,3,London ,2012,United Kingdom,Bulgaria,7453.0,15204.0,United Kingdom,0
+Rio 2016,1.0,Bulgaria,0,1,2,3,Rio ,2016,Brazil,Bulgaria,7272.0,17037.0,Brazil,0
+Tokyo 2020,1.0,Bulgaria,3,1,2,6,Tokyo ,2020,Japan,Bulgaria,,,Japan,0
+Helsinki 1952,1.0,Venezuela,0,0,1,1,Helsinki ,1952,Finland,Venezuela (Bolivarian Republic of),5440.0,9309.0,Finland,0
+Rome 1960,1.0,Venezuela,0,0,1,1,Rome ,1960,Italy,Venezuela (Bolivarian Republic of),7556.0,12116.0,Italy,0
+Mexico City 1968,1.0,Venezuela,1,0,0,1,Mexico City ,1968,Mexico,Venezuela (Bolivarian Republic of),10041.0,14520.0,Mexico,0
+Montreal 1976,1.0,Venezuela,0,1,0,1,Montreal ,1976,Canada,Venezuela (Bolivarian Republic of),13082.0,17174.0,Canada,0
+Moscow 1980,1.0,Venezuela,0,1,0,1,Moscow ,1980,Russia,Venezuela (Bolivarian Republic of),14768.0,16270.0,Russian Federation,0
+Los Angeles 1984,1.0,Venezuela,0,0,3,3,Los Angeles ,1984,United States,Venezuela (Bolivarian Republic of),16545.0,13597.0,United States,0
+Athens 2004,1.0,Venezuela,0,0,2,2,Athens ,2004,Greece,Venezuela (Bolivarian Republic of),25287.0,13713.05,Greece,0
+Beijing 2008,1.0,Venezuela,0,0,1,1,Beijing ,2008,China,Venezuela (Bolivarian Republic of),27139.0,18019.09,China,0
+London 2012,1.0,Venezuela,1,0,0,1,London ,2012,United Kingdom,Venezuela (Bolivarian Republic of),28760.0,18549.0,United Kingdom,0
+Rio 2016,1.0,Venezuela,0,2,1,3,Rio ,2016,Brazil,Venezuela (Bolivarian Republic of),29994.0,15219.0,Brazil,0
+Tokyo 2020,1.0,Venezuela,1,3,0,4,Tokyo ,2020,Japan,Venezuela (Bolivarian Republic of),,,Japan,0
+Melbourne 1956,1.0,Iceland,0,1,0,1,Melbourne ,1956,Australia,Iceland,161.0,10323.0,Australia,0
+Los Angeles 1984,1.0,Iceland,0,0,1,1,Los Angeles ,1984,United States,Iceland,239.0,25357.0,United States,0
+Sydney 2000,1.0,Iceland,0,0,1,1,Sydney ,2000,Australia,Iceland,281.0,33108.29,Australia,0
+Beijing 2008,1.0,Iceland,0,1,0,1,Beijing ,2008,China,Iceland,317.0,40810.23,China,0
+Melbourne 1956,1.0,Pakistan,0,1,0,1,Melbourne ,1956,Australia,Pakistan,45536.0,1017.0,Australia,0
+Rome 1960,1.0,Pakistan,1,0,1,2,Rome ,1960,Italy,Pakistan,50387.0,1031.0,Italy,0
+Tokyo 1964,1.0,Pakistan,0,1,0,1,Tokyo ,1964,Japan,Pakistan,55988.0,1208.0,Japan,0
+Mexico City 1968,1.0,Pakistan,1,0,0,1,Mexico City ,1968,Mexico,Pakistan,62282.0,1361.0,Mexico,0
+Munich 1972,1.0,Pakistan,0,1,0,1,Munich ,1972,Germany,Pakistan,69326.0,1455.0,Germany,0
+Montreal 1976,1.0,Pakistan,0,0,1,1,Montreal ,1976,Canada,Pakistan,76456.0,1604.0,Canada,0
+Los Angeles 1984,1.0,Pakistan,1,0,0,1,Los Angeles ,1984,United States,Pakistan,96502.0,2106.0,United States,0
+Seoul 1988,1.0,Pakistan,0,0,1,1,Seoul ,1988,South Korea,Pakistan,108408.0,2442.0,Republic of Korea,0
+Barcelona 1992,1.0,Pakistan,0,0,1,1,Barcelona ,1992,Spain,Pakistan,119974.0,2732.38,Spain,0
+Melbourne 1956,1.0,Bahamas,0,0,1,1,Melbourne ,1956,Australia,,,,Australia,0
+Tokyo 1964,1.0,Bahamas,1,0,0,1,Tokyo ,1964,Japan,,,,Japan,0
+Barcelona 1992,1.0,Bahamas,0,0,1,1,Barcelona ,1992,Spain,,,,Spain,0
+Atlanta 1996,1.0,Bahamas,0,1,0,1,Atlanta ,1996,United States,,,,United States,0
+Sydney 2000,1.0,Bahamas,2,0,1,3,Sydney ,2000,Australia,,,,Australia,0
+Athens 2004,1.0,Bahamas,1,0,1,2,Athens ,2004,Greece,,,,Greece,0
+Beijing 2008,1.0,Bahamas,0,1,1,2,Beijing ,2008,China,,,,China,0
+London 2012,1.0,Bahamas,1,0,0,1,London ,2012,United Kingdom,,,,United Kingdom,0
+Rio 2016,1.0,Bahamas,1,0,1,2,Rio ,2016,Brazil,,,,Brazil,0
+Tokyo 2020,1.0,Bahamas,2,0,0,2,Tokyo ,2020,Japan,,,,Japan,0
+Rome 1960,1.0,Ethiopia,1,0,0,1,Rome ,1960,Italy,Ethiopia,24622.0,701.0,Italy,0
+Tokyo 1964,1.0,Ethiopia,1,0,0,1,Tokyo ,1964,Japan,Ethiopia,26654.0,840.0,Japan,0
+Mexico City 1968,1.0,Ethiopia,1,1,0,2,Mexico City ,1968,Mexico,Ethiopia,28943.0,902.0,Mexico,0
+Munich 1972,1.0,Ethiopia,0,0,2,2,Munich ,1972,Germany,Ethiopia,31543.0,995.0,Germany,0
+Moscow 1980,1.0,Ethiopia,2,0,2,4,Moscow ,1980,Russia,Ethiopia,36866.0,1033.0,Russian Federation,0
+Barcelona 1992,1.0,Ethiopia,1,0,2,3,Barcelona ,1992,Spain,Ethiopia,52875.0,708.37,Spain,0
+Atlanta 1996,1.0,Ethiopia,2,0,1,3,Atlanta ,1996,United States,Ethiopia,58915.0,782.99,United States,0
+Sydney 2000,1.0,Ethiopia,4,1,3,8,Sydney ,2000,Australia,Ethiopia,65213.0,771.73,Australia,0
+Athens 2004,1.0,Ethiopia,2,3,2,7,Athens ,2004,Greece,Ethiopia,72389.0,771.47,Greece,0
+Beijing 2008,1.0,Ethiopia,4,2,1,7,Beijing ,2008,China,Ethiopia,80564.0,989.98,China,0
+London 2012,1.0,Ethiopia,3,2,2,7,London ,2012,United Kingdom,Ethiopia,90066.0,1287.0,United Kingdom,0
+Rio 2016,1.0,Ethiopia,1,2,5,8,Rio ,2016,Brazil,Ethiopia,100859.0,1635.0,Brazil,0
+Tokyo 2020,1.0,Ethiopia,1,1,2,4,Tokyo ,2020,Japan,Ethiopia,,,Japan,0
+Rome 1960,1.0,United Arab Republic,0,1,1,2,Rome ,1960,Italy,,,,Italy,0
+Rome 1960,1.0,Ghana,0,1,0,1,Rome ,1960,Italy,Ghana,6958.0,2197.0,Italy,0
+Tokyo 1964,1.0,Ghana,0,0,1,1,Tokyo ,1964,Japan,Ghana,7782.0,2254.0,Japan,0
+Munich 1972,1.0,Ghana,0,0,1,1,Munich ,1972,Germany,Ghana,9354.0,2235.0,Germany,0
+Barcelona 1992,1.0,Ghana,0,0,1,1,Barcelona ,1992,Spain,Ghana,16092.0,1771.6,Spain,0
+Tokyo 2020,1.0,Ghana,0,0,1,1,Tokyo ,2020,Japan,Ghana,,,Japan,0
+Rome 1960,1.0,Morocco,0,1,0,1,Rome ,1960,Italy,Morocco,12423.0,2118.0,Italy,0
+Los Angeles 1984,1.0,Morocco,2,0,0,2,Los Angeles ,1984,United States,Morocco,21316.0,3657.0,United States,0
+Seoul 1988,1.0,Morocco,1,0,2,3,Seoul ,1988,South Korea,Morocco,23600.0,4077.0,Republic of Korea,0
+Barcelona 1992,1.0,Morocco,1,1,1,3,Barcelona ,1992,Spain,Morocco,25659.0,4194.45,Spain,0
+Atlanta 1996,1.0,Morocco,0,0,2,2,Atlanta ,1996,United States,Morocco,27339.0,4603.65,United States,0
+Sydney 2000,1.0,Morocco,0,1,4,5,Sydney ,2000,Australia,Morocco,28675.0,4753.64,Australia,0
+Athens 2004,1.0,Morocco,2,1,0,3,Athens ,2004,Greece,Morocco,30042.0,5584.15,Greece,0
+Beijing 2008,1.0,Morocco,0,1,1,2,Beijing ,2008,China,Morocco,31622.0,6530.98,China,0
+London 2012,1.0,Morocco,0,0,1,1,London ,2012,United Kingdom,Morocco,33217.0,7365.0,United Kingdom,0
+Rio 2016,1.0,Morocco,0,0,1,1,Rio ,2016,Brazil,Morocco,34760.0,8039.0,Brazil,0
+Tokyo 2020,1.0,Morocco,1,0,0,1,Tokyo ,2020,Japan,Morocco,,,Japan,0
+Rome 1960,1.0,Chinese Taipei,0,1,0,1,Rome ,1960,Italy,Taiwan Province of China,10861.0,2157.0,Italy,0
+Mexico City 1968,1.0,Chinese Taipei,0,0,1,1,Mexico City ,1968,Mexico,Taiwan Province of China,13918.0,3484.0,Mexico,0
+Los Angeles 1984,1.0,Chinese Taipei,0,0,1,1,Los Angeles ,1984,United States,Taiwan Province of China,18918.0,10394.0,United States,0
+Barcelona 1992,1.0,Chinese Taipei,0,1,0,1,Barcelona ,1992,Spain,Taiwan Province of China,20569.0,18101.33,Spain,0
+Atlanta 1996,1.0,Chinese Taipei,0,1,0,1,Atlanta ,1996,United States,Taiwan Province of China,21283.0,22390.05,United States,0
+Sydney 2000,1.0,Chinese Taipei,0,1,4,5,Sydney ,2000,Australia,Taiwan Province of China,22027.0,26787.45,Australia,0
+Athens 2004,1.0,Chinese Taipei,2,2,1,5,Athens ,2004,Greece,Taiwan Province of China,22434.0,29975.14,Greece,0
+Beijing 2008,1.0,Chinese Taipei,1,1,2,4,Beijing ,2008,China,Taiwan Province of China,22778.0,34762.37,China,0
+London 2012,1.0,Chinese Taipei,1,0,1,2,London ,2012,United Kingdom,Taiwan Province of China,23054.0,39207.0,United Kingdom,0
+Rio 2016,1.0,Chinese Taipei,1,0,2,3,Rio ,2016,Brazil,Taiwan Province of China,23276.0,42165.0,Brazil,0
+Tokyo 2020,1.0,Chinese Taipei,2,4,6,12,Tokyo ,2020,Japan,Taiwan Province of China,,,Japan,0
+Rome 1960,1.0,Singapore,0,1,0,1,Rome ,1960,Italy,Singapore,1646.0,3464.0,Italy,0
+Beijing 2008,1.0,Singapore,0,1,0,1,Beijing ,2008,China,Singapore,4931.0,52180.17,China,0
+London 2012,1.0,Singapore,0,0,2,2,London ,2012,United Kingdom,Singapore,5353.0,62783.0,United Kingdom,0
+Rio 2016,1.0,Singapore,1,0,0,1,Rio ,2016,Brazil,Singapore,5782.0,65729.0,Brazil,0
+Rome 1960,1.0,West Indies Federation,0,0,2,2,Rome ,1960,Italy,,,,Italy,0
+Rome 1960,1.0,Iraq,0,0,1,1,Rome ,1960,Italy,Iraq,6822.0,4360.0,Italy,0
+Innsbruck 1964,0.0,Democratic People's Republic of Korea,0,1,0,1,Innsbruck ,1964,Austria,D.P.R. of Korea,11615.0,2459.2387234042553,Austria,0
+Munich 1972,1.0,Democratic People's Republic of Korea,1,1,3,5,Munich ,1972,Germany,D.P.R. of Korea,14956.0,2458.1868085106385,Germany,0
+Montreal 1976,1.0,Democratic People's Republic of Korea,1,1,0,2,Montreal ,1976,Canada,D.P.R. of Korea,16294.0,2457.66085106383,Canada,0
+Moscow 1980,1.0,Democratic People's Republic of Korea,0,3,2,5,Moscow ,1980,Russia,D.P.R. of Korea,17390.0,2457.1348936170216,Russian Federation,0
+Albertville 1992,0.0,Democratic People's Republic of Korea,0,0,1,1,Albertville ,1992,France,D.P.R. of Korea,21182.0,2120.55,France,0
+Barcelona 1992,1.0,Democratic People's Republic of Korea,4,0,5,9,Barcelona ,1992,Spain,D.P.R. of Korea,21182.0,2120.55,Spain,0
+Atlanta 1996,1.0,Democratic People's Republic of Korea,2,1,2,5,Atlanta ,1996,United States,D.P.R. of Korea,22324.0,1733.1,United States,0
+Sydney 2000,1.0,Democratic People's Republic of Korea,0,1,3,4,Sydney ,2000,Australia,D.P.R. of Korea,22785.0,1657.14,Australia,0
+Athens 2004,1.0,Democratic People's Republic of Korea,0,4,1,5,Athens ,2004,Greece,D.P.R. of Korea,23477.0,1753.69,Greece,0
+Beijing 2008,1.0,Democratic People's Republic of Korea,2,2,2,6,Beijing ,2008,China,D.P.R. of Korea,24051.0,1794.66,China,0
+London 2012,1.0,Democratic People's Republic of Korea,4,0,2,6,London ,2012,United Kingdom,D.P.R. of Korea,24589.0,1770.92,United Kingdom,0
+Rio 2016,1.0,Democratic People's Republic of Korea,2,3,2,7,Rio ,2016,Brazil,D.P.R. of Korea,25115.0,1742.02,Brazil,0
+Tokyo 1964,1.0,Tunisia,0,1,1,2,Tokyo ,1964,Japan,Tunisia,4468.0,2533.0,Japan,0
+Mexico City 1968,1.0,Tunisia,1,0,1,2,Mexico City ,1968,Mexico,Tunisia,4894.0,2766.0,Mexico,0
+Munich 1972,1.0,Tunisia,0,1,0,1,Munich ,1972,Germany,Tunisia,5304.0,3645.0,Germany,0
+Atlanta 1996,1.0,Tunisia,0,0,1,1,Atlanta ,1996,United States,Tunisia,9092.0,6388.39,United States,0
+Beijing 2008,1.0,Tunisia,1,0,0,1,Beijing ,2008,China,Tunisia,10274.0,10294.92,China,0
+London 2012,1.0,Tunisia,2,0,1,3,London ,2012,United Kingdom,Tunisia,10737.0,10739.0,United Kingdom,0
+Rio 2016,1.0,Tunisia,0,0,3,3,Rio ,2016,Brazil,Tunisia,11248.0,11073.0,Brazil,0
+Tokyo 2020,1.0,Tunisia,1,1,0,2,Tokyo ,2020,Japan,Tunisia,,,Japan,0
+Tokyo 1964,1.0,Kenya,0,0,1,1,Tokyo ,1964,Japan,Kenya,9248.0,1208.0,Japan,0
+Mexico City 1968,1.0,Kenya,3,4,2,9,Mexico City ,1968,Mexico,Kenya,10532.0,1366.0,Mexico,0
+Munich 1972,1.0,Kenya,2,3,4,9,Munich ,1972,Germany,Kenya,12045.0,1524.0,Germany,0
+Los Angeles 1984,1.0,Kenya,1,0,2,3,Los Angeles ,1984,United States,Kenya,19050.0,1594.0,United States,0
+Seoul 1988,1.0,Kenya,5,2,2,9,Seoul ,1988,South Korea,Kenya,21916.0,1741.0,Republic of Korea,0
+Barcelona 1992,1.0,Kenya,2,4,2,8,Barcelona ,1992,Spain,Kenya,24986.0,1724.87,Spain,0
+Atlanta 1996,1.0,Kenya,1,4,3,8,Atlanta ,1996,United States,Kenya,27813.0,1851.28,United States,0
+Sydney 2000,1.0,Kenya,2,3,2,7,Sydney ,2000,Australia,Kenya,31025.0,1914.89,Australia,0
+Athens 2004,1.0,Kenya,1,4,2,7,Athens ,2004,Greece,Kenya,34880.0,2066.21,Greece,0
+Beijing 2008,1.0,Kenya,6,4,6,16,Beijing ,2008,China,Kenya,39442.0,2357.23,China,0
+London 2012,1.0,Kenya,2,4,6,12,London ,2012,United Kingdom,Kenya,44477.0,2765.0,United Kingdom,0
+Rio 2016,1.0,Kenya,6,6,1,13,Rio ,2016,Brazil,Kenya,49108.0,3169.0,Brazil,0
+Tokyo 2020,1.0,Kenya,4,4,2,10,Tokyo ,2020,Japan,Kenya,,,Japan,0
+Tokyo 1964,1.0,Nigeria,0,0,1,1,Tokyo ,1964,Japan,Nigeria,46675.0,1451.0,Japan,0
+Munich 1972,1.0,Nigeria,0,0,1,1,Munich ,1972,Germany,Nigeria,58941.0,1908.0,Germany,0
+Los Angeles 1984,1.0,Nigeria,0,1,1,2,Los Angeles ,1984,United States,Nigeria,82724.0,1527.0,United States,0
+Barcelona 1992,1.0,Nigeria,0,3,1,4,Barcelona ,1992,Spain,Nigeria,101378.0,1793.94,Spain,0
+Atlanta 1996,1.0,Nigeria,2,1,3,6,Atlanta ,1996,United States,Nigeria,112235.0,1924.09,United States,0
+Sydney 2000,1.0,Nigeria,1,2,0,3,Sydney ,2000,Australia,Nigeria,125014.0,2144.83,Australia,0
+Athens 2004,1.0,Nigeria,0,0,2,2,Athens ,2004,Greece,Nigeria,139902.0,3136.63,Greece,0
+Beijing 2008,1.0,Nigeria,0,2,3,5,Beijing ,2008,China,Nigeria,156443.0,4084.2,China,0
+Rio 2016,1.0,Nigeria,0,0,1,1,Rio ,2016,Brazil,Nigeria,192625.0,5360.0,Brazil,0
+Tokyo 2020,1.0,Nigeria,0,1,1,2,Tokyo ,2020,Japan,Nigeria,,,Japan,0
+Mexico City 1968,1.0,German Democratic Republic (Germany),9,9,7,25,Mexico City ,1968,Mexico,Germany,76584.0,15723.0,Mexico,0
+Grenoble 1968,0.0,German Democratic Republic (Germany),1,2,2,5,Grenoble ,1968,France,Germany,76584.0,15723.0,France,0
+Sapporo 1972,0.0,German Democratic Republic (Germany),4,3,7,14,Sapporo ,1972,Japan,Germany,78717.0,18301.0,Japan,0
+Munich 1972,1.0,German Democratic Republic (Germany),20,23,23,66,Munich ,1972,Germany,Germany,78717.0,18301.0,Germany,1
+Montreal 1976,1.0,German Democratic Republic (Germany),40,25,25,90,Montreal ,1976,Canada,Germany,78299.0,20218.0,Canada,0
+Innsbruck 1976,0.0,German Democratic Republic (Germany),7,5,7,19,Innsbruck ,1976,Austria,Germany,78299.0,20218.0,Austria,0
+Moscow 1980,1.0,German Democratic Republic (Germany),47,37,42,126,Moscow ,1980,Russia,Germany,78298.0,22497.0,Russian Federation,0
+Lake Placid 1980,0.0,German Democratic Republic (Germany),9,7,7,23,Lake Placid ,1980,United States,Germany,78298.0,22497.0,United States,0
+Sarajevo 1984,0.0,German Democratic Republic (Germany),9,9,6,24,Sarajevo ,1984,Bosnia and Herzegovina,Germany,77855.0,23564.0,Former Yugoslavia,0
+Seoul 1988,1.0,German Democratic Republic (Germany),37,35,30,102,Seoul ,1988,South Korea,Germany,78031.0,25759.0,Republic of Korea,0
+Calgary 1988,0.0,German Democratic Republic (Germany),9,10,6,25,Calgary ,1988,Canada,Germany,78031.0,25759.0,Canada,0
+Mexico City 1968,1.0,Federal Republic of Germany,5,11,10,26,Mexico City ,1968,Mexico,Germany,76584.0,15723.0,Mexico,0
+Grenoble 1968,0.0,Federal Republic of Germany,2,2,3,7,Grenoble ,1968,France,Germany,76584.0,15723.0,France,0
+Sapporo 1972,0.0,Federal Republic of Germany,3,1,1,5,Sapporo ,1972,Japan,Germany,78717.0,18301.0,Japan,0
+Munich 1972,1.0,Federal Republic of Germany,13,11,16,40,Munich ,1972,Germany,Germany,78717.0,18301.0,Germany,1
+Montreal 1976,1.0,Federal Republic of Germany,10,12,17,39,Montreal ,1976,Canada,Germany,78299.0,20218.0,Canada,0
+Innsbruck 1976,0.0,Federal Republic of Germany,2,5,3,10,Innsbruck ,1976,Austria,Germany,78299.0,20218.0,Austria,0
+Lake Placid 1980,0.0,Federal Republic of Germany,0,2,3,5,Lake Placid ,1980,United States,Germany,78298.0,22497.0,United States,0
+Sarajevo 1984,0.0,Federal Republic of Germany,2,1,1,4,Sarajevo ,1984,Bosnia and Herzegovina,Germany,77855.0,23564.0,Former Yugoslavia,0
+Los Angeles 1984,1.0,Federal Republic of Germany,17,19,23,59,Los Angeles ,1984,United States,Germany,77855.0,23564.0,United States,0
+Seoul 1988,1.0,Federal Republic of Germany,11,14,15,40,Seoul ,1988,South Korea,Germany,78031.0,25759.0,Republic of Korea,0
+Calgary 1988,0.0,Federal Republic of Germany,2,4,2,8,Calgary ,1988,Canada,Germany,78031.0,25759.0,Canada,0
+Mexico City 1968,1.0,Mongolia,0,1,3,4,Mexico City ,1968,Mexico,Mongolia,1181.0,1154.0,Mexico,0
+Munich 1972,1.0,Mongolia,0,1,0,1,Munich ,1972,Germany,Mongolia,1321.0,1256.0,Germany,0
+Montreal 1976,1.0,Mongolia,0,1,0,1,Montreal ,1976,Canada,Mongolia,1487.0,1401.0,Canada,0
+Moscow 1980,1.0,Mongolia,0,2,2,4,Moscow ,1980,Russia,Mongolia,1655.0,1618.0,Russian Federation,0
+Seoul 1988,1.0,Mongolia,0,0,1,1,Seoul ,1988,South Korea,Mongolia,1992.0,2227.0,Republic of Korea,0
+Barcelona 1992,1.0,Mongolia,0,0,2,2,Barcelona ,1992,Spain,Mongolia,2210.0,1841.01,Spain,0
+Atlanta 1996,1.0,Mongolia,0,0,1,1,Atlanta ,1996,United States,Mongolia,2341.0,2271.8,United States,0
+Athens 2004,1.0,Mongolia,0,0,1,1,Athens ,2004,Greece,Mongolia,2574.0,4334.23,Greece,0
+Beijing 2008,1.0,Mongolia,2,2,0,4,Beijing ,2008,China,Mongolia,2702.0,6982.15,China,0
+London 2012,1.0,Mongolia,0,2,3,5,London ,2012,United Kingdom,Mongolia,2870.0,10493.0,United Kingdom,0
+Rio 2016,1.0,Mongolia,0,1,1,2,Rio ,2016,Brazil,Mongolia,3031.0,12360.0,Brazil,0
+Tokyo 2020,1.0,Mongolia,0,1,3,4,Tokyo ,2020,Japan,Mongolia,,,Japan,0
+Mexico City 1968,1.0,Uganda,0,1,1,2,Mexico City ,1968,Mexico,Uganda,9170.0,1304.0,Mexico,0
+Munich 1972,1.0,Uganda,1,1,0,2,Munich ,1972,Germany,Uganda,10224.0,1364.0,Germany,0
+Moscow 1980,1.0,Uganda,0,1,0,1,Moscow ,1980,Russia,Uganda,12415.0,912.0,Russian Federation,0
+Atlanta 1996,1.0,Uganda,0,0,1,1,Atlanta ,1996,United States,Uganda,21270.0,1091.53,United States,0
+London 2012,1.0,Uganda,1,0,0,1,London ,2012,United Kingdom,Uganda,34234.0,1877.0,United Kingdom,0
+Tokyo 2020,1.0,Uganda,2,1,1,4,Tokyo ,2020,Japan,Uganda,,,Japan,0
+Mexico City 1968,1.0,Cameroon,0,1,0,1,Mexico City ,1968,Mexico,Cameroon,6460.0,1508.0,Mexico,0
+Los Angeles 1984,1.0,Cameroon,0,0,1,1,Los Angeles ,1984,United States,Cameroon,9867.0,2450.0,United States,0
+Sydney 2000,1.0,Cameroon,1,0,0,1,Sydney ,2000,Australia,Cameroon,15914.0,1961.09,Australia,0
+Athens 2004,1.0,Cameroon,1,0,0,1,Athens ,2004,Greece,Cameroon,17764.0,2198.24,Greece,0
+Beijing 2008,1.0,Cameroon,1,0,0,1,Beijing ,2008,China,Cameroon,19843.0,2352.8,China,0
+London 2012,1.0,Cameroon,0,0,1,1,London ,2012,United Kingdom,Cameroon,22181.0,2541.0,United Kingdom,0
+Munich 1972,1.0,Colombia,0,1,2,3,Munich ,1972,Germany,Colombia,22543.0,5348.0,Germany,0
+Los Angeles 1984,1.0,Colombia,0,1,0,1,Los Angeles ,1984,United States,Colombia,29096.0,6741.0,United States,0
+Seoul 1988,1.0,Colombia,0,0,1,1,Seoul ,1988,South Korea,Colombia,31673.0,7442.0,Republic of Korea,0
+Barcelona 1992,1.0,Colombia,0,0,1,1,Barcelona ,1992,Spain,Colombia,34314.0,7888.11,Spain,0
+Sydney 2000,1.0,Colombia,1,0,0,1,Sydney ,2000,Australia,Colombia,38917.0,8496.79,Australia,0
+Athens 2004,1.0,Colombia,0,0,2,2,Athens ,2004,Greece,Colombia,40918.0,9211.28,Greece,0
+Beijing 2008,1.0,Colombia,0,2,1,3,Beijing ,2008,China,Colombia,42930.0,10846.74,China,0
+London 2012,1.0,Colombia,1,3,4,8,London ,2012,United Kingdom,Colombia,44988.0,12123.0,United Kingdom,0
+Rio 2016,1.0,Colombia,3,2,3,8,Rio ,2016,Brazil,Colombia,47079.0,13326.0,Brazil,0
+Tokyo 2020,1.0,Colombia,0,4,1,5,Tokyo ,2020,Japan,Colombia,,,Japan,0
+Munich 1972,1.0,Niger,0,0,1,1,Munich ,1972,Germany,Niger,5060.0,1282.0,Germany,0
+Rio 2016,1.0,Niger,0,1,0,1,Rio ,2016,Brazil,Niger,19710.0,925.0,Brazil,0
+Montreal 1976,1.0,Bermuda,0,0,1,1,Montreal ,1976,Canada,,,,Canada,0
+Tokyo 2020,1.0,Bermuda,1,0,0,1,Tokyo ,2020,Japan,,,,Japan,0
+Montreal 1976,1.0,Thailand,0,0,1,1,Montreal ,1976,Canada,Thailand,43221.0,3333.0,Canada,0
+Los Angeles 1984,1.0,Thailand,0,1,0,1,Los Angeles ,1984,United States,Thailand,50534.0,4720.0,United States,0
+Seoul 1988,1.0,Thailand,0,0,1,1,Seoul ,1988,South Korea,Thailand,53683.0,6089.0,Republic of Korea,0
+Barcelona 1992,1.0,Thailand,0,0,1,1,Barcelona ,1992,Spain,Thailand,56675.0,8409.02,Spain,0
+Atlanta 1996,1.0,Thailand,1,0,1,2,Atlanta ,1996,United States,Thailand,59560.0,10458.36,United States,0
+Sydney 2000,1.0,Thailand,1,0,2,3,Sydney ,2000,Australia,Thailand,61893.0,9627.1,Australia,0
+Athens 2004,1.0,Thailand,3,1,4,8,Athens ,2004,Greece,Thailand,63697.0,11408.33,Greece,0
+Beijing 2008,1.0,Thailand,2,2,2,6,Beijing ,2008,China,Thailand,65079.0,12768.13,China,0
+London 2012,1.0,Thailand,0,2,2,4,London ,2012,United Kingdom,Thailand,66167.0,14227.0,United Kingdom,0
+Rio 2016,1.0,Thailand,2,2,2,6,Rio ,2016,Brazil,Thailand,67107.0,15454.0,Brazil,0
+Tokyo 2020,1.0,Thailand,1,0,1,2,Tokyo ,2020,Japan,Thailand,,,Japan,0
+Innsbruck 1976,0.0,Liechtenstein,0,0,2,2,Innsbruck ,1976,Austria,,,,Austria,0
+Lake Placid 1980,0.0,Liechtenstein,2,2,0,4,Lake Placid ,1980,United States,,,,United States,0
+Sarajevo 1984,0.0,Liechtenstein,0,0,2,2,Sarajevo ,1984,Bosnia and Herzegovina,,,,Former Yugoslavia,0
+Calgary 1988,0.0,Liechtenstein,0,0,1,1,Calgary ,1988,Canada,,,,Canada,0
+PyeongChang 2018,0.0,Liechtenstein,0,0,1,1,PyeongChang ,2018,South Korea,,,,Republic of Korea,0
+Moscow 1980,1.0,Zimbabwe,1,0,0,1,Moscow ,1980,Russia,Zimbabwe,7170.0,2064.0,Russian Federation,0
+Athens 2004,1.0,Zimbabwe,1,1,1,3,Athens ,2004,Greece,Zimbabwe,12336.0,1604.5,Greece,0
+Beijing 2008,1.0,Zimbabwe,1,3,0,4,Beijing ,2008,China,Zimbabwe,12568.0,1197.53,China,0
+Moscow 1980,1.0,United Republic of Tanzania,0,2,0,2,Moscow ,1980,Russia,U.R. of Tanzania: Mainland,18665.0,958.0,Russian Federation,0
+Moscow 1980,1.0,Guyana,0,0,1,1,Moscow ,1980,Russia,,,,Russian Federation,0
+Los Angeles 1984,1.0,People's Republic of China,15,8,9,32,Los Angeles ,1984,United States,China,1036825.0,2444.0,United States,0
+Seoul 1988,1.0,People's Republic of China,5,11,12,28,Seoul ,1988,South Korea,China,1101630.0,3045.0,Republic of Korea,0
+Albertville 1992,0.0,People's Republic of China,0,3,0,3,Albertville ,1992,France,China,1163363.0,3227.74,France,0
+Barcelona 1992,1.0,People's Republic of China,16,22,16,54,Barcelona ,1992,Spain,China,1163363.0,3227.74,Spain,0
+Lillehammer 1994,0.0,People's Republic of China,0,1,2,3,Lillehammer ,1994,Norway,China,1189962.0,3730.16,Norway,0
+Atlanta 1996,1.0,People's Republic of China,16,22,12,50,Atlanta ,1996,United States,China,1215171.0,4219.64,United States,0
+Nagano 1998,0.0,People's Republic of China,0,6,2,8,Nagano ,1998,Japan,China,1238722.0,4309.85,Japan,0
+Sydney 2000,1.0,People's Republic of China,28,16,14,58,Sydney ,2000,Australia,China,1258401.0,4730.35,Australia,0
+Salt Lake City 2002,0.0,People's Republic of China,2,2,4,8,Salt Lake City ,2002,United States,China,1275379.0,5343.11,United States,0
+Athens 2004,1.0,People's Republic of China,32,17,14,63,Athens ,2004,Greece,China,1290620.0,6067.59,Greece,0
+Beijing 2008,1.0,People's Republic of China,48,22,30,100,Beijing ,2008,China,China,1318559.0,8190.11,China,1
+Vancouver 2010,0.0,People's Republic of China,5,2,4,11,Vancouver ,2010,Canada,China,1331357.0,9658.42,Canada,0
+London 2012,1.0,People's Republic of China,38,31,22,91,London ,2012,United Kingdom,China,1344394.0,10680.0,United Kingdom,0
+Sochi 2014,0.0,People's Republic of China,3,4,2,9,Sochi ,2014,Russia,China,1358076.0,11944.0,Russian Federation,0
+Rio 2016,1.0,People's Republic of China,26,18,26,70,Rio ,2016,Brazil,China,1372860.0,12569.0,Brazil,0
+PyeongChang 2018,0.0,People's Republic of China,1,6,2,9,PyeongChang ,2018,South Korea,China,1385439.0,13101.71,Republic of Korea,0
+Tokyo 2020,1.0,People's Republic of China,38,32,18,88,Tokyo ,2020,Japan,China,,,Japan,0
+Los Angeles 1984,1.0,Syrian Arab Republic,0,1,0,1,Los Angeles ,1984,United States,Syrian Arab Republic,10114.0,9792.0,United States,0
+Atlanta 1996,1.0,Syrian Arab Republic,1,0,0,1,Atlanta ,1996,United States,Syrian Arab Republic,14742.0,9517.37,United States,0
+Athens 2004,1.0,Syrian Arab Republic,0,0,1,1,Athens ,2004,Greece,Syrian Arab Republic,17813.0,7051.43,Greece,0
+Tokyo 2020,1.0,Syrian Arab Republic,0,0,1,1,Tokyo ,2020,Japan,Syrian Arab Republic,,,Japan,0
+Los Angeles 1984,1.0,Côte d'Ivoire,0,1,0,1,Los Angeles ,1984,United States,Cote d'Ivoire,9963.0,2703.0,United States,0
+Rio 2016,1.0,Côte d'Ivoire,1,0,1,2,Rio ,2016,Brazil,Cote d'Ivoire,26354.0,3395.0,Brazil,0
+Tokyo 2020,1.0,Côte d'Ivoire,0,0,1,1,Tokyo ,2020,Japan,Cote d'Ivoire,,,Japan,0
+Los Angeles 1984,1.0,Algeria,0,0,2,2,Los Angeles ,1984,United States,Algeria,21341.0,5361.0,United States,0
+Barcelona 1992,1.0,Algeria,1,0,1,2,Barcelona ,1992,Spain,Algeria,26387.0,4850.22,Spain,0
+Atlanta 1996,1.0,Algeria,2,0,1,3,Atlanta ,1996,United States,Algeria,28721.0,5451.63,United States,0
+Sydney 2000,1.0,Algeria,1,1,3,5,Sydney ,2000,Australia,Algeria,30515.0,6834.55,Australia,0
+Beijing 2008,1.0,Algeria,0,1,1,2,Beijing ,2008,China,Algeria,34480.0,11475.0,China,0
+London 2012,1.0,Algeria,1,0,0,1,London ,2012,United Kingdom,Algeria,37217.0,13379.0,United Kingdom,0
+Rio 2016,1.0,Algeria,0,2,0,2,Rio ,2016,Brazil,Algeria,40102.0,14331.0,Brazil,0
+Los Angeles 1984,1.0,Dominican Republic,0,0,1,1,Los Angeles ,1984,United States,Dominica,74.0,2802.0,United States,0
+Athens 2004,1.0,Dominican Republic,1,0,0,1,Athens ,2004,Greece,Dominica,72.0,6602.7,Greece,0
+Beijing 2008,1.0,Dominican Republic,1,1,0,2,Beijing ,2008,China,Dominica,73.0,8454.06,China,0
+London 2012,1.0,Dominican Republic,1,1,0,2,London ,2012,United Kingdom,Dominica,73.0,8823.0,United Kingdom,0
+Rio 2016,1.0,Dominican Republic,0,0,1,1,Rio ,2016,Brazil,Dominica,74.0,9550.0,Brazil,0
+Tokyo 2020,1.0,Dominican Republic,0,3,2,5,Tokyo ,2020,Japan,Dominica,,,Japan,0
+Los Angeles 1984,1.0,Zambia,0,0,1,1,Los Angeles ,1984,United States,Zambia,6567.0,1269.0,United States,0
+Atlanta 1996,1.0,Zambia,0,1,0,1,Atlanta ,1996,United States,Zambia,9354.0,1260.73,United States,0
+Seoul 1988,1.0,Suriname,1,0,0,1,Seoul ,1988,South Korea,,,,Republic of Korea,0
+Barcelona 1992,1.0,Suriname,0,0,1,1,Barcelona ,1992,Spain,,,,Spain,0
+Seoul 1988,1.0,"Virgin Islands, US",0,1,0,1,Seoul ,1988,South Korea,,,,Republic of Korea,0
+Seoul 1988,1.0,Senegal,0,1,0,1,Seoul ,1988,South Korea,Senegal,7465.0,2085.0,Republic of Korea,0
+Seoul 1988,1.0,Indonesia,0,1,0,1,Seoul ,1988,South Korea,Indonesia,173041.0,3500.0,Republic of Korea,0
+Barcelona 1992,1.0,Indonesia,2,2,1,5,Barcelona ,1992,Spain,Indonesia,185561.0,4536.41,Spain,0
+Atlanta 1996,1.0,Indonesia,1,1,2,4,Atlanta ,1996,United States,Indonesia,198466.0,5851.3,United States,0
+Sydney 2000,1.0,Indonesia,1,3,2,6,Sydney ,2000,Australia,Indonesia,211408.0,5384.39,Australia,0
+Athens 2004,1.0,Indonesia,1,1,2,4,Athens ,2004,Greece,Indonesia,223566.0,6180.91,Greece,0
+Beijing 2008,1.0,Indonesia,1,1,4,6,Beijing ,2008,China,Indonesia,234957.0,7633.17,China,0
+London 2012,1.0,Indonesia,0,2,1,3,London ,2012,United Kingdom,Indonesia,245529.0,9285.0,United Kingdom,0
+Rio 2016,1.0,Indonesia,1,2,0,3,Rio ,2016,Brazil,Indonesia,255079.0,10911.0,Brazil,0
+Tokyo 2020,1.0,Indonesia,1,1,3,5,Tokyo ,2020,Japan,Indonesia,,,Japan,0
+Seoul 1988,1.0,Costa Rica,0,1,0,1,Seoul ,1988,South Korea,Costa Rica,2875.0,7270.0,Republic of Korea,0
+Atlanta 1996,1.0,Costa Rica,1,0,0,1,Atlanta ,1996,United States,Costa Rica,3541.0,8446.78,United States,0
+Sydney 2000,1.0,Costa Rica,0,0,2,2,Sydney ,2000,Australia,Costa Rica,3888.0,9319.77,Australia,0
+Seoul 1988,1.0,Netherlands Antilles,0,1,0,1,Seoul ,1988,South Korea,,,,Republic of Korea,0
+Seoul 1988,1.0,Djibouti,0,0,1,1,Seoul ,1988,South Korea,Djibouti,417.0,2652.0,Republic of Korea,0
+Albertville 1992,0.0,Unified Team,9,6,8,23,Albertville ,1992,France,,,,France,0
+Barcelona 1992,1.0,Unified Team,45,38,29,112,Barcelona ,1992,Spain,,,,Spain,0
+Barcelona 1992,1.0,Lithuania,1,0,1,2,Barcelona ,1992,Spain,Lithuania,3697.0,10240.94,Spain,0
+Atlanta 1996,1.0,Lithuania,0,0,1,1,Atlanta ,1996,United States,Lithuania,3599.0,8793.7,United States,0
+Sydney 2000,1.0,Lithuania,2,0,3,5,Sydney ,2000,Australia,Lithuania,3497.0,10806.87,Australia,0
+Athens 2004,1.0,Lithuania,1,2,0,3,Athens ,2004,Greece,Lithuania,3374.0,14995.77,Greece,0
+Beijing 2008,1.0,Lithuania,0,3,2,5,Beijing ,2008,China,Lithuania,3196.0,20879.8,China,0
+London 2012,1.0,Lithuania,2,0,3,5,London ,2012,United Kingdom,Lithuania,2985.0,21303.0,United Kingdom,0
+Rio 2016,1.0,Lithuania,0,1,3,4,Rio ,2016,Brazil,Lithuania,2866.0,24743.0,Brazil,0
+Tokyo 2020,1.0,Lithuania,0,1,0,1,Tokyo ,2020,Japan,Lithuania,,,Japan,0
+Barcelona 1992,1.0,Namibia,0,2,0,2,Barcelona ,1992,Spain,Namibia,1551.0,5532.67,Spain,0
+Atlanta 1996,1.0,Namibia,0,2,0,2,Atlanta ,1996,United States,Namibia,1716.0,5687.12,United States,0
+Tokyo 2020,1.0,Namibia,0,1,0,1,Tokyo ,2020,Japan,Namibia,,,Japan,0
+Barcelona 1992,1.0,Independent Olympic Athletes,0,1,2,3,Barcelona ,1992,Spain,,,,Spain,0
+Rio 2016,1.0,Independent Olympic Athletes,1,0,1,2,Rio ,2016,Brazil,,,,Brazil,0
+Barcelona 1992,1.0,Croatia,0,1,2,3,Barcelona ,1992,Spain,Croatia,4318.0,9331.89,Spain,0
+Atlanta 1996,1.0,Croatia,1,1,0,2,Atlanta ,1996,United States,Croatia,4300.0,11030.08,United States,0
+Sydney 2000,1.0,Croatia,1,0,1,2,Sydney ,2000,Australia,Croatia,4149.0,13244.54,Australia,0
+Salt Lake City 2002,0.0,Croatia,3,1,0,4,Salt Lake City ,2002,United States,Croatia,4063.0,14683.84,United States,0
+Athens 2004,1.0,Croatia,1,2,2,5,Athens ,2004,Greece,Croatia,4066.0,16628.57,Greece,0
+Beijing 2008,1.0,Croatia,0,2,3,5,Beijing ,2008,China,Croatia,4068.0,20717.32,China,0
+Vancouver 2010,0.0,Croatia,0,2,1,3,Vancouver ,2010,Canada,Croatia,4054.0,19511.35,Canada,0
+London 2012,1.0,Croatia,3,1,2,6,London ,2012,United Kingdom,Croatia,4029.0,19441.0,United Kingdom,0
+Sochi 2014,0.0,Croatia,0,1,0,1,Sochi ,2014,Russia,Croatia,3998.0,19284.0,Russian Federation,0
+Rio 2016,1.0,Croatia,5,3,2,10,Rio ,2016,Brazil,Croatia,3937.0,20376.0,Brazil,0
+Tokyo 2020,1.0,Croatia,3,3,2,8,Tokyo ,2020,Japan,Croatia,,,Japan,0
+Barcelona 1992,1.0,Israel,0,1,1,2,Barcelona ,1992,Spain,Israel,4824.0,21531.6,Spain,0
+Atlanta 1996,1.0,Israel,0,0,1,1,Atlanta ,1996,United States,Israel,5520.0,23980.0,United States,0
+Sydney 2000,1.0,Israel,0,0,1,1,Sydney ,2000,Australia,Israel,6123.0,26058.84,Australia,0
+Athens 2004,1.0,Israel,1,0,1,2,Athens ,2004,Greece,Israel,6629.0,25210.88,Greece,0
+Beijing 2008,1.0,Israel,0,0,1,1,Beijing ,2008,China,Israel,7132.0,27857.62,China,0
+Rio 2016,1.0,Israel,0,0,2,2,Rio ,2016,Brazil,Israel,8209.0,31701.0,Brazil,0
+Tokyo 2020,1.0,Israel,2,0,2,4,Tokyo ,2020,Japan,Israel,,,Japan,0
+Barcelona 1992,1.0,Slovenia,0,0,2,2,Barcelona ,1992,Spain,Slovenia,1990.0,15462.71,Spain,0
+Lillehammer 1994,0.0,Slovenia,0,0,3,3,Lillehammer ,1994,Norway,Slovenia,1983.0,16664.71,Norway,0
+Atlanta 1996,1.0,Slovenia,0,2,0,2,Atlanta ,1996,United States,Slovenia,1982.0,18376.25,United States,0
+Sydney 2000,1.0,Slovenia,2,0,0,2,Sydney ,2000,Australia,Slovenia,1982.0,21501.34,Australia,0
+Salt Lake City 2002,0.0,Slovenia,0,0,1,1,Salt Lake City ,2002,United States,Slovenia,1988.0,22725.31,United States,0
+Athens 2004,1.0,Slovenia,0,1,3,4,Athens ,2004,Greece,Slovenia,1990.0,24150.58,Greece,0
+Beijing 2008,1.0,Slovenia,1,2,2,5,Beijing ,2008,China,Slovenia,2014.0,28473.6,China,0
+Vancouver 2010,0.0,Slovenia,0,2,1,3,Vancouver ,2010,Canada,Slovenia,2041.0,26000.92,Canada,0
+London 2012,1.0,Slovenia,1,1,2,4,London ,2012,United Kingdom,Slovenia,2050.0,25252.0,United Kingdom,0
+Sochi 2014,0.0,Slovenia,2,2,4,8,Sochi ,2014,Russia,Slovenia,2055.0,25693.0,Russian Federation,0
+Rio 2016,1.0,Slovenia,1,2,1,4,Rio ,2016,Brazil,Slovenia,2058.0,26908.0,Brazil,0
+PyeongChang 2018,0.0,Slovenia,0,1,1,2,PyeongChang ,2018,South Korea,Slovenia,2067.0,29244.92,Republic of Korea,0
+Tokyo 2020,1.0,Slovenia,3,1,1,5,Tokyo ,2020,Japan,Slovenia,,,Japan,0
+Barcelona 1992,1.0,Qatar,0,0,1,1,Barcelona ,1992,Spain,Qatar,464.0,15042.12,Spain,0
+Sydney 2000,1.0,Qatar,0,0,1,1,Sydney ,2000,Australia,Qatar,555.0,45788.12,Australia,0
+London 2012,1.0,Qatar,0,0,2,2,London ,2012,United Kingdom,Qatar,2057.0,153922.0,United Kingdom,0
+Rio 2016,1.0,Qatar,0,1,0,1,Rio ,2016,Brazil,Qatar,2486.0,156299.0,Brazil,0
+Tokyo 2020,1.0,Qatar,2,0,1,3,Tokyo ,2020,Japan,Qatar,,,Japan,0
+Barcelona 1992,1.0,Malaysia,0,0,1,1,Barcelona ,1992,Spain,Malaysia,18466.0,9383.93,Spain,0
+Atlanta 1996,1.0,Malaysia,0,1,1,2,Atlanta ,1996,United States,Malaysia,20419.0,12668.67,United States,0
+Beijing 2008,1.0,Malaysia,0,1,0,1,Beijing ,2008,China,Malaysia,26784.0,17865.64,China,0
+London 2012,1.0,Malaysia,0,1,1,2,London ,2012,United Kingdom,Malaysia,28568.0,20134.0,United Kingdom,0
+Rio 2016,1.0,Malaysia,0,4,1,5,Rio ,2016,Brazil,Malaysia,30301.0,23053.0,Brazil,0
+Tokyo 2020,1.0,Malaysia,0,1,1,2,Tokyo ,2020,Japan,Malaysia,,,Japan,0
+Lillehammer 1994,0.0,Kazakhstan,1,2,0,3,Lillehammer ,1994,Norway,Kazakhstan,16289.0,8178.79,Norway,0
+Atlanta 1996,1.0,Kazakhstan,3,4,4,11,Atlanta ,1996,United States,Kazakhstan,15872.0,7826.86,United States,0
+Nagano 1998,0.0,Kazakhstan,0,0,2,2,Nagano ,1998,Japan,Kazakhstan,15485.0,8088.65,Japan,0
+Sydney 2000,1.0,Kazakhstan,3,4,0,7,Sydney ,2000,Australia,Kazakhstan,15335.0,9309.42,Australia,0
+Athens 2004,1.0,Kazakhstan,1,4,3,8,Athens ,2004,Greece,Kazakhstan,15629.0,13929.73,Greece,0
+Beijing 2008,1.0,Kazakhstan,2,3,4,9,Beijing ,2008,China,Kazakhstan,16276.0,18665.77,China,0
+Vancouver 2010,0.0,Kazakhstan,0,1,0,1,Vancouver ,2010,Canada,Kazakhstan,16701.0,19964.53,Canada,0
+London 2012,1.0,Kazakhstan,3,1,7,11,London ,2012,United Kingdom,Kazakhstan,17128.0,22089.0,United Kingdom,0
+Sochi 2014,0.0,Kazakhstan,0,0,1,1,Sochi ,2014,Russia,Kazakhstan,17546.0,23841.0,Russian Federation,0
+Rio 2016,1.0,Kazakhstan,3,5,10,18,Rio ,2016,Brazil,Kazakhstan,17948.0,23842.0,Brazil,0
+PyeongChang 2018,0.0,Kazakhstan,0,0,1,1,PyeongChang ,2018,South Korea,Kazakhstan,18323.0,25307.56,Republic of Korea,0
+Tokyo 2020,1.0,Kazakhstan,0,0,8,8,Tokyo ,2020,Japan,Kazakhstan,,,Japan,0
+Lillehammer 1994,0.0,Ukraine,1,0,1,2,Lillehammer ,1994,Norway,Ukraine,51638.0,5585.41,Norway,0
+Atlanta 1996,1.0,Ukraine,9,2,12,23,Atlanta ,1996,United States,Ukraine,50813.0,4636.63,United States,0
+Nagano 1998,0.0,Ukraine,0,1,0,1,Nagano ,1998,Japan,Ukraine,49941.0,4640.2,Japan,0
+Sydney 2000,1.0,Ukraine,3,10,10,23,Sydney ,2000,Australia,Ukraine,49014.0,5165.81,Australia,0
+Athens 2004,1.0,Ukraine,8,5,9,22,Athens ,2004,Greece,Ukraine,47342.0,8049.4,Greece,0
+Beijing 2008,1.0,Ukraine,7,4,11,22,Beijing ,2008,China,Ukraine,46156.0,10824.08,China,0
+London 2012,1.0,Ukraine,5,4,10,19,London ,2012,United Kingdom,Ukraine,45492.0,10383.0,United Kingdom,0
+Sochi 2014,0.0,Ukraine,1,0,1,2,Sochi ,2014,Russia,Ukraine,44944.0,9818.0,Russian Federation,0
+Rio 2016,1.0,Ukraine,2,5,4,11,Rio ,2016,Brazil,Ukraine,44210.0,9214.0,Brazil,0
+PyeongChang 2018,0.0,Ukraine,1,0,0,1,PyeongChang ,2018,South Korea,Ukraine,43952.0,9813.36,Republic of Korea,0
+Tokyo 2020,1.0,Ukraine,1,6,12,19,Tokyo ,2020,Japan,Ukraine,,,Japan,0
+Lillehammer 1994,0.0,Uzbekistan,1,0,0,1,Lillehammer ,1994,Norway,Uzbekistan,22604.0,4744.46,Norway,0
+Atlanta 1996,1.0,Uzbekistan,0,1,1,2,Atlanta ,1996,United States,Uzbekistan,23524.0,4452.88,United States,0
+Sydney 2000,1.0,Uzbekistan,1,1,2,4,Sydney ,2000,Australia,Uzbekistan,25042.0,4667.26,Australia,0
+Athens 2004,1.0,Uzbekistan,2,1,2,5,Athens ,2004,Greece,Uzbekistan,26268.0,5068.21,Greece,0
+Beijing 2008,1.0,Uzbekistan,0,1,3,4,Beijing ,2008,China,Uzbekistan,27345.0,6278.27,China,0
+London 2012,1.0,Uzbekistan,0,0,2,2,London ,2012,United Kingdom,Uzbekistan,28394.0,7928.0,United Kingdom,0
+Rio 2016,1.0,Uzbekistan,4,2,7,13,Rio ,2016,Brazil,Uzbekistan,29473.0,10381.0,Brazil,0
+Tokyo 2020,1.0,Uzbekistan,3,0,2,5,Tokyo ,2020,Japan,Uzbekistan,,,Japan,0
+Lillehammer 1994,0.0,Belarus,0,2,0,2,Lillehammer ,1994,Norway,Belarus,10239.0,7932.0,Norway,0
+Atlanta 1996,1.0,Belarus,1,6,8,15,Atlanta ,1996,United States,Belarus,10171.0,7128.35,United States,0
+Nagano 1998,0.0,Belarus,0,0,2,2,Nagano ,1998,Japan,Belarus,10092.0,8481.97,Japan,0
+Sydney 2000,1.0,Belarus,3,3,11,17,Sydney ,2000,Australia,Belarus,10034.0,9110.98,Australia,0
+Salt Lake City 2002,0.0,Belarus,0,0,1,1,Salt Lake City ,2002,United States,Belarus,9955.0,9870.31,United States,0
+Athens 2004,1.0,Belarus,2,5,6,13,Athens ,2004,Greece,Belarus,9856.0,11615.69,Greece,0
+Beijing 2008,1.0,Belarus,3,4,7,14,Beijing ,2008,China,Belarus,9713.0,16224.0,China,0
+Vancouver 2010,0.0,Belarus,1,1,1,3,Vancouver ,2010,Canada,Belarus,9681.0,17172.46,Canada,0
+London 2012,1.0,Belarus,2,5,3,10,London ,2012,United Kingdom,Belarus,9644.0,18251.0,United Kingdom,0
+Sochi 2014,0.0,Belarus,5,0,1,6,Sochi ,2014,Russia,Belarus,9609.0,18822.0,Russian Federation,0
+Rio 2016,1.0,Belarus,1,4,4,9,Rio ,2016,Brazil,Belarus,9571.0,17628.0,Brazil,0
+PyeongChang 2018,0.0,Belarus,2,1,0,3,PyeongChang ,2018,South Korea,Belarus,9528.0,18727.32,Republic of Korea,0
+Tokyo 2020,1.0,Belarus,1,3,3,7,Tokyo ,2020,Japan,Belarus,,,Japan,0
+Atlanta 1996,1.0,Czech Republic,4,3,4,11,Atlanta ,1996,United States,Czech Republic,10291.0,15386.32,United States,0
+Nagano 1998,0.0,Czech Republic,1,1,1,3,Nagano ,1998,Japan,Czech Republic,10271.0,15657.43,Japan,0
+Sydney 2000,1.0,Czech Republic,2,3,3,8,Sydney ,2000,Australia,Czech Republic,10231.0,17056.16,Australia,0
+Salt Lake City 2002,0.0,Czech Republic,1,2,0,3,Salt Lake City ,2002,United States,Czech Republic,10173.0,18431.03,United States,0
+Athens 2004,1.0,Czech Republic,1,3,5,9,Athens ,2004,Greece,Czech Republic,10174.0,20555.04,Greece,0
+Beijing 2008,1.0,Czech Republic,3,3,1,7,Beijing ,2008,China,Czech Republic,10361.0,26186.05,China,0
+Vancouver 2010,0.0,Czech Republic,2,0,4,6,Vancouver ,2010,Canada,Czech Republic,10450.0,25922.39,Canada,0
+London 2012,1.0,Czech Republic,4,3,4,11,London ,2012,United Kingdom,Czech Republic,10487.0,26474.0,United Kingdom,0
+Sochi 2014,0.0,Czech Republic,2,4,2,8,Sochi ,2014,Russia,Czech Republic,10501.0,27024.0,Russian Federation,0
+Rio 2016,1.0,Czech Republic,1,2,7,10,Rio ,2016,Brazil,Czech Republic,10542.0,28823.0,Brazil,0
+PyeongChang 2018,0.0,Czech Republic,2,2,3,7,PyeongChang ,2018,South Korea,Czech Republic,10605.0,30748.51,Republic of Korea,0
+Tokyo 2020,1.0,Czech Republic,4,4,3,11,Tokyo ,2020,Japan,Czech Republic,,,Japan,0
+Atlanta 1996,1.0,Serbia and Montenegro,1,1,2,4,Atlanta ,1996,United States,,,,United States,0
+Sydney 2000,1.0,Serbia and Montenegro,1,1,1,3,Sydney ,2000,Australia,,,,Australia,0
+Athens 2004,1.0,Serbia and Montenegro,0,2,0,2,Athens ,2004,Greece,,,,Greece,0
+Atlanta 1996,1.0,Slovakia,1,1,1,3,Atlanta ,1996,United States,Slovakia,5336.0,12622.91,United States,0
+Sydney 2000,1.0,Slovakia,1,3,1,5,Sydney ,2000,Australia,Slovakia,5352.0,13904.99,Australia,0
+Athens 2004,1.0,Slovakia,2,2,2,6,Athens ,2004,Greece,Slovakia,5335.0,16570.86,Greece,0
+Beijing 2008,1.0,Slovakia,3,3,0,6,Beijing ,2008,China,Slovakia,5342.0,22231.99,China,0
+Vancouver 2010,0.0,Slovakia,1,1,1,3,Vancouver ,2010,Canada,Slovakia,5354.0,21941.21,Canada,0
+London 2012,1.0,Slovakia,0,1,3,4,London ,2012,United Kingdom,Slovakia,5370.0,22816.0,United Kingdom,0
+Sochi 2014,0.0,Slovakia,1,0,0,1,Sochi ,2014,Russia,Slovakia,5381.0,23703.0,Russian Federation,0
+Rio 2016,1.0,Slovakia,2,2,0,4,Rio ,2016,Brazil,Slovakia,5393.0,25364.0,Brazil,0
+PyeongChang 2018,0.0,Slovakia,1,2,0,3,PyeongChang ,2018,South Korea,Slovakia,5409.0,27075.53,Republic of Korea,0
+Tokyo 2020,1.0,Slovakia,1,2,1,4,Tokyo ,2020,Japan,Slovakia,,,Japan,0
+Atlanta 1996,1.0,Armenia,1,1,0,2,Atlanta ,1996,United States,Armenia,2985.0,4811.49,United States,0
+Sydney 2000,1.0,Armenia,0,0,1,1,Sydney ,2000,Australia,Armenia,2966.0,5139.83,Australia,0
+Beijing 2008,1.0,Armenia,0,1,4,5,Beijing ,2008,China,Armenia,2943.0,10080.81,China,0
+London 2012,1.0,Armenia,0,1,1,2,London ,2012,United Kingdom,Armenia,2934.0,9077.0,United Kingdom,0
+Rio 2016,1.0,Armenia,1,3,0,4,Rio ,2016,Brazil,Armenia,2919.0,10080.0,Brazil,0
+Tokyo 2020,1.0,Armenia,0,2,2,4,Tokyo ,2020,Japan,Armenia,,,Japan,0
+Atlanta 1996,1.0,Burundi,1,0,0,1,Atlanta ,1996,United States,Burundi,5815.0,824.51,United States,0
+Rio 2016,1.0,Burundi,0,1,0,1,Rio ,2016,Brazil,Burundi,10721.0,665.0,Brazil,0
+Atlanta 1996,1.0,Ecuador,1,0,0,1,Atlanta ,1996,United States,Ecuador,11526.0,6993.64,United States,0
+Beijing 2008,1.0,Ecuador,0,1,0,1,Beijing ,2008,China,Ecuador,14354.0,9103.87,China,0
+Tokyo 2020,1.0,Ecuador,2,1,0,3,Tokyo ,2020,Japan,Ecuador,,,Japan,0
+Atlanta 1996,1.0,"Hong Kong, China",1,0,0,1,Atlanta ,1996,United States,,,,United States,0
+Athens 2004,1.0,"Hong Kong, China",0,1,0,1,Athens ,2004,Greece,,,,Greece,0
+London 2012,1.0,"Hong Kong, China",0,0,1,1,London ,2012,United Kingdom,,,,United Kingdom,0
+Tokyo 2020,1.0,"Hong Kong, China",1,2,3,6,Tokyo ,2020,Japan,,,,Japan,0
+Atlanta 1996,1.0,Republic of Moldova,0,1,1,2,Atlanta ,1996,United States,Republic of Moldova,4354.0,3305.5,United States,0
+Sydney 2000,1.0,Republic of Moldova,0,1,1,2,Sydney ,2000,Australia,Republic of Moldova,4199.0,2989.53,Australia,0
+Beijing 2008,1.0,Republic of Moldova,0,0,1,1,Beijing ,2008,China,Republic of Moldova,3829.0,4652.46,China,0
+Tokyo 2020,1.0,Republic of Moldova,0,0,1,1,Tokyo ,2020,Japan,Republic of Moldova,,,Japan,0
+Atlanta 1996,1.0,Tonga,0,1,0,1,Atlanta ,1996,United States,,,,United States,0
+Atlanta 1996,1.0,Azerbaijan,0,1,0,1,Atlanta ,1996,United States,Azerbaijan,7815.0,3074.22,United States,0
+Sydney 2000,1.0,Azerbaijan,2,0,1,3,Sydney ,2000,Australia,Azerbaijan,8127.0,4214.89,Australia,0
+Athens 2004,1.0,Azerbaijan,1,0,4,5,Athens ,2004,Greece,Azerbaijan,8391.0,5971.47,Greece,0
+Beijing 2008,1.0,Azerbaijan,1,1,4,6,Beijing ,2008,China,Azerbaijan,8750.0,14072.63,China,0
+London 2012,1.0,Azerbaijan,2,2,6,10,London ,2012,United Kingdom,Azerbaijan,9117.0,16359.0,United Kingdom,0
+Rio 2016,1.0,Azerbaijan,1,7,10,18,Rio ,2016,Brazil,Azerbaijan,9481.0,16645.0,Brazil,0
+Tokyo 2020,1.0,Azerbaijan,0,3,4,7,Tokyo ,2020,Japan,Azerbaijan,,,Japan,0
+Atlanta 1996,1.0,Georgia,0,0,2,2,Atlanta ,1996,United States,Georgia,4961.0,4030.88,United States,0
+Sydney 2000,1.0,Georgia,0,0,6,6,Sydney ,2000,Australia,Georgia,4814.0,4891.66,Australia,0
+Athens 2004,1.0,Georgia,2,2,0,4,Athens ,2004,Greece,Georgia,4739.0,6342.71,Greece,0
+Beijing 2008,1.0,Georgia,3,2,2,7,Beijing ,2008,China,Georgia,4819.0,8461.92,China,0
+London 2012,1.0,Georgia,1,2,3,6,London ,2012,United Kingdom,Georgia,4946.0,9491.0,United Kingdom,0
+Rio 2016,1.0,Georgia,2,1,4,7,Rio ,2016,Brazil,Georgia,4924.0,10899.0,Brazil,0
+Tokyo 2020,1.0,Georgia,2,5,1,8,Tokyo ,2020,Japan,Georgia,,,Japan,0
+Atlanta 1996,1.0,Mozambique,0,0,1,1,Atlanta ,1996,United States,Mozambique,15520.0,1325.6,United States,0
+Sydney 2000,1.0,Mozambique,1,0,0,1,Sydney ,2000,Australia,Mozambique,16841.0,1196.01,Australia,0
+Sydney 2000,1.0,Saudi Arabia,0,1,1,2,Sydney ,2000,Australia,Saudi Arabia,20444.0,23904.52,Australia,0
+London 2012,1.0,Saudi Arabia,0,0,1,1,London ,2012,United Kingdom,Saudi Arabia,28844.0,49867.0,United Kingdom,0
+Tokyo 2020,1.0,Saudi Arabia,0,1,0,1,Tokyo ,2020,Japan,Saudi Arabia,,,Japan,0
+Sydney 2000,1.0,Vietnam,0,1,0,1,Sydney ,2000,Australia,Viet Nam,79207.0,2773.1,Australia,0
+Beijing 2008,1.0,Vietnam,0,1,0,1,Beijing ,2008,China,Viet Nam,87590.0,4200.24,China,0
+Rio 2016,1.0,Vietnam,1,1,0,2,Rio ,2016,Brazil,Viet Nam,95296.0,6062.0,Brazil,0
+Sydney 2000,1.0,Kuwait,0,0,1,1,Sydney ,2000,Australia,Kuwait,2091.0,35844.75,Australia,0
+London 2012,1.0,Kuwait,0,0,1,1,London ,2012,United Kingdom,Kuwait,3423.0,78801.0,United Kingdom,0
+Tokyo 2020,1.0,Kuwait,0,0,1,1,Tokyo ,2020,Japan,Kuwait,,,Japan,0
+Sydney 2000,1.0,Barbados,0,0,1,1,Sydney ,2000,Australia,Barbados,274.0,12600.02,Australia,0
+Sydney 2000,1.0,Kyrgyzstan,0,0,1,1,Sydney ,2000,Australia,Kyrgyzstan,4826.0,3246.38,Australia,0
+Beijing 2008,1.0,Kyrgyzstan,0,1,2,3,Beijing ,2008,China,Kyrgyzstan,5180.0,4046.72,China,0
+Tokyo 2020,1.0,Kyrgyzstan,0,2,1,3,Tokyo ,2020,Japan,Kyrgyzstan,,,Japan,0
+Sydney 2000,1.0,North Macedonia,0,0,1,1,Sydney ,2000,Australia,TFYR of Macedonia,2017.0,,Australia,0
+Tokyo 2020,1.0,North Macedonia,0,1,0,1,Tokyo ,2020,Japan,TFYR of Macedonia,,,Japan,0
+Athens 2004,1.0,United Arab Emirates,1,0,0,1,Athens ,2004,Greece,United Arab Emirates,4064.0,64925.67,Greece,0
+Rio 2016,1.0,United Arab Emirates,0,0,1,1,Rio ,2016,Brazil,United Arab Emirates,9350.0,75876.0,Brazil,0
+Athens 2004,1.0,Paraguay,0,1,0,1,Athens ,2004,Greece,Paraguay,5889.0,5876.66,Greece,0
+Athens 2004,1.0,Eritrea,0,0,1,1,Athens ,2004,Greece,,,,Greece,0
+Beijing 2008,1.0,Serbia,0,1,2,3,Beijing ,2008,China,Serbia,7414.0,11650.23,China,0
+London 2012,1.0,Serbia,1,1,2,4,London ,2012,United Kingdom,Serbia,7277.0,12384.0,United Kingdom,0
+Rio 2016,1.0,Serbia,2,4,2,8,Rio ,2016,Brazil,Serbia,7144.0,13184.0,Brazil,0
+Tokyo 2020,1.0,Serbia,3,1,5,9,Tokyo ,2020,Japan,Serbia,,,Japan,0
+Beijing 2008,1.0,Tajikistan,0,1,1,2,Beijing ,2008,China,Tajikistan,7211.0,2801.78,China,0
+London 2012,1.0,Tajikistan,0,0,1,1,London ,2012,United Kingdom,Tajikistan,7768.0,3285.0,United Kingdom,0
+Rio 2016,1.0,Tajikistan,1,0,0,1,Rio ,2016,Brazil,Tajikistan,8330.0,3991.0,Brazil,0
+Beijing 2008,1.0,Sudan,0,1,0,1,Beijing ,2008,China,Sudan (Former),32137.0,,China,0
+Beijing 2008,1.0,Samoa,0,1,0,1,Beijing ,2008,China,,,,China,0
+Beijing 2008,1.0,Mauritius,0,0,1,1,Beijing ,2008,China,Mauritius,1274.0,15957.96,China,0
+Beijing 2008,1.0,Afghanistan,0,0,1,1,Beijing ,2008,China,Afghanistan,27706.0,1319.61,China,0
+London 2012,1.0,Afghanistan,0,0,1,1,London ,2012,United Kingdom,Afghanistan,30420.0,1945.0,United Kingdom,0
+Beijing 2008,1.0,Togo,0,0,1,1,Beijing ,2008,China,Togo,6220.0,1150.36,China,0
+London 2012,1.0,Grenada,1,0,0,1,London ,2012,United Kingdom,,,,United Kingdom,0
+Rio 2016,1.0,Grenada,0,1,0,1,Rio ,2016,Brazil,,,,Brazil,0
+Tokyo 2020,1.0,Grenada,0,0,1,1,Tokyo ,2020,Japan,,,,Japan,0
+London 2012,1.0,Bahrain,1,0,0,1,London ,2012,United Kingdom,Bahrain,1312.0,36949.0,United Kingdom,0
+Rio 2016,1.0,Bahrain,1,1,0,2,Rio ,2016,Brazil,Bahrain,1439.0,41078.0,Brazil,0
+Tokyo 2020,1.0,Bahrain,0,1,0,1,Tokyo ,2020,Japan,Bahrain,,,Japan,0
+London 2012,1.0,Botswana,0,1,0,1,London ,2012,United Kingdom,Botswana,2057.0,13743.0,United Kingdom,0
+Tokyo 2020,1.0,Botswana,0,0,1,1,Tokyo ,2020,Japan,Botswana,,,Japan,0
+London 2012,1.0,Guatemala,0,1,0,1,London ,2012,United Kingdom,Guatemala,15403.0,6714.0,United Kingdom,0
+London 2012,1.0,Montenegro,0,1,0,1,London ,2012,United Kingdom,Montenegro,622.0,15421.0,United Kingdom,0
+London 2012,1.0,Gabon,0,1,0,1,London ,2012,United Kingdom,Gabon,1714.0,16932.0,United Kingdom,0
+London 2012,1.0,Cyprus,0,1,0,1,London ,2012,United Kingdom,Cyprus,1015.0,26011.0,United Kingdom,0
+Rio 2016,1.0,Kosovo,1,0,0,1,Rio ,2016,Brazil,,,,Brazil,0
+Tokyo 2020,1.0,Kosovo,2,0,0,2,Tokyo ,2020,Japan,,,,Japan,0
+Rio 2016,1.0,Fiji,1,0,0,1,Rio ,2016,Brazil,,,,Brazil,0
+Tokyo 2020,1.0,Fiji,1,0,1,2,Tokyo ,2020,Japan,,,,Japan,0
+Rio 2016,1.0,Jordan,1,0,0,1,Rio ,2016,Brazil,Jordan,8740.0,11529.0,Brazil,0
+Tokyo 2020,1.0,Jordan,0,1,1,2,Tokyo ,2020,Japan,Jordan,,,Japan,0
+PyeongChang 2018,0.0,Olympic Athletes from Russia,2,6,9,17,PyeongChang ,2018,South Korea,Russian Federation,146476.0,24668.91,Republic of Korea,0
+Tokyo 2020,1.0,ROC,20,28,23,71,Tokyo ,2020,Japan,Russian Federation,,,Japan,0
+Tokyo 2020,1.0,San Marino,0,1,2,3,Tokyo ,2020,Japan,,,,Japan,0
+Tokyo 2020,1.0,Turkmenistan,0,1,0,1,Tokyo ,2020,Japan,Turkmenistan,,,Japan,0
+Tokyo 2020,1.0,Burkina Faso,0,0,1,1,Tokyo ,2020,Japan,Burkina Faso,,,Japan,0
