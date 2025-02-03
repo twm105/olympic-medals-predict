@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings and extensions
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environment files
+env/
+.venv/
+
+# Logs and temporary files
+*.log
