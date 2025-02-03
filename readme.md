@@ -3,7 +3,7 @@
 <img src="images/olympic-podium-wide1.jpg" alt="Predicting Olympic Medals" width=800>
 
 ## Project Overview
-Is it possible to predict the medals table for an Olympic Games using machine learning? Can this be done using only publically-available information? This project uses traditional ML to train a model on historical Olympic data retrieved from the web, with a focus on XGBoost. This focused on summer olypmic Games but some data was collected on Winter Games too.
+Is it possible to predict the medals table for an Olympic Games using machine learning? Can this be done using only publically-available information? This project uses traditional ML to train a model on historical Olympic data retrieved from the web, with a focus on XGBoost. This focused on summer Olypmic Games but some data was collected on Winter Games too.
 
 ## Motivation & Problem Statement
 - A key motivation for this project was learning classic ML (e.g. scikit-learn), with a deeper dive into XGBoost specifically.
@@ -114,7 +114,7 @@ Other models were experimented with, and extensive hyperparameter sensitivity an
 ### Preparing the data: selecting features and dropping NAs
 As proposed above, the following features were used for modelling:
 - **Population from 20 years before.** The hypothesis being this is approx median age that olympians qualify for the Games.
-- **GDP per capita from 4 years before.** While it likely takes longer than 4 years to make an olympian, funding cycles for sports and athletes are every olympics.
+- **GDP per capita from 4 years before.** While it likely takes longer than 4 years to make an olympian, funding cycles for sports and athletes are every Olympics.
 - **Host nation.** There is an objective home advantage for hosting (easier qualification, choosing favourite sports, practicing at actual venues etc).
 - **Medals per team.** While this doesn't fluctuate massively, it normalises the scarecity of medals for the model so is kept.
 
