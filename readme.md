@@ -5,20 +5,23 @@
 ## Project Overview
 Is it possible use machine learning to predict the medals table for an Olympic Games? Can this be done using only publicly-available information? This project explores this question using traditional ML to train a model on historical Olympic data combined socioeconomic data retrieved from the web, with a focus on XGBoost. This analysis focuses on the summer Olypmic Games, but some data was collected on winter Games too which could be investigated in the future.
 
-## Motivation & Problem Statement
-- A key motivation for this project was learning classic ML (e.g. scikit-learn), with a deeper dive into XGBoost specifically.
+## Motivation and Problem Statement
 - A personal interest in sport and the Olympics sparked the question of whether structured data could be gathered and used to train a ML model for future predictions.
-- This would also hopefully generate insights into what the most important macro-features that drove predictions were.
+- It was also hoped the project would generate insights into what the most important factors that drove predictions were.
 - Some hypotheses included:
     - Larger populations have a bigger talent pool to draw from
     - Richer countries can afford to spend more on performance programmes
     - There are certain advantages for competing in a home Games, such as increased qualification spots, familiarity with venues, and home-crowd support
+- A key motivation for this project was learning classic ML (e.g. scikit-learn), with a deeper dive into XGBoost specifically.
 - This project was developed around 2021 Tokyo Games and revisted ahead of Paris 2024.
 
-## Data Collection & Processing
-As ever data collection was not trivial as hoped! Everything online at the time wasn't clean or at the correct level of detail, complete, or clean enough for simple joins to other datasets.
+## Data Collection and Processing
+As ever, data collection was not as trivial as was hoped! All data available online at the time of collection had issues. It wasn't:
+- clean or complete
+- at the required level of detail,
+- consistently labelled for simple joins to other datasets.
 
-### Data spec
+### Data Specification
 > _For every Olympic Games, for every country at each Olympic Games, how many medals were won? (total, gold, silver, bronze) Include data on population, GDP per capita, and derive other relevant features_
 
 Note: GDP per capita was used to avoid colinearity with population from using pure GDP
@@ -72,7 +75,7 @@ Code: [olympics_feature_engineering.ipynb](olympics_feature_engineering.ipynb)\
 Data: [olympics_summer_features.csv](olympics_summer_features.csv)
 
 ## Exploratory Data Analysis (EDA)
-### Raw feature completeness
+### Raw Feature Completeness
 We require all features to be present for the modelling step. The heatmap below visualises gaps in the data.
 - c.1.25% of country codes missing
 - There is missing population and GDP per capita data (gaps and source data not going far back enough or for all countries)
@@ -82,21 +85,21 @@ We require all features to be present for the modelling step. The heatmap below 
 
 Figure 3: heatmap showing gaps in the engineered features.
 
-### Medals per country: the US is the dominant Olympic nation
+### Medals per Country: The USA has been the Dominant Olympic Nation
 Some countries have dominated the Olympics historically. This is to be expected that the biggest and richest countries would dominate: the USA has been the main global superpower over the history of the Olympics, with Russia and China emerging as sporting superpowers in their own right.
 
 <img src="images/eda-tot-medals-per-country.png" alt="Medals per country" width=500>
 
 Figure 4: nations winning the most cumulative medals since 1988.
 
-### Correlations between features and medal-totals
+### Correlations Between Features and Target Variable (Total Medals)
 It is expected that there will be non-linear correlations in the dataset. However, the following correlation table shows that there is predictive signal in the data against key features.
 
 <img src="images/eda-features-corr.png" alt="Feature target correlations" width=300>
 
 Figure 5: correlations between baseline (not final) features and the target variable.
 
-### Increasing Population and GDP per capita seems to increase medals won
+### Increasing Population and GDP per Capita Seems to Increase Total Medals
 As hypothesised, it does seem that these features will provide predictive power, though there are other factors at play.
 
 The plot below shows a three countries, their respective population and GDP per capita growth, and the effect on medals. While the medal totals are not as smooth as the socioeconomic features, there is a clear pick-up in medals for all nations, most starkly China. The UK started more heavily investing in the Olympics around the turn of the century, which clearly paid dividends in medal totals (but isn't necessarily represented in the data).
@@ -109,7 +112,7 @@ Further to this, there were boycotts in Moscow 1980 and Los Angeles 1984 by the 
 
 Figure 6: population, GDP per capita, medal totals for the USA, GBR and China.
 
-### The home advantage: countries win more medals when they host than in other years
+### The Home Advantage: Countries Win More Medals When They Host the Games
 Host nations win more medals vs years when they are not hosting.
 - Hosts can select events to be included in their Games, and they tend to popular national sports.
 - Host nations auto-qualify for team sports.
@@ -127,7 +130,7 @@ Hosts tend to place towards the top of the medals table in general. This is like
 
 Figure 8: scatter plot of medal results per year, highlighting host nation results.
 
-### The Olympics has grown over the years
+### The Olympics Has Grown Over the Years
 The Olympics has become a bigger and bigger event over the years. The number of events has roughly kept pace with the number of teams competing, though not perfectly, meaning the numbers of medals per team does fluctuate (i.e. medals are more scarce some years than others).
 
 As noted earlier, the number of teams dipped significantly in the early 1980s, where USSR and USA hosted the Games. This led to boycotts during the Cold War, and therefore increases in medals available per team. This could be the reason for the rise in Team GB medals over this period, seen in Figure 7. Great Britain are the only nation to attend all Olympic Games in history.
@@ -140,12 +143,12 @@ Figure 9: plot showing total events (medals available) and number of teams compe
 
 Code: [olympics_eda.ipynb](olympics_eda.ipynb)
 
-## Model Selection & Performance
+## Model Selection and Performance
 XGBoost was chosen as the model as it's known to be a powerful predictor for regression and classification on structured data. It is expected that non-linear effects would be significant, and XGBoost is powerful at inferring non-linear patterns. This also means care must be taken to overfit, though the small number of features vs the training data size helps to mitigate that, as well as model tuning.
 
 Other models were experimented with, and extensive hyperparameter sensitivity analysis was done to understand how they work. This work has not been included here for brevity but can be seen in [olympics_model_experiment.ipynb](modelling/olympics_model_experiment.ipynb).
 
-### Preparing the data: selecting features and dropping NAs
+### Preparing the Data: Selecting Features and Dropping NAs
 The following features were used for modelling:
 - **Population from 20 years before.** The hypothesis being this is approx median age that Olympians qualify for the Games.
 - **GDP per capita from 4 years before.** While it likely takes longer than 4 years to make an Olympian, funding cycles for sports and athletes are every Olympics.
@@ -160,7 +163,7 @@ The data has 1754 total records at this stage.
 
 Figure 10: heatmap showing NAs in selected features, and the resulting data once NAs had been dropped.
 
-### Modelling setup: metric and train-test split
+### Modelling Setup: Metric Selection and Train-Test Split
 
 **Negative Root Mean Squared Error (-RMSE)** was used as the training metric. This was chosen as it penalises larger errors more heavily. MAE could be trialled for comparison in the future.
 
@@ -168,14 +171,14 @@ Figure 10: heatmap showing NAs in selected features, and the resulting data once
 
 **Train-Test-Split** was set at 75:25. c.1400 records means that >1000 were available for the training set. This was deemed plenty for a simple four-feature model (c.250 records per feature). Sensitivity to reduce training split could be assessed to consider if this is in fact the case. The model did slightly overfit in the optimised training, but not to an unacceptable level.
 
-### Model spot-check with default values
+### Model Spot-Check with Default Hyperparameters
 Before optimising the hyperparameters, the model was trained with its default values on the train-test split. As can be seen below it massively overfit! Tuning is essential.
 
 <img src="images/mod-untuned-perf.png" alt="Untuned performance" width=500>
 
 Figure 11: default XGBoost model overfitting the training data, prior to tuning.
 
-### Hyperparameter tuning with Baysian CV search
+### Hyperparameter Tuning with Baysian CV Search
 BayesianCV was used from the scikit-optimize library to help tune the parameters in a more sophisticated way vs manual trial and error or grid-search. This technique fits a gaussian approximation to the observed predictions, and then optimises based on this approximated surface. Performance was acceptable for this work, though comparison with a fine grid search could be an interesting future experiment. The accuracy of the optimisation is dependent on the closeness of the fit of the gaussian surface, and it seemed like it may not have always produced consistent results (i.e. a small variation in search constraints led to a significantly different optimum setup).
 
 The **optimisation search space** was defined as follows:
@@ -198,7 +201,7 @@ The optimiser converged after 71 iterations. The loss didn't reduce a huge amoun
 
 Figure 12: model performance on the train and test data post-tuning.
 
-### Feature Importance: Population then GDP per Capita are most Predictive
+### Feature Importance: Population and GDP Per Capita are Most Predictive
 Permutation feature importance was performed to understand which features have the largest predictive power for the model. This works by training models and randomising one feature at a time (with repeats). The most important features impact the model metric the most when perturbed. While this isn't a perfect science due to non-linearity effects (vs the explainability of linear model weights), it does provide some insight.
 
 Here we can see that Population and GDP per capita seem to provide the most predictive power. This follows the initial intuitions. Interestingly home-advantage shows no real predictive power in this analysis. Based on inspection of the data (showing medal spikes for hosts) this may be a flaw in the tuned model, or it could be lost in the model's non-linearities. Medals per team also shows no predictive power.
@@ -225,7 +228,7 @@ Figure 14: sample of true results vs predictions by the tuned model.
 Code: [olympics_medals_xgb.ipynb](modelling/olympics_medals_xgb.ipynb)\
 Data: [olympics_summer_features.csv](data-eda/olympics_summer_features.csv)
 
-## Key Findings & Takeaways
+## Key Findings and Takeaways
 The project has served its purpose in providing some insights into some factors that drive medal counts at the Olympic Games, while also being a learning exercise on scikit-learn, XG Boost and other associated packages.
 
 Some key conclusions include:
@@ -239,7 +242,7 @@ Some key conclusions include:
     - New Zealand and the UK are examples that seem to overperform. Anecdotally, the UK invested heavily in Olympic sport around the turn of the century with the introduction of lottery funding, which could explain this pattern.
     - Saudi Arabia is an example that seems to underperform given its wealth. There doesn't seem to be a culture of Olympic sport in KSA.
 
-## Next Steps & AI Safety Considerations
+## Next Steps and AI Safety Considerations
 This Project was intended to be a brief learning exercise, and has already taken longer than planned! As ever there are some further steps that could be taken on if time and priorities allowed:
 - **Run predictions on Paris 2024 results:** I did do a spot prediciton for Team GB ahead of the Paris Games, with quite accurate results. A full set of the latest features could be downloaded and assessed for accuracy a few years on.
 - **Further experimentation with alternate model architectures:** other classic ML models could be more rigorously experimented with. This could be extended to deep learning.
