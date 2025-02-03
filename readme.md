@@ -7,16 +7,16 @@ Is it possible to predict the medals table for an Olympic Games using machine le
 
 ## Motivation & Problem Statement
 - A key motivation for this project was learning classic ML (e.g. scikit-learn), with a deeper dive into XGBoost specifically.
-- A personal interest in sport and the Olympics let to the question of whether structured data could be gathered and used to train a ML model for future predictions.
+- A personal interest in sport and the Olympics led to the question of whether structured data could be gathered and used to train a ML model for future predictions.
 - This would also hopefully generate insights into what the most important macro-features that drove predictions were.
 - Some hypotheses included:
     - Larger populations have a bigger talent pool to draw from
     - Richer countries can afford to spend more on performance programmes
     - There are certain advantages for competing in a home Games, such as increased qualification spots, familiarity with venues, and home-crowd support
-- This was developed around 2021 Tokyo Games and revisted ahead of Paris 2024.
+- This project was developed around 2021 Tokyo Games and revisted ahead of Paris 2024.
 
 ## Data Collection & Processing
-As ever this was not trivial as hoped. Everything online at the time wasn't clean or at the correct level of detail, complete, or clean enough for simple joins to other datasets.
+As ever data collection was not trivial as hoped! Everything online at the time wasn't clean or at the correct level of detail, complete, or clean enough for simple joins to other datasets.
 
 ### Data spec
 > _For every Olympic Games, for every country at each Olympic Games, how many medals were won (total, gold, silver, bronze). Include data on population, GDP per Capita, and derive other relevant features_
@@ -27,7 +27,7 @@ Note: GDP per capita was used to avoid colinearity with population from using pu
 1. Get medals data, e.g. [olympics.com medal results](https://www.olympics.com/en/olympic-games/london-2012/medals).
     - This was only medals >0. Countries with zero medals were also required.
 2. Get all participant countries represented at each Games from [Wikipedia](https://en.wikipedia.org/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games).
-    - Note that the format of the key table here was a PAIN to extract then transform. Attendance as dots, countries changing names/merging etc--see below!
+    - Note that the format of the key table here was a _PAIN_ to extract then transform. Attendance as dots, countries changing names/merging etc--see below!
 
     <img alt="Wiki Olympic participants snapshot" src="images/wiki-oly-table-screenshot.png" width=500>
 
@@ -195,6 +195,7 @@ Some key conclusions include:
 
 ## Next Steps & AI Safety Considerations
 This Project was intended to be a brief learning exercise, and has already taken longer than planned! As ever there are some further steps that could be taken on if time and priorities allowed:
+- **Run predictions on Paris 2024 results:** I did do a spot prediciton for Team GB ahead of the Paris Games, with quite accurate results. A full set of the latest features could be downloaded and assessed for accuracy a few years on.
 - **Further experimentation with alternate model architectures:** other classic ML models could be more rigorously experimented with. This could be extended to deep learning.
 - **Further feature engineering:** some ideas include:
     - Does concentration of competition play a role? E.g. in Europe where there are many other competitive nations nearby to foster competition.
